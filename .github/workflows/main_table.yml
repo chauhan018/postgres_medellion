@@ -38,5 +38,5 @@ jobs:
         working-directory: dbt_project
 
       - name: Run model
-        run: dbt run --select main_table
+        run: dbt run --select my_first_dbt_model
         working-directory: dbt_project
