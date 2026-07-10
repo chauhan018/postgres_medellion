@@ -33,11 +33,11 @@ jobs:
             outputs:
               dev:
                 type: postgres
-                host: ${{ secrets.DBT_HOST }}
-                user: ${{ secrets.DBT_USER }}
-                password: ${{ secrets.DBT_PASSWORD }}
-                port: ${{ secrets.DBT_PORT }}
-                dbname: ${{ secrets.DBT_DBNAME }}
+                host: ${{ secrets.DB_HOST }}
+                user: ${{ secrets.DB_USER }}
+                password: ${{ secrets.DB_PASSWORD }}
+                port: ${{ secrets.DB_PORT }}
+                dbname: ${{ secrets.DB_NAME }}
                 schema: raw
                 threads: 1
           EOF
