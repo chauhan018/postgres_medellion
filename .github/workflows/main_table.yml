@@ -2,15 +2,20 @@ name: Run dbt - main_model
 
 on:
   schedule:
-    - cron: "15 6 * * *"   # runs daily at 06:00 UTC — adjust as needed
-  workflow_dispatch: {}   # allows manual trigger
+    - cron: "15 6 * * *"   # runs daily at 06:15 UTC — adjust as needed
+  workflow_dispatch: {}    # allows manual trigger
 
 jobs:
   dbt-run:
     runs-on: ubuntu-latest
 
     env:
-      DBT_PROFILES_DIR: ./  # profiles.yml will be generated in the repo root during the job
+      DBT_PROFILES_DIR: ./   # resolved relative to working-directory (dbt_project), where profiles.yml is committed
+      DB_HOST: ${{ secrets.DB_HOST }}
+      DB_USER: ${{ secrets.DB_USER }}
+      DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+      DB_PORT: ${{ secrets.DB_PORT }}
+      DB_NAME: ${{ secrets.DB_NAME }}
 
     steps:
       - name: Checkout repository
@@ -24,24 +29,6 @@ jobs:
       - name: Install dbt-postgres
         run: pip install dbt-postgres
 
-      - name: Create profiles.yml
-        run: |
-          mkdir -p ~/.dbt
-          cat <<EOF > ~/.dbt/profiles.yml
-          dbt_project:
-            target: dev
-            outputs:
-              dev:
-                type: postgres
-                host: ${{ secrets.DB_HOST }}
-                user: ${{ secrets.DB_USER }}
-                password: ${{ secrets.DB_PASSWORD }}
-                port: ${{ secrets.DB_PORT }}
-                dbname: ${{ secrets.DB_NAME }}
-                schema: raw
-                threads: 1
-          EOF
-
       - name: Install dbt packages (if any)
         run: dbt deps
         working-directory: dbt_project
@@ -50,6 +37,6 @@ jobs:
         run: dbt debug
         working-directory: dbt_project
 
-      - name: Run first model
+      - name: Run model
         run: dbt run --select main_table
         working-directory: dbt_project
