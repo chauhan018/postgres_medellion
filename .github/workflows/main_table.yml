@@ -38,8 +38,8 @@ jobs:
                 password: ${{ secrets.DBT_PASSWORD }}
                 port: ${{ secrets.DBT_PORT }}
                 dbname: ${{ secrets.DBT_DBNAME }}
-                schema: dbt_dev
-                threads: 4
+                schema: raw
+                threads: 1
           EOF
 
       - name: Install dbt packages (if any)
