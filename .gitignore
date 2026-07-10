@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# dbt
+dbt_packages/
+logs/
+target/
+.dbt/
+
+# OS/editor junk
+.DS_Store
+.vscode/
