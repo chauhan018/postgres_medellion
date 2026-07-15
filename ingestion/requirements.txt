@@ -1,0 +1,7 @@
+os
+json
+requests
+psycopg2
+datetime
+dotenv 
+pandas
