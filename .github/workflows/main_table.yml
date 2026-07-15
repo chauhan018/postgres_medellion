@@ -1,0 +1,42 @@
+name: Run dbt - main_model
+
+on:
+  schedule:
+    - cron: "15 6 * * *"   # runs daily at 06:15 UTC — adjust as needed
+  workflow_dispatch: {}    # allows manual trigger
+
+jobs:
+  dbt-run:
+    runs-on: ubuntu-latest
+
+    env:
+      DBT_PROFILES_DIR: ./   # resolved relative to working-directory (dbt_project), where profiles.yml is committed
+      DB_HOST: ${{ secrets.DB_HOST }}
+      DB_USER: ${{ secrets.DB_USER }}
+      DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+      DB_PORT: ${{ secrets.DB_PORT }}
+      DB_NAME: ${{ secrets.DB_NAME }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dbt-postgres
+        run: pip install dbt-postgres
+
+      - name: Install dbt packages (if any)
+        run: dbt deps
+        working-directory: dbt_project
+
+      - name: Debug connection
+        run: dbt debug
+        working-directory: dbt_project
+
+      - name: Run model
+        run: dbt run --select my_first_dbt_model
+        working-directory: dbt_project
