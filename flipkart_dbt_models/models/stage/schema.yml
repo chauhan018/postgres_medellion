@@ -41,3 +41,91 @@ models:
         data_type: varchar(36)
       - name: batch_id
         data_type: varchar(36)
+
+  - name: contact_stg
+    config:
+      contract:
+        enforced: true
+    columns:
+      - name: contact_id
+        data_type: varchar(36)
+        constraints:
+          - type: not_null
+          - type: primary_key
+      - name: customer_id
+        data_type: varchar(36)
+        constraints:
+          - type: not_null
+      - name: email
+        data_type: varchar(100)
+      - name: phone
+        data_type: varchar(15)
+      - name: contact_type
+        data_type: varchar(20)
+      - name: is_verified
+        data_type: boolean
+      - name: source_system
+        data_type: varchar(50)
+      - name: dq_flag
+        data_type: varchar(20)
+      - name: dw_created_date
+        data_type: timestamp
+      - name: dw_modified_date
+        data_type: timestamp
+      - name: dw_created_by
+        data_type: varchar(100)
+      - name: dw_modified_by
+        data_type: varchar(100)
+      - name: run_id
+        data_type: varchar(36)
+      - name: batch_id
+        data_type: varchar(36)
+
+  - name: address_stg
+    config:
+      contract:
+        enforced: true
+    columns:
+      - name: address_id
+        data_type: varchar(36)
+        constraints:
+          - type: not_null
+          - type: primary_key
+      - name: customer_id
+        data_type: varchar(36)
+        constraints:
+          - type: not_null
+      - name: contact_id
+        data_type: varchar(36)
+      - name: address_type
+        data_type: varchar(20)
+      - name: address_line1
+        data_type: varchar(200)
+      - name: address_line2
+        data_type: varchar(200)
+      - name: city
+        data_type: varchar(100)
+      - name: state
+        data_type: varchar(100)
+      - name: country
+        data_type: varchar(100)
+      - name: postal_code
+        data_type: varchar(20)
+      - name: is_default
+        data_type: boolean
+      - name: source_system
+        data_type: varchar(50)
+      - name: dq_flag
+        data_type: varchar(20)
+      - name: dw_created_date
+        data_type: timestamp
+      - name: dw_modified_date
+        data_type: timestamp
+      - name: dw_created_by
+        data_type: varchar(100)
+      - name: dw_modified_by
+        data_type: varchar(100)
+      - name: run_id
+        data_type: varchar(36)
+      - name: batch_id
+        data_type: varchar(36)
