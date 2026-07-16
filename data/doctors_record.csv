@@ -1,0 +1,521 @@
+doctor_id,first_name,last_name,specialization,license_number,department,years_experience,phone,email,consultation_fee
+DOC0001,Samantha,Jackson,Dermatologist,LIC-810189,ENT,1,555-3316,samantha.jackson16@hospitaldocs.com,64.62
+DOC0002,Pamela,Kim,Urologist,LIC-663244,Ophthalmology,6,555-5992,pamela.kim27@hospitaldocs.com,311.9
+DOC0003,Raymond,Hall,Emergency Medicine Specialist,LIC-532699,Endocrinology,10,555-3637,raymond.hall24@hospitaldocs.com,127.28
+DOC0004,Steven,Harris,Pediatrician,LIC-290167,Anesthesiology,4,555-9992,steven.harris60@hospitaldocs.com,275.64
+DOC0005,Elizabeth,Nguyen,Orthopedic Surgeon,LIC-362865,Pediatrics,13,555-8982,elizabeth.nguyen43@hospitaldocs.com,175
+DOC0006,Christine,Walker,Pediatrician,LIC-398987,ICU,5,555-4170,christine.walker41@hospitaldocs.com,220.05
+DOC0007,Kevin,Ward,Dermatologist,LIC-827143,Anesthesiology,10,555-6971,kevin.ward41@hospitaldocs.com,385.53
+DOC0008,Nancy,Smith,Psychiatrist,LIC-358133,General Surgery,28,555-5533,nancy.smith47@hospitaldocs.com,97.01
+DOC0009,Janet,Nelson,Nephrologist,LIC-585331,Pulmonology,23,555-6004,janet.nelson63@hospitaldocs.com,243.09
+DOC0010,Daniel,Cox,Orthopedic Surgeon,LIC-982683,Gynecology,9,555-9824,daniel.cox26@hospitaldocs.com,142.13
+DOC0011,Benjamin,Martinez,Orthopedic Surgeon,LIC-119535,Endocrinology,2,555-7637,benjamin.martinez99@hospitaldocs.com,256.51
+DOC0012,Robert,Peterson,Gynecologist,LIC-669868,Ophthalmology,31,555-3435,robert.peterson47@hospitaldocs.com,187.37
+DOC0013,Jerry,Ramos,Dermatologist,LIC-240384,Pulmonology,33,555-9362,jerry.ramos12@hospitaldocs.com,188.87
+DOC0014,Nicholas,Johnson,General Surgeon,LIC-989173,ICU,11,555-9423,nicholas.johnson18@hospitaldocs.com,206.18
+DOC0015,Daniel,Reed,Anesthesiologist,LIC-791444,Oncology,31,555-6878,daniel.reed6@hospitaldocs.com,126.59
+DOC0016,Gary,Robinson,Orthopedic Surgeon,LIC-377198,ENT,15,555-1701,gary.robinson86@hospitaldocs.com,122.37
+DOC0017,George,Roberts,Nephrologist,LIC-576728,Neurology,3,555-6309,george.roberts14@hospitaldocs.com,296.31
+DOC0018,Eric,Scott,Gynecologist,LIC-706739,Ophthalmology,12,555-7171,eric.scott84@hospitaldocs.com,182.48
+DOC0019,Emma,Martinez,Endocrinologist,LIC-363807,Urology,15,555-9460,emma.martinez52@hospitaldocs.com,173.51
+DOC0020,Brian,Morales,Nephrologist,LIC-733561,Cardiology,33,555-3276,brian.morales57@hospitaldocs.com,107.96
+DOC0021,Elizabeth,Rogers,Gynecologist,LIC-321791,Oncology,12,555-3578,elizabeth.rogers47@hospitaldocs.com,260.71
+DOC0022,Jessica,Robinson,Gastroenterologist,LIC-950576,Psychiatry,8,555-8889,jessica.robinson87@hospitaldocs.com,217.59
+DOC0023,Anthony,Ramos,Radiologist,LIC-778700,Gastroenterology,2,555-4992,anthony.ramos6@hospitaldocs.com,94.76
+DOC0024,Emma,Lee,Oncologist,LIC-760120,Endocrinology,3,555-3406,emma.lee8@hospitaldocs.com,108.22
+DOC0025,Lisa,Gutierrez,Urologist,LIC-728471,Anesthesiology,2,555-5644,lisa.gutierrez11@hospitaldocs.com,125.81
+DOC0026,Nicole,Stewart,Nephrologist,LIC-278852,General Surgery,27,555-3338,nicole.stewart75@hospitaldocs.com,337.16
+DOC0027,Lisa,Richardson,Endocrinologist,LIC-377370,Radiology,22,555-8429,lisa.richardson77@hospitaldocs.com,256.71
+DOC0028,Sandra,Carter,Urologist,LIC-238635,Pediatrics,2,555-4315,sandra.carter67@hospitaldocs.com,350.86
+DOC0029,Nicholas,Turner,Oncologist,LIC-734924,Pediatrics,12,555-8796,nicholas.turner79@hospitaldocs.com,259.93
+DOC0030,Jonathan,Cook,Pediatrician,LIC-197716,Nephrology,9,555-9835,jonathan.cook1@hospitaldocs.com,363.94
+DOC0031,Diane,Parker,Endocrinologist,LIC-541119,ENT,3,555-9680,diane.parker55@hospitaldocs.com,130.32
+DOC0032,Kathleen,Carter,ENT Specialist,LIC-717661,Anesthesiology,7,555-7971,kathleen.carter18@hospitaldocs.com,139.08
+DOC0033,Jerry,Robinson,Orthopedic Surgeon,LIC-397026,ICU,35,555-7695,jerry.robinson33@hospitaldocs.com,116.16
+DOC0034,Patrick,Smith,Anesthesiologist,LIC-647923,Pediatrics,34,555-1117,patrick.smith49@hospitaldocs.com,279.09
+DOC0035,Frank,Green,Gastroenterologist,LIC-479867,Pediatrics,10,555-7980,frank.green84@hospitaldocs.com,254.88
+DOC0036,Kimberly,Morgan,Gastroenterologist,LIC-692099,ENT,18,555-7511,kimberly.morgan97@hospitaldocs.com,121.29
+DOC0037,Stephen,Bailey,Nephrologist,LIC-287401,ENT,31,555-5157,stephen.bailey40@hospitaldocs.com,252.18
+DOC0038,Diane,Gomez,Oncologist,LIC-996531,Pediatrics,15,555-8317,diane.gomez90@hospitaldocs.com,382.24
+DOC0039,Richard,Ramirez,Endocrinologist,LIC-520018,Psychiatry,4,555-3633,richard.ramirez50@hospitaldocs.com,387.6
+DOC0040,James,Lopez,Oncologist,LIC-594580,ICU,28,555-2444,james.lopez9@hospitaldocs.com,142.08
+DOC0041,Melissa,Hernandez,Intensivist,LIC-139589,Urology,26,555-9536,melissa.hernandez37@hospitaldocs.com,299.06
+DOC0042,Scott,Davis,Radiologist,LIC-771394,Nephrology,29,555-1175,scott.davis26@hospitaldocs.com,347.7
+DOC0043,Eric,Torres,Emergency Medicine Specialist,LIC-135241,ICU,33,555-9451,eric.torres90@hospitaldocs.com,131.08
+DOC0044,Nancy,Jones,ENT Specialist,LIC-350878,Cardiology,11,555-2422,nancy.jones36@hospitaldocs.com,322.89
+DOC0045,Amanda,Gomez,Urologist,LIC-714549,Emergency,34,555-1251,amanda.gomez95@hospitaldocs.com,296.27
+DOC0046,Barbara,Peterson,Dermatologist,LIC-861411,Ophthalmology,23,555-6693,barbara.peterson36@hospitaldocs.com,129.2
+DOC0047,Matthew,Collins,Urologist,LIC-702833,Cardiology,17,555-3867,matthew.collins53@hospitaldocs.com,227.18
+DOC0048,Brenda,Martinez,Endocrinologist,LIC-408545,Psychiatry,8,555-9409,brenda.martinez33@hospitaldocs.com,356.64
+DOC0049,Pamela,Allen,Pulmonologist,LIC-495397,Anesthesiology,31,555-4985,pamela.allen97@hospitaldocs.com,168.88
+DOC0050,Diane,Collins,Pulmonologist,LIC-715332,Cardiology,31,555-2904,diane.collins34@hospitaldocs.com,73.64
+DOC0051,Samantha,Lewis,General Surgeon,LIC-939030,Psychiatry,27,555-6785,samantha.lewis67@hospitaldocs.com,237.48
+DOC0052,Rachel,King,General Surgeon,LIC-401244,Orthopedics,26,555-6603,rachel.king10@hospitaldocs.com,244.09
+DOC0053,Daniel,Stewart,Psychiatrist,LIC-470711,Emergency,18,555-3994,daniel.stewart96@hospitaldocs.com,289.09
+DOC0054,Matthew,Murphy,Emergency Medicine Specialist,LIC-346269,General Surgery,17,555-4387,matthew.murphy30@hospitaldocs.com,120.97
+DOC0055,Ashley,Richardson,ENT Specialist,LIC-263573,Pediatrics,8,555-2285,ashley.richardson87@hospitaldocs.com,384.52
+DOC0056,Amy,Ward,Cardiologist,LIC-901368,Ophthalmology,3,555-8901,amy.ward48@hospitaldocs.com,267.23
+DOC0057,Amy,Kelly,Gynecologist,LIC-614646,Radiology,33,555-5591,amy.kelly51@hospitaldocs.com,127.73
+DOC0058,Pamela,Taylor,Neurologist,LIC-651273,Gastroenterology,31,555-9859,pamela.taylor5@hospitaldocs.com,225.87
+DOC0059,Ronald,Thompson,Pulmonologist,LIC-226215,Endocrinology,30,555-6171,ronald.thompson89@hospitaldocs.com,52.95
+DOC0060,Alexander,Clark,Urologist,LIC-709231,Pediatrics,21,555-6924,alexander.clark79@hospitaldocs.com,351.64
+DOC0061,Lisa,Peterson,Gynecologist,LIC-348658,Gynecology,31,555-6621,lisa.peterson47@hospitaldocs.com,114.37
+DOC0062,Jason,Clark,Gastroenterologist,LIC-834750,ENT,24,555-7563,jason.clark36@hospitaldocs.com,207.76
+DOC0063,Pamela,Taylor,Anesthesiologist,LIC-819335,General Surgery,7,555-5422,pamela.taylor31@hospitaldocs.com,244.37
+DOC0064,Edward,Sanchez,Oncologist,LIC-938900,Oncology,31,555-1159,edward.sanchez23@hospitaldocs.com,197.53
+DOC0065,Sarah,Gutierrez,Ophthalmologist,LIC-855562,Psychiatry,32,555-5915,sarah.gutierrez33@hospitaldocs.com,246.75
+DOC0066,Larry,Miller,Urologist,LIC-203782,Radiology,4,555-4530,larry.miller33@hospitaldocs.com,216.79
+DOC0067,Benjamin,Gonzalez,Pulmonologist,LIC-880762,Psychiatry,17,555-6914,benjamin.gonzalez47@hospitaldocs.com,246.12
+DOC0068,Steven,Hall,Cardiologist,LIC-531762,Pediatrics,23,555-4259,steven.hall74@hospitaldocs.com,251.56
+DOC0069,Katherine,Morgan,Radiologist,LIC-918213,Dermatology,23,555-6326,katherine.morgan87@hospitaldocs.com,228.66
+DOC0070,Diane,Edwards,Orthopedic Surgeon,LIC-499581,ICU,19,555-8598,diane.edwards81@hospitaldocs.com,384.81
+DOC0071,Nancy,Baker,Gastroenterologist,LIC-761938,ICU,26,555-2168,nancy.baker11@hospitaldocs.com,106.7
+DOC0072,Sandra,Green,Psychiatrist,LIC-784733,Dermatology,18,555-7479,sandra.green35@hospitaldocs.com,360.69
+DOC0073,Diane,Campbell,Anesthesiologist,LIC-646240,Pulmonology,27,555-3741,diane.campbell24@hospitaldocs.com,348.97
+DOC0074,Thomas,Walker,Gynecologist,LIC-880009,Orthopedics,14,555-3734,thomas.walker51@hospitaldocs.com,86.05
+DOC0075,William,Stewart,Ophthalmologist,LIC-156440,Cardiology,26,555-9584,william.stewart98@hospitaldocs.com,398.6
+DOC0076,Susan,King,Intensivist,LIC-262816,Orthopedics,25,555-6068,susan.king30@hospitaldocs.com,136.59
+DOC0077,Andrew,Cruz,Oncologist,LIC-237654,Endocrinology,11,555-1468,andrew.cruz5@hospitaldocs.com,282.24
+DOC0078,Dorothy,Stewart,Pulmonologist,LIC-666843,Gynecology,29,555-3213,dorothy.stewart90@hospitaldocs.com,238.75
+DOC0079,Emma,Kim,Pulmonologist,LIC-761701,Anesthesiology,28,555-9576,emma.kim82@hospitaldocs.com,273.83
+DOC0080,Michelle,Hall,Nephrologist,LIC-665883,General Surgery,6,555-8239,michelle.hall40@hospitaldocs.com,178.02
+DOC0081,Kimberly,Martin,Dermatologist,LIC-111068,Cardiology,34,555-3233,kimberly.martin45@hospitaldocs.com,150.37
+DOC0082,Jonathan,Johnson,Nephrologist,LIC-892170,Nephrology,20,555-1149,jonathan.johnson99@hospitaldocs.com,200.65
+DOC0083,Donna,Kim,General Surgeon,LIC-935471,Cardiology,24,555-4089,donna.kim53@hospitaldocs.com,358.76
+DOC0084,Sharon,Gomez,General Surgeon,LIC-271200,Urology,25,555-4614,sharon.gomez34@hospitaldocs.com,77.72
+DOC0085,Benjamin,Walker,Endocrinologist,LIC-901676,ICU,18,555-5664,benjamin.walker84@hospitaldocs.com,310.02
+DOC0086,Paul,Evans,Emergency Medicine Specialist,LIC-994940,Orthopedics,12,555-3238,paul.evans38@hospitaldocs.com,88.62
+DOC0087,Ryan,Richardson,Pulmonologist,LIC-385353,ICU,32,555-4076,ryan.richardson42@hospitaldocs.com,56.79
+DOC0088,Michael,Morgan,Cardiologist,LIC-294969,Pediatrics,19,555-5410,michael.morgan17@hospitaldocs.com,300.32
+DOC0089,Janet,Johnson,General Surgeon,LIC-194578,Oncology,1,555-9086,janet.johnson28@hospitaldocs.com,169.67
+DOC0090,Michelle,Murphy,ENT Specialist,LIC-586208,Neurology,22,555-2314,michelle.murphy97@hospitaldocs.com,383.08
+DOC0091,Linda,Wright,Urologist,LIC-174852,Ophthalmology,31,555-3975,linda.wright25@hospitaldocs.com,363.49
+DOC0092,Steven,Carter,Cardiologist,LIC-227885,General Surgery,25,555-8257,steven.carter32@hospitaldocs.com,308.17
+DOC0093,Robert,Sanchez,Pulmonologist,LIC-871041,Pediatrics,34,555-4415,robert.sanchez61@hospitaldocs.com,186.19
+DOC0094,Michelle,Adams,Radiologist,LIC-759726,Neurology,34,555-3001,michelle.adams33@hospitaldocs.com,218.43
+DOC0095,Joshua,Sanchez,ENT Specialist,LIC-154617,Emergency,8,555-4866,joshua.sanchez82@hospitaldocs.com,201.96
+DOC0096,Mary,Perez,Gynecologist,LIC-713099,Pediatrics,26,555-4982,mary.perez2@hospitaldocs.com,389.09
+DOC0097,Justin,Stewart,Intensivist,LIC-262520,ENT,6,555-5075,justin.stewart21@hospitaldocs.com,224.97
+DOC0098,Debra,Richardson,Psychiatrist,LIC-896456,Neurology,4,555-6824,debra.richardson83@hospitaldocs.com,103.87
+DOC0099,Jonathan,Wilson,Oncologist,LIC-611540,General Surgery,21,555-6690,jonathan.wilson57@hospitaldocs.com,306.62
+DOC0100,John,Carter,ENT Specialist,LIC-859587,Oncology,17,555-1646,john.carter63@hospitaldocs.com,297.32
+DOC0101,Brenda,Nguyen,Ophthalmologist,LIC-830897,Nephrology,13,555-4057,brenda.nguyen70@hospitaldocs.com,171.68
+DOC0102,Janet,Reyes,Gynecologist,LIC-971733,ICU,11,555-2128,janet.reyes68@hospitaldocs.com,104.26
+DOC0103,Donna,King,Ophthalmologist,LIC-484945,Pulmonology,1,555-9289,donna.king49@hospitaldocs.com,306.78
+DOC0104,John,Richardson,ENT Specialist,LIC-913712,ICU,16,555-6254,john.richardson93@hospitaldocs.com,72.17
+DOC0105,Jonathan,Roberts,Emergency Medicine Specialist,LIC-649526,Nephrology,10,555-5638,jonathan.roberts42@hospitaldocs.com,193.43
+DOC0106,Dorothy,Anderson,Pediatrician,LIC-648615,Orthopedics,3,555-3126,dorothy.anderson23@hospitaldocs.com,355.72
+DOC0107,Betty,Wilson,Nephrologist,LIC-300924,Pediatrics,3,555-7366,betty.wilson85@hospitaldocs.com,221.47
+DOC0108,Helen,Ramos,Gynecologist,LIC-151470,ENT,15,555-2161,helen.ramos2@hospitaldocs.com,375.57
+DOC0109,Anthony,Morales,Orthopedic Surgeon,LIC-590795,Neurology,24,555-7814,anthony.morales48@hospitaldocs.com,327.99
+DOC0110,Linda,Ward,Gynecologist,LIC-654718,Neurology,5,555-5979,linda.ward10@hospitaldocs.com,380.61
+DOC0111,Eric,Gonzalez,Pediatrician,LIC-860397,General Surgery,35,555-7313,eric.gonzalez25@hospitaldocs.com,117.59
+DOC0112,Gregory,Young,Anesthesiologist,LIC-755700,Radiology,27,555-2728,gregory.young99@hospitaldocs.com,273.52
+DOC0113,Amanda,Collins,Gastroenterologist,LIC-209159,Radiology,12,555-7579,amanda.collins65@hospitaldocs.com,168.13
+DOC0114,Christopher,Morgan,Intensivist,LIC-564531,ENT,21,555-6319,christopher.morgan48@hospitaldocs.com,194.32
+DOC0115,Samantha,Parker,Psychiatrist,LIC-737967,General Surgery,35,555-4504,samantha.parker49@hospitaldocs.com,318
+DOC0116,Maria,Allen,ENT Specialist,LIC-574379,Pulmonology,26,555-1003,maria.allen93@hospitaldocs.com,62.13
+DOC0117,Andrew,Kim,Cardiologist,LIC-642752,Oncology,20,555-1107,andrew.kim39@hospitaldocs.com,394.54
+DOC0118,Margaret,Green,Cardiologist,LIC-909000,Gynecology,33,555-3534,margaret.green13@hospitaldocs.com,63.21
+DOC0119,Amanda,Martin,Oncologist,LIC-377860,ENT,16,555-4817,amanda.martin33@hospitaldocs.com,333.88
+DOC0120,Barbara,Kelly,Urologist,LIC-696707,Emergency,5,555-6319,barbara.kelly62@hospitaldocs.com,110.52
+DOC0121,Frank,Kelly,Pediatrician,LIC-724145,Dermatology,3,555-7251,frank.kelly11@hospitaldocs.com,323.04
+DOC0122,Jerry,Nelson,ENT Specialist,LIC-956835,Gastroenterology,27,555-2974,jerry.nelson99@hospitaldocs.com,129.35
+DOC0123,Katherine,Cox,Cardiologist,LIC-764678,Urology,4,555-5993,katherine.cox68@hospitaldocs.com,64.41
+DOC0124,Anna,Reed,Oncologist,LIC-442707,Endocrinology,15,555-3509,anna.reed7@hospitaldocs.com,285.77
+DOC0125,Ronald,Edwards,Intensivist,LIC-703198,Endocrinology,6,555-4638,ronald.edwards56@hospitaldocs.com,151.42
+DOC0126,Ronald,Jackson,Oncologist,LIC-452497,Orthopedics,31,555-1807,ronald.jackson71@hospitaldocs.com,189.72
+DOC0127,David,Phillips,Endocrinologist,LIC-555596,Oncology,9,555-8879,david.phillips72@hospitaldocs.com,119.34
+DOC0128,Ronald,Kelly,Emergency Medicine Specialist,LIC-688426,ICU,34,555-5034,ronald.kelly32@hospitaldocs.com,75.08
+DOC0129,Diane,Parker,Psychiatrist,LIC-817999,Anesthesiology,6,555-2843,diane.parker86@hospitaldocs.com,194.75
+DOC0130,George,Hall,Emergency Medicine Specialist,LIC-436318,ENT,2,555-5994,george.hall22@hospitaldocs.com,395.68
+DOC0131,Brandon,Cruz,Intensivist,LIC-252901,Pulmonology,3,555-4825,brandon.cruz26@hospitaldocs.com,289.88
+DOC0132,Karen,Hernandez,Pediatrician,LIC-875507,Neurology,16,555-3419,karen.hernandez37@hospitaldocs.com,54.81
+DOC0133,Frank,Anderson,Dermatologist,LIC-571923,Nephrology,2,555-6437,frank.anderson27@hospitaldocs.com,309
+DOC0134,Margaret,Clark,Ophthalmologist,LIC-648684,Gynecology,31,555-3315,margaret.clark89@hospitaldocs.com,294.56
+DOC0135,John,Carter,Anesthesiologist,LIC-795759,Endocrinology,3,555-5185,john.carter22@hospitaldocs.com,71.04
+DOC0136,Betty,Richardson,Gynecologist,LIC-155663,Pulmonology,1,555-2091,betty.richardson50@hospitaldocs.com,281.13
+DOC0137,Gregory,Campbell,Pediatrician,LIC-120005,Dermatology,25,555-4787,gregory.campbell49@hospitaldocs.com,227.99
+DOC0138,Patrick,Gonzalez,Psychiatrist,LIC-608205,ICU,35,555-2442,patrick.gonzalez24@hospitaldocs.com,119.61
+DOC0139,Ryan,Bailey,Cardiologist,LIC-141683,General Surgery,34,555-5995,ryan.bailey43@hospitaldocs.com,221.48
+DOC0140,Maria,Lee,Cardiologist,LIC-463625,ENT,23,555-5953,maria.lee31@hospitaldocs.com,398.6
+DOC0141,Nicholas,Scott,Neurologist,LIC-756190,Gynecology,25,555-1482,nicholas.scott72@hospitaldocs.com,382.19
+DOC0142,Mark,Martin,Psychiatrist,LIC-511929,Oncology,6,555-7262,mark.martin67@hospitaldocs.com,386.21
+DOC0143,Brandon,Robinson,Gastroenterologist,LIC-352036,Anesthesiology,10,555-7987,brandon.robinson40@hospitaldocs.com,368.41
+DOC0144,Kevin,Edwards,Ophthalmologist,LIC-238173,Emergency,9,555-9869,kevin.edwards88@hospitaldocs.com,330.04
+DOC0145,Sarah,Flores,Endocrinologist,LIC-241822,Gastroenterology,10,555-3589,sarah.flores41@hospitaldocs.com,73.73
+DOC0146,Jonathan,Thomas,Radiologist,LIC-433025,Oncology,2,555-6221,jonathan.thomas53@hospitaldocs.com,386.42
+DOC0147,Joshua,Cruz,Gynecologist,LIC-259338,Emergency,7,555-3155,joshua.cruz24@hospitaldocs.com,59.17
+DOC0148,Brandon,Ward,Gynecologist,LIC-735022,Anesthesiology,15,555-4804,brandon.ward30@hospitaldocs.com,290.58
+DOC0149,Amanda,Hernandez,Nephrologist,LIC-240600,Endocrinology,31,555-7126,amanda.hernandez24@hospitaldocs.com,348.25
+DOC0150,Gary,Stewart,Oncologist,LIC-271742,Emergency,15,555-1528,gary.stewart53@hospitaldocs.com,317.59
+DOC0151,Mary,Wright,Gastroenterologist,LIC-333365,Emergency,14,555-2083,mary.wright23@hospitaldocs.com,374.49
+DOC0152,Jeffrey,Ward,Nephrologist,LIC-821276,Psychiatry,30,555-5043,jeffrey.ward55@hospitaldocs.com,191.7
+DOC0153,Jennifer,Cox,Urologist,LIC-855185,Psychiatry,26,555-9784,jennifer.cox68@hospitaldocs.com,274.49
+DOC0154,Patrick,Jones,Endocrinologist,LIC-214626,Pulmonology,30,555-1694,patrick.jones32@hospitaldocs.com,231.55
+DOC0155,Ronald,Garcia,Ophthalmologist,LIC-506216,Endocrinology,4,555-4110,ronald.garcia38@hospitaldocs.com,203.84
+DOC0156,Joshua,Torres,Pulmonologist,LIC-274573,Gastroenterology,19,555-1893,joshua.torres89@hospitaldocs.com,230.94
+DOC0157,Charles,Reyes,Pulmonologist,LIC-194834,Endocrinology,8,555-3945,charles.reyes75@hospitaldocs.com,378.24
+DOC0158,Rachel,Cooper,Oncologist,LIC-512160,Gastroenterology,21,555-8387,rachel.cooper4@hospitaldocs.com,112.61
+DOC0159,Emma,Sanchez,Pulmonologist,LIC-194560,Gynecology,21,555-3686,emma.sanchez92@hospitaldocs.com,306.64
+DOC0160,Barbara,Anderson,Pulmonologist,LIC-764873,ENT,6,555-9582,barbara.anderson91@hospitaldocs.com,184.43
+DOC0161,Angela,Ward,Radiologist,LIC-497073,Ophthalmology,25,555-1719,angela.ward99@hospitaldocs.com,109.81
+DOC0162,Kevin,Reed,Oncologist,LIC-269999,Oncology,12,555-1840,kevin.reed54@hospitaldocs.com,157.82
+DOC0163,Janet,Edwards,Dermatologist,LIC-756883,Radiology,8,555-3155,janet.edwards26@hospitaldocs.com,51.24
+DOC0164,Heather,Allen,Cardiologist,LIC-580921,Nephrology,32,555-9904,heather.allen1@hospitaldocs.com,262.79
+DOC0165,Amy,Walker,Emergency Medicine Specialist,LIC-717466,Nephrology,30,555-7719,amy.walker57@hospitaldocs.com,77.79
+DOC0166,Scott,Smith,General Surgeon,LIC-673929,Gynecology,14,555-1801,scott.smith24@hospitaldocs.com,101.89
+DOC0167,Katherine,Hall,Neurologist,LIC-252436,Neurology,20,555-6424,katherine.hall12@hospitaldocs.com,67.16
+DOC0168,Rebecca,Thompson,Radiologist,LIC-804737,Dermatology,12,555-8460,rebecca.thompson96@hospitaldocs.com,252.64
+DOC0169,Robert,Lopez,Dermatologist,LIC-438503,ENT,25,555-2108,robert.lopez98@hospitaldocs.com,199.56
+DOC0170,Stephen,Rodriguez,Dermatologist,LIC-593687,Oncology,8,555-5496,stephen.rodriguez43@hospitaldocs.com,234.47
+DOC0171,Shirley,Clark,Emergency Medicine Specialist,LIC-741784,Neurology,7,555-9666,shirley.clark12@hospitaldocs.com,219.28
+DOC0172,Frank,Cox,Dermatologist,LIC-547798,ICU,21,555-5254,frank.cox68@hospitaldocs.com,251.3
+DOC0173,Helen,Rivera,Oncologist,LIC-744129,Anesthesiology,32,555-9514,helen.rivera94@hospitaldocs.com,271.15
+DOC0174,Amy,White,Intensivist,LIC-344026,Dermatology,13,555-1025,amy.white16@hospitaldocs.com,58.4
+DOC0175,Benjamin,Thomas,Emergency Medicine Specialist,LIC-938403,ICU,27,555-7783,benjamin.thomas6@hospitaldocs.com,166.83
+DOC0176,Brenda,Ramirez,Cardiologist,LIC-771736,Emergency,19,555-5168,brenda.ramirez9@hospitaldocs.com,157.72
+DOC0177,Nicholas,Peterson,Psychiatrist,LIC-904291,Cardiology,8,555-6460,nicholas.peterson44@hospitaldocs.com,188.62
+DOC0178,Larry,Ward,Cardiologist,LIC-972460,Radiology,13,555-6415,larry.ward44@hospitaldocs.com,372.8
+DOC0179,Kathleen,Stewart,Neurologist,LIC-777015,Oncology,31,555-3545,kathleen.stewart81@hospitaldocs.com,211.22
+DOC0180,Jonathan,Nelson,Pulmonologist,LIC-922072,Gastroenterology,4,555-9537,jonathan.nelson39@hospitaldocs.com,247.73
+DOC0181,Alexander,Green,Ophthalmologist,LIC-661916,Cardiology,14,555-6434,alexander.green46@hospitaldocs.com,73.17
+DOC0182,Karen,Scott,Cardiologist,LIC-455627,Urology,35,555-3719,karen.scott74@hospitaldocs.com,261.99
+DOC0183,Lisa,Kim,Pediatrician,LIC-920347,Dermatology,21,555-1518,lisa.kim35@hospitaldocs.com,194.85
+DOC0184,Amy,Walker,ENT Specialist,LIC-573858,Dermatology,14,555-9603,amy.walker39@hospitaldocs.com,111.25
+DOC0185,Melissa,Jones,Emergency Medicine Specialist,LIC-197102,Pulmonology,33,555-1408,melissa.jones62@hospitaldocs.com,366.73
+DOC0186,Karen,Harris,Psychiatrist,LIC-606957,Endocrinology,20,555-6363,karen.harris19@hospitaldocs.com,319.32
+DOC0187,Richard,Gutierrez,Oncologist,LIC-315154,Neurology,30,555-7350,richard.gutierrez92@hospitaldocs.com,352.68
+DOC0188,Joseph,Smith,Dermatologist,LIC-146168,ICU,6,555-6460,joseph.smith60@hospitaldocs.com,361.22
+DOC0189,Susan,Gutierrez,Dermatologist,LIC-123572,Anesthesiology,20,555-4438,susan.gutierrez42@hospitaldocs.com,120.19
+DOC0190,Andrew,Scott,Ophthalmologist,LIC-434652,Pulmonology,8,555-5467,andrew.scott20@hospitaldocs.com,105.12
+DOC0191,Joseph,Johnson,Intensivist,LIC-686810,Endocrinology,7,555-4384,joseph.johnson70@hospitaldocs.com,172.61
+DOC0192,Kenneth,Wright,Oncologist,LIC-838568,Dermatology,16,555-3806,kenneth.wright10@hospitaldocs.com,158.98
+DOC0193,Carol,Cooper,Pulmonologist,LIC-153190,Oncology,2,555-8712,carol.cooper87@hospitaldocs.com,67.66
+DOC0194,Deborah,Miller,Orthopedic Surgeon,LIC-547181,Urology,12,555-8304,deborah.miller79@hospitaldocs.com,174.47
+DOC0195,Kevin,Sanchez,Ophthalmologist,LIC-182361,Pulmonology,9,555-2522,kevin.sanchez90@hospitaldocs.com,213.9
+DOC0196,Ryan,Flores,Pulmonologist,LIC-593403,General Surgery,15,555-3354,ryan.flores79@hospitaldocs.com,140.32
+DOC0197,George,Gomez,Radiologist,LIC-833599,Psychiatry,21,555-8426,george.gomez63@hospitaldocs.com,60.59
+DOC0198,Jacob,Anderson,ENT Specialist,LIC-601903,Pulmonology,11,555-5624,jacob.anderson99@hospitaldocs.com,172.02
+DOC0199,Pamela,Taylor,Endocrinologist,LIC-207932,Urology,7,555-6339,pamela.taylor72@hospitaldocs.com,277.31
+DOC0200,Joshua,Morgan,Pulmonologist,LIC-520286,Anesthesiology,27,555-4908,joshua.morgan80@hospitaldocs.com,135.29
+DOC0201,Christopher,Morris,Urologist,LIC-169268,Psychiatry,14,555-8063,christopher.morris56@hospitaldocs.com,248.52
+DOC0202,Carol,Cooper,General Surgeon,LIC-281493,Orthopedics,32,555-2873,carol.cooper76@hospitaldocs.com,258.63
+DOC0203,Dorothy,Bailey,Pediatrician,LIC-961953,Pulmonology,12,555-6046,dorothy.bailey52@hospitaldocs.com,74.36
+DOC0204,Susan,Kim,Urologist,LIC-443312,Nephrology,4,555-2483,susan.kim28@hospitaldocs.com,335.96
+DOC0205,Justin,Smith,Oncologist,LIC-792984,Oncology,29,555-9704,justin.smith38@hospitaldocs.com,186.49
+DOC0206,Pamela,Edwards,Emergency Medicine Specialist,LIC-315651,Psychiatry,20,555-5989,pamela.edwards56@hospitaldocs.com,301.23
+DOC0207,Brian,Lopez,Anesthesiologist,LIC-108513,ICU,33,555-7622,brian.lopez17@hospitaldocs.com,348.38
+DOC0208,Linda,Mitchell,Ophthalmologist,LIC-155708,Cardiology,23,555-2797,linda.mitchell37@hospitaldocs.com,352.99
+DOC0209,Donald,Parker,Anesthesiologist,LIC-513420,Psychiatry,25,555-7652,donald.parker49@hospitaldocs.com,202.32
+DOC0210,Margaret,Thompson,Nephrologist,LIC-245824,Emergency,25,555-6902,margaret.thompson54@hospitaldocs.com,103.99
+DOC0211,Christine,Taylor,Oncologist,LIC-112166,Orthopedics,2,555-3359,christine.taylor93@hospitaldocs.com,359.71
+DOC0212,Gregory,Parker,Oncologist,LIC-188776,Oncology,27,555-8471,gregory.parker90@hospitaldocs.com,261.55
+DOC0213,Jason,Richardson,Radiologist,LIC-576467,Endocrinology,28,555-8373,jason.richardson50@hospitaldocs.com,174.36
+DOC0214,Lisa,Diaz,Intensivist,LIC-107790,Anesthesiology,32,555-4878,lisa.diaz92@hospitaldocs.com,225.61
+DOC0215,Timothy,Cooper,Anesthesiologist,LIC-484795,Neurology,3,555-8917,timothy.cooper91@hospitaldocs.com,179
+DOC0216,Justin,Morris,Orthopedic Surgeon,LIC-248989,Endocrinology,18,555-8617,justin.morris67@hospitaldocs.com,77.38
+DOC0217,Brandon,Lopez,General Surgeon,LIC-595401,Orthopedics,35,555-6119,brandon.lopez79@hospitaldocs.com,68.47
+DOC0218,Carol,Morgan,Cardiologist,LIC-591644,Pulmonology,33,555-8687,carol.morgan74@hospitaldocs.com,306.84
+DOC0219,Rebecca,Rivera,Dermatologist,LIC-403257,Radiology,3,555-5981,rebecca.rivera94@hospitaldocs.com,324.76
+DOC0220,Kimberly,Davis,Nephrologist,LIC-706224,Radiology,4,555-5780,kimberly.davis95@hospitaldocs.com,268.51
+DOC0221,Andrew,Morales,Orthopedic Surgeon,LIC-232981,Endocrinology,5,555-5552,andrew.morales33@hospitaldocs.com,96.39
+DOC0222,Emily,Scott,Gynecologist,LIC-114892,Pediatrics,12,555-3476,emily.scott85@hospitaldocs.com,206.33
+DOC0223,Daniel,King,General Surgeon,LIC-608473,Radiology,34,555-1542,daniel.king44@hospitaldocs.com,394.43
+DOC0224,Charles,Kim,Oncologist,LIC-978302,Nephrology,27,555-7277,charles.kim31@hospitaldocs.com,281.23
+DOC0225,Raymond,Perez,Emergency Medicine Specialist,LIC-705822,ENT,4,555-5331,raymond.perez97@hospitaldocs.com,336.84
+DOC0226,Michael,Perez,Pulmonologist,LIC-518114,Nephrology,20,555-8803,michael.perez96@hospitaldocs.com,381.89
+DOC0227,Jonathan,Robinson,Urologist,LIC-816712,Urology,31,555-5302,jonathan.robinson19@hospitaldocs.com,235.65
+DOC0228,Sharon,Johnson,Dermatologist,LIC-936039,Pulmonology,25,555-6172,sharon.johnson68@hospitaldocs.com,289.01
+DOC0229,Jennifer,Gonzalez,Ophthalmologist,LIC-768387,ENT,28,555-5466,jennifer.gonzalez43@hospitaldocs.com,144.61
+DOC0230,Richard,Allen,Anesthesiologist,LIC-510154,Pulmonology,16,555-4193,richard.allen67@hospitaldocs.com,168.09
+DOC0231,Frank,White,Psychiatrist,LIC-674213,Cardiology,1,555-2113,frank.white2@hospitaldocs.com,193.94
+DOC0232,Shirley,Wilson,Pulmonologist,LIC-468591,General Surgery,19,555-5127,shirley.wilson25@hospitaldocs.com,61.91
+DOC0233,Helen,Lopez,Neurologist,LIC-722999,Emergency,8,555-2965,helen.lopez12@hospitaldocs.com,349.75
+DOC0234,Thomas,Carter,Anesthesiologist,LIC-942216,Radiology,8,555-4018,thomas.carter33@hospitaldocs.com,153.1
+DOC0235,Gregory,Martinez,Pulmonologist,LIC-389809,Gastroenterology,21,555-5216,gregory.martinez21@hospitaldocs.com,323.26
+DOC0236,Emily,Davis,Urologist,LIC-507466,Psychiatry,4,555-5230,emily.davis34@hospitaldocs.com,112.28
+DOC0237,William,Morales,Emergency Medicine Specialist,LIC-739947,Urology,12,555-9061,william.morales14@hospitaldocs.com,100.36
+DOC0238,Jerry,Parker,Emergency Medicine Specialist,LIC-743790,Pediatrics,29,555-5243,jerry.parker14@hospitaldocs.com,62.2
+DOC0239,Elizabeth,Kelly,Gynecologist,LIC-914992,Pulmonology,2,555-9154,elizabeth.kelly20@hospitaldocs.com,278.5
+DOC0240,James,Jones,Urologist,LIC-379378,Oncology,22,555-7411,james.jones74@hospitaldocs.com,51.3
+DOC0241,Patrick,Morales,Nephrologist,LIC-557239,Urology,5,555-9849,patrick.morales29@hospitaldocs.com,51.16
+DOC0242,Frank,Morris,Pediatrician,LIC-694798,Ophthalmology,23,555-6463,frank.morris88@hospitaldocs.com,155.99
+DOC0243,Linda,Lopez,ENT Specialist,LIC-660596,Psychiatry,6,555-8530,linda.lopez98@hospitaldocs.com,318.28
+DOC0244,Samuel,Sanchez,Radiologist,LIC-681409,Neurology,25,555-4129,samuel.sanchez39@hospitaldocs.com,293.56
+DOC0245,Susan,Rivera,Nephrologist,LIC-188984,Pulmonology,13,555-3292,susan.rivera5@hospitaldocs.com,117.58
+DOC0246,Raymond,Ramos,General Surgeon,LIC-612997,Urology,5,555-9856,raymond.ramos83@hospitaldocs.com,157.71
+DOC0247,Jonathan,Edwards,Cardiologist,LIC-138842,Psychiatry,4,555-6533,jonathan.edwards93@hospitaldocs.com,64.99
+DOC0248,Jessica,Ramirez,Endocrinologist,LIC-580636,Ophthalmology,10,555-4817,jessica.ramirez10@hospitaldocs.com,62.91
+DOC0249,Charles,Morales,Cardiologist,LIC-594109,ICU,3,555-4976,charles.morales90@hospitaldocs.com,277.08
+DOC0250,Mary,Thompson,Neurologist,LIC-422266,Pediatrics,30,555-3796,mary.thompson76@hospitaldocs.com,72.39
+DOC0251,Susan,Anderson,Nephrologist,LIC-723879,ICU,15,555-2033,susan.anderson26@hospitaldocs.com,199.17
+DOC0252,Jack,Phillips,Psychiatrist,LIC-226670,Anesthesiology,35,555-3250,jack.phillips42@hospitaldocs.com,342.75
+DOC0253,Margaret,Garcia,Anesthesiologist,LIC-281873,Psychiatry,5,555-2978,margaret.garcia36@hospitaldocs.com,99.43
+DOC0254,Rebecca,Perez,ENT Specialist,LIC-680290,Radiology,29,555-4991,rebecca.perez75@hospitaldocs.com,64.24
+DOC0255,Richard,Ward,Urologist,LIC-915437,Radiology,2,555-8978,richard.ward11@hospitaldocs.com,52.22
+DOC0256,Daniel,Lopez,Anesthesiologist,LIC-397514,Gastroenterology,31,555-3079,daniel.lopez27@hospitaldocs.com,100.08
+DOC0257,Paul,Gutierrez,Pulmonologist,LIC-532046,General Surgery,12,555-1616,paul.gutierrez77@hospitaldocs.com,113
+DOC0258,Amy,Ward,Orthopedic Surgeon,LIC-757658,Dermatology,23,555-7861,amy.ward1@hospitaldocs.com,245.2
+DOC0259,Matthew,Thomas,Endocrinologist,LIC-200331,ICU,24,555-9842,matthew.thomas65@hospitaldocs.com,126.75
+DOC0260,Jerry,Clark,Gynecologist,LIC-155646,Emergency,8,555-3444,jerry.clark88@hospitaldocs.com,345.32
+DOC0261,Jacob,Murphy,Radiologist,LIC-267520,Neurology,4,555-6966,jacob.murphy37@hospitaldocs.com,123.36
+DOC0262,Steven,Nelson,Intensivist,LIC-944264,Pulmonology,3,555-2710,steven.nelson95@hospitaldocs.com,68.36
+DOC0263,Jonathan,Thompson,Radiologist,LIC-923648,Cardiology,32,555-9436,jonathan.thompson15@hospitaldocs.com,74.8
+DOC0264,Donald,Cruz,Anesthesiologist,LIC-707924,Psychiatry,27,555-4256,donald.cruz96@hospitaldocs.com,286.9
+DOC0265,Dorothy,Robinson,Pediatrician,LIC-441974,General Surgery,7,555-4884,dorothy.robinson95@hospitaldocs.com,194.41
+DOC0266,Betty,Carter,General Surgeon,LIC-177101,Nephrology,32,555-1890,betty.carter56@hospitaldocs.com,100.73
+DOC0267,Brandon,Collins,Radiologist,LIC-506145,ENT,9,555-8499,brandon.collins93@hospitaldocs.com,117.95
+DOC0268,Amanda,Wright,Emergency Medicine Specialist,LIC-452207,Oncology,3,555-1977,amanda.wright36@hospitaldocs.com,97.78
+DOC0269,Cynthia,Collins,Gastroenterologist,LIC-279517,Psychiatry,15,555-5835,cynthia.collins78@hospitaldocs.com,104.88
+DOC0270,Samantha,Ward,Radiologist,LIC-706204,Ophthalmology,15,555-2416,samantha.ward53@hospitaldocs.com,349.94
+DOC0271,Gary,Ramirez,Anesthesiologist,LIC-596489,Pulmonology,18,555-1237,gary.ramirez94@hospitaldocs.com,199.84
+DOC0272,Ashley,Young,Psychiatrist,LIC-555342,Anesthesiology,15,555-3440,ashley.young74@hospitaldocs.com,364.39
+DOC0273,Rebecca,Garcia,Neurologist,LIC-593515,Endocrinology,3,555-7974,rebecca.garcia68@hospitaldocs.com,188.01
+DOC0274,Rachel,Gonzalez,Pulmonologist,LIC-619344,General Surgery,6,555-1203,rachel.gonzalez89@hospitaldocs.com,306.13
+DOC0275,Margaret,Taylor,ENT Specialist,LIC-410158,General Surgery,6,555-1260,margaret.taylor62@hospitaldocs.com,284.16
+DOC0276,Christopher,Collins,Anesthesiologist,LIC-883586,Anesthesiology,2,555-8452,christopher.collins60@hospitaldocs.com,320.14
+DOC0277,Patrick,Phillips,Radiologist,LIC-928226,ENT,30,555-1022,patrick.phillips81@hospitaldocs.com,74.74
+DOC0278,Frank,Nelson,Endocrinologist,LIC-134303,Dermatology,28,555-5420,frank.nelson90@hospitaldocs.com,381.13
+DOC0279,Anna,Kelly,Emergency Medicine Specialist,LIC-925954,Orthopedics,22,555-1898,anna.kelly66@hospitaldocs.com,380.86
+DOC0280,Alexander,Campbell,Neurologist,LIC-216356,Urology,24,555-8624,alexander.campbell80@hospitaldocs.com,64.31
+DOC0281,George,Thompson,Ophthalmologist,LIC-839113,Orthopedics,14,555-3267,george.thompson43@hospitaldocs.com,133.52
+DOC0282,Joseph,Morris,Anesthesiologist,LIC-836984,Emergency,15,555-6250,joseph.morris46@hospitaldocs.com,364.28
+DOC0283,Nicholas,Diaz,Gynecologist,LIC-157105,Orthopedics,24,555-6656,nicholas.diaz58@hospitaldocs.com,220.18
+DOC0284,Shirley,Thomas,Nephrologist,LIC-844305,Ophthalmology,35,555-5788,shirley.thomas58@hospitaldocs.com,267.33
+DOC0285,Alexander,Rodriguez,Emergency Medicine Specialist,LIC-580115,Orthopedics,6,555-7400,alexander.rodriguez23@hospitaldocs.com,150.93
+DOC0286,Elizabeth,Wilson,Radiologist,LIC-389346,Pediatrics,10,555-9131,elizabeth.wilson20@hospitaldocs.com,356.25
+DOC0287,Eric,Williams,Dermatologist,LIC-536770,Ophthalmology,9,555-8764,eric.williams45@hospitaldocs.com,197.05
+DOC0288,Jack,Williams,Dermatologist,LIC-298244,Orthopedics,2,555-4806,jack.williams67@hospitaldocs.com,275.64
+DOC0289,Timothy,Howard,Psychiatrist,LIC-787614,Psychiatry,32,555-9686,timothy.howard71@hospitaldocs.com,205.84
+DOC0290,Joshua,Reed,Oncologist,LIC-927691,Dermatology,11,555-5259,joshua.reed30@hospitaldocs.com,219.49
+DOC0291,Andrew,Miller,Oncologist,LIC-470274,Dermatology,30,555-3725,andrew.miller80@hospitaldocs.com,373.45
+DOC0292,Carolyn,Morgan,Dermatologist,LIC-291134,Radiology,10,555-3641,carolyn.morgan31@hospitaldocs.com,90.92
+DOC0293,Kenneth,Kelly,Oncologist,LIC-562305,Gynecology,24,555-4022,kenneth.kelly27@hospitaldocs.com,246.87
+DOC0294,Robert,Green,ENT Specialist,LIC-255130,ENT,29,555-9845,robert.green21@hospitaldocs.com,236.78
+DOC0295,Jessica,Brown,Urologist,LIC-623676,Oncology,30,555-6246,jessica.brown20@hospitaldocs.com,51.5
+DOC0296,Jack,Cooper,Endocrinologist,LIC-447372,Dermatology,31,555-5748,jack.cooper97@hospitaldocs.com,393.24
+DOC0297,Pamela,Jackson,Anesthesiologist,LIC-863933,Pulmonology,22,555-2840,pamela.jackson94@hospitaldocs.com,217.64
+DOC0298,Jennifer,Moore,Ophthalmologist,LIC-222553,Dermatology,2,555-7580,jennifer.moore80@hospitaldocs.com,344.31
+DOC0299,Laura,Rivera,Orthopedic Surgeon,LIC-442220,Neurology,13,555-9625,laura.rivera29@hospitaldocs.com,323.45
+DOC0300,Jerry,Scott,Emergency Medicine Specialist,LIC-123643,Orthopedics,35,555-8298,jerry.scott87@hospitaldocs.com,285.05
+DOC0301,Barbara,Rogers,Urologist,LIC-303895,Nephrology,21,555-9381,barbara.rogers8@hospitaldocs.com,367.96
+DOC0302,George,Gomez,Oncologist,LIC-850742,Gastroenterology,24,555-7326,george.gomez48@hospitaldocs.com,54.27
+DOC0303,Brian,Hall,Dermatologist,LIC-567220,Ophthalmology,6,555-4533,brian.hall94@hospitaldocs.com,360.73
+DOC0304,Jack,Turner,Pulmonologist,LIC-402654,Radiology,28,555-7786,jack.turner18@hospitaldocs.com,342.43
+DOC0305,Scott,Lopez,Oncologist,LIC-317877,Dermatology,31,555-9606,scott.lopez43@hospitaldocs.com,73.14
+DOC0306,Emma,Carter,Orthopedic Surgeon,LIC-106940,Gastroenterology,18,555-7791,emma.carter23@hospitaldocs.com,244.53
+DOC0307,Patrick,Reed,Oncologist,LIC-308936,Radiology,25,555-5742,patrick.reed71@hospitaldocs.com,221.7
+DOC0308,Joshua,Howard,Dermatologist,LIC-618101,Ophthalmology,30,555-4678,joshua.howard4@hospitaldocs.com,326.93
+DOC0309,Karen,King,Dermatologist,LIC-771670,Nephrology,8,555-5713,karen.king54@hospitaldocs.com,112.78
+DOC0310,Frank,Young,Cardiologist,LIC-225152,Gynecology,32,555-2093,frank.young77@hospitaldocs.com,310.95
+DOC0311,Justin,Morris,Anesthesiologist,LIC-557250,Gynecology,31,555-2959,justin.morris48@hospitaldocs.com,229.38
+DOC0312,Pamela,Williams,Gynecologist,LIC-270757,Anesthesiology,4,555-3394,pamela.williams41@hospitaldocs.com,211.37
+DOC0313,Frank,Moore,ENT Specialist,LIC-271241,Neurology,18,555-6917,frank.moore54@hospitaldocs.com,272.69
+DOC0314,Amanda,Miller,Dermatologist,LIC-405831,Endocrinology,5,555-9419,amanda.miller25@hospitaldocs.com,318.25
+DOC0315,Lisa,Gonzalez,Intensivist,LIC-889188,Radiology,35,555-6285,lisa.gonzalez41@hospitaldocs.com,339.39
+DOC0316,Debra,Hill,Gynecologist,LIC-818739,ENT,7,555-9755,debra.hill75@hospitaldocs.com,173.07
+DOC0317,Charles,Johnson,Oncologist,LIC-643341,Dermatology,24,555-8944,charles.johnson53@hospitaldocs.com,169.11
+DOC0318,Christopher,Wilson,Emergency Medicine Specialist,LIC-262062,Endocrinology,15,555-4087,christopher.wilson72@hospitaldocs.com,264.7
+DOC0319,Shirley,Morgan,Ophthalmologist,LIC-836378,Pediatrics,27,555-8544,shirley.morgan10@hospitaldocs.com,90.8
+DOC0320,Thomas,Williams,Nephrologist,LIC-465124,Dermatology,24,555-3277,thomas.williams57@hospitaldocs.com,361.4
+DOC0321,Scott,Gutierrez,Psychiatrist,LIC-280572,Dermatology,2,555-2943,scott.gutierrez29@hospitaldocs.com,95.05
+DOC0322,Frank,Jackson,General Surgeon,LIC-422361,Oncology,14,555-3133,frank.jackson11@hospitaldocs.com,198.68
+DOC0323,Heather,Anderson,Orthopedic Surgeon,LIC-119719,Nephrology,28,555-1696,heather.anderson26@hospitaldocs.com,87.74
+DOC0324,Gregory,Rogers,Anesthesiologist,LIC-162144,Nephrology,8,555-5145,gregory.rogers6@hospitaldocs.com,73.19
+DOC0325,Christine,Johnson,Pediatrician,LIC-920375,Pediatrics,14,555-4277,christine.johnson24@hospitaldocs.com,284.71
+DOC0326,Patricia,Lopez,Oncologist,LIC-986950,Gynecology,23,555-6770,patricia.lopez21@hospitaldocs.com,349.3
+DOC0327,Diane,Ward,General Surgeon,LIC-629435,Anesthesiology,5,555-2623,diane.ward75@hospitaldocs.com,317.14
+DOC0328,Shirley,Ramirez,Emergency Medicine Specialist,LIC-395548,Radiology,35,555-1070,shirley.ramirez93@hospitaldocs.com,84.54
+DOC0329,Margaret,Cook,Nephrologist,LIC-484264,Anesthesiology,12,555-8203,margaret.cook87@hospitaldocs.com,385.21
+DOC0330,Lisa,Rivera,Urologist,LIC-544692,Emergency,33,555-4728,lisa.rivera53@hospitaldocs.com,89.5
+DOC0331,Kenneth,Thomas,Pulmonologist,LIC-215674,Endocrinology,9,555-9123,kenneth.thomas98@hospitaldocs.com,176.44
+DOC0332,Andrew,Bailey,Neurologist,LIC-186243,Psychiatry,32,555-2895,andrew.bailey50@hospitaldocs.com,149.26
+DOC0333,Scott,Flores,Pulmonologist,LIC-336845,Ophthalmology,27,555-5761,scott.flores55@hospitaldocs.com,116.07
+DOC0334,William,Stewart,ENT Specialist,LIC-288006,Cardiology,32,555-2723,william.stewart51@hospitaldocs.com,203.32
+DOC0335,Gregory,Hernandez,Pediatrician,LIC-250331,Urology,26,555-2666,gregory.hernandez95@hospitaldocs.com,373.85
+DOC0336,Nancy,Rodriguez,ENT Specialist,LIC-308757,Psychiatry,13,555-7623,nancy.rodriguez16@hospitaldocs.com,131.5
+DOC0337,Jason,Murphy,Gynecologist,LIC-901968,Anesthesiology,18,555-7557,jason.murphy46@hospitaldocs.com,216.54
+DOC0338,Nicole,Phillips,Nephrologist,LIC-636256,Gynecology,10,555-8448,nicole.phillips14@hospitaldocs.com,92.77
+DOC0339,Gary,Murphy,General Surgeon,LIC-758894,Oncology,2,555-2631,gary.murphy95@hospitaldocs.com,68.5
+DOC0340,William,Murphy,Cardiologist,LIC-287795,Urology,21,555-3502,william.murphy39@hospitaldocs.com,267.69
+DOC0341,Richard,Martinez,Endocrinologist,LIC-904857,Nephrology,30,555-4308,richard.martinez38@hospitaldocs.com,281.73
+DOC0342,Gary,Cook,Gynecologist,LIC-668787,Psychiatry,35,555-9955,gary.cook3@hospitaldocs.com,383.4
+DOC0343,Robert,Parker,Pediatrician,LIC-502265,Pulmonology,21,555-7165,robert.parker57@hospitaldocs.com,210.88
+DOC0344,Robert,Thompson,Ophthalmologist,LIC-791442,Dermatology,11,555-9052,robert.thompson56@hospitaldocs.com,97.07
+DOC0345,Carolyn,Roberts,Nephrologist,LIC-901123,Pediatrics,32,555-9837,carolyn.roberts74@hospitaldocs.com,214.44
+DOC0346,Brenda,Lee,Endocrinologist,LIC-158444,Urology,17,555-9105,brenda.lee76@hospitaldocs.com,389.8
+DOC0347,Brandon,Rivera,Dermatologist,LIC-436050,Neurology,2,555-1739,brandon.rivera17@hospitaldocs.com,342.93
+DOC0348,Brian,Howard,Cardiologist,LIC-902364,Psychiatry,25,555-2594,brian.howard55@hospitaldocs.com,170.8
+DOC0349,Amanda,Evans,ENT Specialist,LIC-159191,General Surgery,16,555-4844,amanda.evans83@hospitaldocs.com,159.23
+DOC0350,David,Rodriguez,Dermatologist,LIC-220031,Psychiatry,11,555-1322,david.rodriguez69@hospitaldocs.com,164.14
+DOC0351,Ryan,Diaz,Anesthesiologist,LIC-639764,Gastroenterology,18,555-1334,ryan.diaz90@hospitaldocs.com,214.39
+DOC0352,John,Green,Urologist,LIC-698059,Urology,21,555-2601,john.green63@hospitaldocs.com,85.02
+DOC0353,Alexander,Clark,Psychiatrist,LIC-620860,Endocrinology,22,555-3730,alexander.clark79@hospitaldocs.com,154.83
+DOC0354,Sharon,Sanchez,Nephrologist,LIC-766311,Orthopedics,35,555-4507,sharon.sanchez37@hospitaldocs.com,142.8
+DOC0355,Joshua,Kelly,Urologist,LIC-943687,General Surgery,6,555-2552,joshua.kelly76@hospitaldocs.com,167.89
+DOC0356,William,Reed,Endocrinologist,LIC-598355,Gastroenterology,14,555-6690,william.reed10@hospitaldocs.com,278.04
+DOC0357,Joshua,Cook,Dermatologist,LIC-553939,Ophthalmology,21,555-4278,joshua.cook54@hospitaldocs.com,190.81
+DOC0358,Helen,Rogers,Pulmonologist,LIC-804181,Ophthalmology,12,555-1304,helen.rogers81@hospitaldocs.com,296.17
+DOC0359,Lisa,Kelly,Nephrologist,LIC-323297,Pulmonology,18,555-9728,lisa.kelly79@hospitaldocs.com,348.47
+DOC0360,Sharon,Reed,Neurologist,LIC-647639,Emergency,24,555-8577,sharon.reed19@hospitaldocs.com,134.13
+DOC0361,Maria,Hill,Gastroenterologist,LIC-530189,Psychiatry,5,555-4335,maria.hill53@hospitaldocs.com,143.43
+DOC0362,Andrew,Lee,Gynecologist,LIC-820219,ICU,16,555-7649,andrew.lee31@hospitaldocs.com,89.75
+DOC0363,Matthew,Brown,General Surgeon,LIC-935762,Dermatology,30,555-8952,matthew.brown72@hospitaldocs.com,396.95
+DOC0364,Jason,Jones,Emergency Medicine Specialist,LIC-267099,Gynecology,9,555-1477,jason.jones34@hospitaldocs.com,326.38
+DOC0365,Emily,Peterson,Radiologist,LIC-775591,Neurology,32,555-1326,emily.peterson8@hospitaldocs.com,350.85
+DOC0366,David,Green,Intensivist,LIC-412453,Orthopedics,27,555-6954,david.green86@hospitaldocs.com,280.1
+DOC0367,Barbara,Gomez,Oncologist,LIC-347507,Pediatrics,33,555-2976,barbara.gomez67@hospitaldocs.com,282.48
+DOC0368,Justin,Ortiz,Gynecologist,LIC-620566,Orthopedics,16,555-3003,justin.ortiz99@hospitaldocs.com,332.34
+DOC0369,Kevin,Howard,Urologist,LIC-944986,General Surgery,28,555-4571,kevin.howard19@hospitaldocs.com,87.38
+DOC0370,Margaret,Scott,Pulmonologist,LIC-528212,Gynecology,4,555-9034,margaret.scott69@hospitaldocs.com,181.15
+DOC0371,Joseph,Green,Ophthalmologist,LIC-544366,Nephrology,16,555-5550,joseph.green19@hospitaldocs.com,177.05
+DOC0372,Carolyn,Mitchell,Dermatologist,LIC-122097,ICU,3,555-1895,carolyn.mitchell89@hospitaldocs.com,371.11
+DOC0373,Christine,Walker,Gynecologist,LIC-679577,Urology,20,555-6945,christine.walker88@hospitaldocs.com,92.72
+DOC0374,Donald,Cruz,Urologist,LIC-108248,Urology,17,555-5929,donald.cruz12@hospitaldocs.com,377.71
+DOC0375,Dennis,Walker,Dermatologist,LIC-320606,Radiology,29,555-6196,dennis.walker99@hospitaldocs.com,275.55
+DOC0376,Robert,Scott,Orthopedic Surgeon,LIC-963185,Nephrology,31,555-7765,robert.scott43@hospitaldocs.com,301.09
+DOC0377,Richard,Lee,Gynecologist,LIC-630930,Orthopedics,23,555-7895,richard.lee78@hospitaldocs.com,305.23
+DOC0378,Stephen,Adams,Pulmonologist,LIC-828980,Cardiology,4,555-4010,stephen.adams81@hospitaldocs.com,205.19
+DOC0379,Samuel,Moore,Cardiologist,LIC-520124,Emergency,20,555-6140,samuel.moore74@hospitaldocs.com,78.78
+DOC0380,Christopher,Young,Endocrinologist,LIC-848226,Oncology,27,555-6233,christopher.young58@hospitaldocs.com,217.43
+DOC0381,Jack,Moore,Gynecologist,LIC-281905,Anesthesiology,21,555-5616,jack.moore26@hospitaldocs.com,79.54
+DOC0382,Melissa,White,Urologist,LIC-495648,Anesthesiology,15,555-1339,melissa.white3@hospitaldocs.com,373.09
+DOC0383,Samuel,Ward,General Surgeon,LIC-193298,Pulmonology,13,555-5289,samuel.ward90@hospitaldocs.com,348.14
+DOC0384,Michael,Phillips,Intensivist,LIC-549737,ICU,17,555-3445,michael.phillips12@hospitaldocs.com,385.31
+DOC0385,Nancy,Reed,Pediatrician,LIC-114800,Endocrinology,28,555-8433,nancy.reed87@hospitaldocs.com,222.95
+DOC0386,Mark,Clark,Emergency Medicine Specialist,LIC-952924,Gynecology,19,555-9096,mark.clark49@hospitaldocs.com,95.57
+DOC0387,Anthony,Kim,Emergency Medicine Specialist,LIC-964119,Dermatology,13,555-7853,anthony.kim24@hospitaldocs.com,192.98
+DOC0388,Charles,Brown,Dermatologist,LIC-374516,General Surgery,29,555-5068,charles.brown48@hospitaldocs.com,254.02
+DOC0389,Samuel,Collins,Orthopedic Surgeon,LIC-110821,Nephrology,9,555-6296,samuel.collins89@hospitaldocs.com,189.14
+DOC0390,Margaret,Roberts,Gastroenterologist,LIC-871861,ICU,17,555-2196,margaret.roberts13@hospitaldocs.com,244.95
+DOC0391,Michael,Nelson,General Surgeon,LIC-593808,ENT,3,555-1087,michael.nelson33@hospitaldocs.com,226.59
+DOC0392,Edward,Hill,Urologist,LIC-803869,ENT,9,555-1673,edward.hill75@hospitaldocs.com,112.78
+DOC0393,Nancy,Cook,Nephrologist,LIC-455652,Pulmonology,9,555-2468,nancy.cook41@hospitaldocs.com,298.59
+DOC0394,Sharon,Jackson,Gynecologist,LIC-222517,Psychiatry,3,555-3095,sharon.jackson64@hospitaldocs.com,355.09
+DOC0395,Emily,Campbell,Gastroenterologist,LIC-396668,Gynecology,17,555-9470,emily.campbell41@hospitaldocs.com,202.52
+DOC0396,Nancy,Green,Nephrologist,LIC-900771,Oncology,29,555-1871,nancy.green25@hospitaldocs.com,102.02
+DOC0397,Sandra,White,Neurologist,LIC-593090,Gynecology,11,555-8653,sandra.white56@hospitaldocs.com,90.61
+DOC0398,Amy,Garcia,Pulmonologist,LIC-473838,Ophthalmology,32,555-8499,amy.garcia64@hospitaldocs.com,89.37
+DOC0399,Raymond,Jackson,Pediatrician,LIC-466586,Orthopedics,14,555-5654,raymond.jackson24@hospitaldocs.com,342.23
+DOC0400,Maria,Rogers,Gynecologist,LIC-690607,Anesthesiology,14,555-1067,maria.rogers68@hospitaldocs.com,318.4
+DOC0401,Lisa,Turner,Orthopedic Surgeon,LIC-358114,Nephrology,7,555-6384,lisa.turner4@hospitaldocs.com,149.5
+DOC0402,Debra,Thomas,Urologist,LIC-491704,Anesthesiology,7,555-6300,debra.thomas20@hospitaldocs.com,60.11
+DOC0403,Ryan,Morris,Pulmonologist,LIC-758879,Gynecology,1,555-6397,ryan.morris6@hospitaldocs.com,279.66
+DOC0404,Laura,Adams,Anesthesiologist,LIC-235602,Emergency,4,555-5635,laura.adams42@hospitaldocs.com,329.35
+DOC0405,Maria,Martinez,Ophthalmologist,LIC-731548,Urology,6,555-7534,maria.martinez33@hospitaldocs.com,112.3
+DOC0406,Jerry,Phillips,Orthopedic Surgeon,LIC-121508,Emergency,11,555-7365,jerry.phillips52@hospitaldocs.com,149.73
+DOC0407,Dennis,Martin,Pediatrician,LIC-413048,Nephrology,28,555-6080,dennis.martin88@hospitaldocs.com,261.23
+DOC0408,Amanda,Gonzalez,ENT Specialist,LIC-637555,Emergency,32,555-8298,amanda.gonzalez50@hospitaldocs.com,216.75
+DOC0409,Larry,Kim,Gastroenterologist,LIC-194604,Gastroenterology,24,555-4053,larry.kim56@hospitaldocs.com,270.74
+DOC0410,Barbara,Garcia,Endocrinologist,LIC-458345,Pulmonology,15,555-3540,barbara.garcia64@hospitaldocs.com,234.55
+DOC0411,Samuel,Ortiz,Orthopedic Surgeon,LIC-404824,Pulmonology,28,555-2297,samuel.ortiz62@hospitaldocs.com,155.14
+DOC0412,Thomas,Hill,General Surgeon,LIC-648501,Gastroenterology,19,555-1781,thomas.hill71@hospitaldocs.com,76.79
+DOC0413,Jennifer,Rogers,Pediatrician,LIC-635456,Gastroenterology,27,555-2548,jennifer.rogers60@hospitaldocs.com,281.3
+DOC0414,Larry,Allen,ENT Specialist,LIC-367240,Anesthesiology,6,555-9248,larry.allen3@hospitaldocs.com,89.88
+DOC0415,Gregory,Reyes,Radiologist,LIC-924366,Radiology,26,555-1741,gregory.reyes11@hospitaldocs.com,195.69
+DOC0416,Patrick,Hill,Psychiatrist,LIC-715732,Pulmonology,29,555-5342,patrick.hill44@hospitaldocs.com,388.35
+DOC0417,Lisa,Ramirez,Radiologist,LIC-182020,ICU,17,555-2742,lisa.ramirez56@hospitaldocs.com,237.03
+DOC0418,James,Gomez,Pediatrician,LIC-113950,Radiology,31,555-8539,james.gomez89@hospitaldocs.com,191.78
+DOC0419,Gregory,Cox,Nephrologist,LIC-417508,ICU,24,555-7471,gregory.cox39@hospitaldocs.com,80.67
+DOC0420,Sarah,Johnson,Emergency Medicine Specialist,LIC-217348,Cardiology,13,555-1439,sarah.johnson27@hospitaldocs.com,218.39
+DOC0421,Charles,Walker,Gastroenterologist,LIC-982995,Ophthalmology,13,555-2410,charles.walker39@hospitaldocs.com,319.4
+DOC0422,Charles,Stewart,Gastroenterologist,LIC-122876,Pediatrics,11,555-3497,charles.stewart95@hospitaldocs.com,295.91
+DOC0423,Gary,Stewart,Cardiologist,LIC-571351,Anesthesiology,16,555-4298,gary.stewart38@hospitaldocs.com,249.3
+DOC0424,Ronald,Miller,Psychiatrist,LIC-108256,Pediatrics,28,555-7810,ronald.miller64@hospitaldocs.com,307.98
+DOC0425,Scott,Peterson,Dermatologist,LIC-138815,Nephrology,26,555-8964,scott.peterson66@hospitaldocs.com,256.86
+DOC0426,Brandon,Morales,General Surgeon,LIC-848987,Neurology,34,555-1311,brandon.morales55@hospitaldocs.com,251.74
+DOC0427,Stephen,Rodriguez,Gynecologist,LIC-779792,Gastroenterology,31,555-2915,stephen.rodriguez64@hospitaldocs.com,267.94
+DOC0428,Samuel,Hall,Pulmonologist,LIC-831396,Gastroenterology,2,555-3643,samuel.hall37@hospitaldocs.com,304.17
+DOC0429,Jacob,Hall,Pulmonologist,LIC-343377,Endocrinology,15,555-6556,jacob.hall78@hospitaldocs.com,348.71
+DOC0430,Carolyn,Reyes,Oncologist,LIC-407645,Urology,27,555-6902,carolyn.reyes61@hospitaldocs.com,329.91
+DOC0431,Christopher,Richardson,Emergency Medicine Specialist,LIC-396177,Orthopedics,31,555-3115,christopher.richardson23@hospitaldocs.com,119.82
+DOC0432,Nicole,Morales,Pediatrician,LIC-932026,Gastroenterology,32,555-5975,nicole.morales31@hospitaldocs.com,123.3
+DOC0433,Michael,Williams,ENT Specialist,LIC-373477,ENT,11,555-3862,michael.williams65@hospitaldocs.com,61.19
+DOC0434,William,Baker,Gastroenterologist,LIC-219505,ICU,15,555-2977,william.baker72@hospitaldocs.com,128.43
+DOC0435,Kimberly,Baker,ENT Specialist,LIC-906747,Neurology,18,555-3476,kimberly.baker89@hospitaldocs.com,355.79
+DOC0436,Nicole,Wilson,Neurologist,LIC-559094,Pulmonology,8,555-2734,nicole.wilson79@hospitaldocs.com,263.38
+DOC0437,Susan,Bailey,Neurologist,LIC-631948,Pediatrics,11,555-2934,susan.bailey27@hospitaldocs.com,368.85
+DOC0438,Christopher,Nguyen,Pulmonologist,LIC-898977,Endocrinology,32,555-2626,christopher.nguyen20@hospitaldocs.com,276.48
+DOC0439,Kevin,Moore,Pediatrician,LIC-989816,Emergency,29,555-7811,kevin.moore99@hospitaldocs.com,319.16
+DOC0440,Ashley,Stewart,Psychiatrist,LIC-400687,Endocrinology,11,555-2396,ashley.stewart35@hospitaldocs.com,180.35
+DOC0441,Dennis,Turner,ENT Specialist,LIC-760016,General Surgery,10,555-9677,dennis.turner54@hospitaldocs.com,325.53
+DOC0442,Sarah,Diaz,Gastroenterologist,LIC-529191,Pulmonology,34,555-6927,sarah.diaz4@hospitaldocs.com,204.9
+DOC0443,Jerry,Johnson,Endocrinologist,LIC-172961,Orthopedics,22,555-6157,jerry.johnson52@hospitaldocs.com,393.68
+DOC0444,Nancy,Parker,Neurologist,LIC-512369,Neurology,10,555-1947,nancy.parker81@hospitaldocs.com,393.02
+DOC0445,Gregory,Gutierrez,Dermatologist,LIC-539673,Urology,20,555-6139,gregory.gutierrez45@hospitaldocs.com,52.77
+DOC0446,Emily,Ortiz,Intensivist,LIC-253995,Urology,29,555-4360,emily.ortiz70@hospitaldocs.com,268.53
+DOC0447,Helen,Cruz,ENT Specialist,LIC-951266,Urology,13,555-5940,helen.cruz11@hospitaldocs.com,62.94
+DOC0448,Kevin,Roberts,Oncologist,LIC-645752,Ophthalmology,19,555-4501,kevin.roberts12@hospitaldocs.com,229.09
+DOC0449,Michelle,Gutierrez,Psychiatrist,LIC-893820,Radiology,2,555-1456,michelle.gutierrez70@hospitaldocs.com,257.38
+DOC0450,Donald,Hill,Gastroenterologist,LIC-629818,Pediatrics,4,555-7110,donald.hill34@hospitaldocs.com,269.45
+DOC0451,Amanda,Thomas,Neurologist,LIC-893310,Pediatrics,29,555-5881,amanda.thomas74@hospitaldocs.com,307.9
+DOC0452,Ryan,Baker,General Surgeon,LIC-944510,Anesthesiology,35,555-4831,ryan.baker45@hospitaldocs.com,154.72
+DOC0453,Christine,Kelly,Oncologist,LIC-849051,Urology,34,555-5057,christine.kelly14@hospitaldocs.com,164.75
+DOC0454,Justin,Harris,ENT Specialist,LIC-576378,Pediatrics,10,555-7974,justin.harris53@hospitaldocs.com,78.68
+DOC0455,Linda,Diaz,Oncologist,LIC-599387,Emergency,29,555-2279,linda.diaz48@hospitaldocs.com,286.89
+DOC0456,Stephanie,Ramos,Ophthalmologist,LIC-644153,Urology,17,555-9172,stephanie.ramos82@hospitaldocs.com,198.2
+DOC0457,Jeffrey,Morales,Gastroenterologist,LIC-963829,Radiology,10,555-9286,jeffrey.morales17@hospitaldocs.com,219.67
+DOC0458,Ryan,Taylor,Endocrinologist,LIC-654844,Pediatrics,14,555-8461,ryan.taylor61@hospitaldocs.com,61.41
+DOC0459,Christopher,Bailey,ENT Specialist,LIC-224535,ICU,27,555-2807,christopher.bailey16@hospitaldocs.com,179.36
+DOC0460,Donna,Garcia,Endocrinologist,LIC-260751,Pediatrics,24,555-5995,donna.garcia48@hospitaldocs.com,156.14
+DOC0461,Gary,Brown,Oncologist,LIC-249044,Anesthesiology,27,555-1797,gary.brown40@hospitaldocs.com,361.17
+DOC0462,Margaret,White,Nephrologist,LIC-102187,Pediatrics,23,555-2106,margaret.white6@hospitaldocs.com,196.15
+DOC0463,Pamela,Flores,Anesthesiologist,LIC-574348,Psychiatry,25,555-8786,pamela.flores93@hospitaldocs.com,341.79
+DOC0464,Thomas,Moore,Endocrinologist,LIC-767376,Pulmonology,29,555-8357,thomas.moore20@hospitaldocs.com,353.22
+DOC0465,Dorothy,Lopez,Intensivist,LIC-796781,ICU,27,555-7344,dorothy.lopez30@hospitaldocs.com,365.09
+DOC0466,Carol,Cooper,Neurologist,LIC-803011,Pulmonology,18,555-2450,carol.cooper22@hospitaldocs.com,297.52
+DOC0467,Pamela,Flores,Ophthalmologist,LIC-776498,Pediatrics,6,555-4152,pamela.flores80@hospitaldocs.com,239.64
+DOC0468,Dennis,Miller,Anesthesiologist,LIC-647098,Emergency,31,555-9235,dennis.miller3@hospitaldocs.com,92.1
+DOC0469,Jonathan,White,Cardiologist,LIC-388319,Emergency,16,555-8278,jonathan.white11@hospitaldocs.com,332.42
+DOC0470,Nicole,Adams,Urologist,LIC-717499,Neurology,32,555-1381,nicole.adams44@hospitaldocs.com,202.96
+DOC0471,Rebecca,Brown,Endocrinologist,LIC-432799,Urology,17,555-2491,rebecca.brown15@hospitaldocs.com,392.93
+DOC0472,Anna,Perez,Dermatologist,LIC-251030,Radiology,17,555-2468,anna.perez20@hospitaldocs.com,157.38
+DOC0473,Timothy,Perez,Neurologist,LIC-744324,Psychiatry,12,555-1445,timothy.perez92@hospitaldocs.com,70.48
+DOC0474,Deborah,Gonzalez,Psychiatrist,LIC-249380,Gastroenterology,21,555-5225,deborah.gonzalez49@hospitaldocs.com,379.55
+DOC0475,Jessica,Miller,Emergency Medicine Specialist,LIC-351262,ICU,16,555-9076,jessica.miller66@hospitaldocs.com,313.34
+DOC0476,Deborah,Anderson,Gynecologist,LIC-163577,Psychiatry,30,555-7669,deborah.anderson9@hospitaldocs.com,219.46
+DOC0477,Timothy,Robinson,Cardiologist,LIC-382234,Ophthalmology,7,555-5035,timothy.robinson98@hospitaldocs.com,244.15
+DOC0478,Thomas,Hill,Anesthesiologist,LIC-526504,Pulmonology,6,555-9199,thomas.hill27@hospitaldocs.com,324.01
+DOC0479,Charles,Mitchell,Ophthalmologist,LIC-276358,General Surgery,35,555-7942,charles.mitchell72@hospitaldocs.com,208.11
+DOC0480,James,Reyes,Intensivist,LIC-403300,Radiology,1,555-1985,james.reyes62@hospitaldocs.com,145.66
+DOC0481,Steven,Carter,ENT Specialist,LIC-983360,Emergency,33,555-5609,steven.carter6@hospitaldocs.com,106.5
+DOC0482,Jonathan,Reed,Orthopedic Surgeon,LIC-415242,Orthopedics,26,555-3014,jonathan.reed18@hospitaldocs.com,303.78
+DOC0483,Emily,Parker,Emergency Medicine Specialist,LIC-740098,Endocrinology,21,555-6613,emily.parker82@hospitaldocs.com,141.48
+DOC0484,Dennis,Edwards,Gynecologist,LIC-357874,Psychiatry,22,555-4450,dennis.edwards59@hospitaldocs.com,385.65
+DOC0485,Kevin,Williams,Oncologist,LIC-777844,Cardiology,31,555-1070,kevin.williams2@hospitaldocs.com,285.45
+DOC0486,Timothy,Bailey,Nephrologist,LIC-899502,Urology,35,555-2329,timothy.bailey84@hospitaldocs.com,277.94
+DOC0487,Jonathan,Brown,Pulmonologist,LIC-804900,Pediatrics,23,555-7166,jonathan.brown77@hospitaldocs.com,175.29
+DOC0488,Daniel,Johnson,Pediatrician,LIC-585168,ENT,13,555-8283,daniel.johnson2@hospitaldocs.com,127.53
+DOC0489,John,Scott,ENT Specialist,LIC-300814,Orthopedics,20,555-4623,john.scott30@hospitaldocs.com,393.04
+DOC0490,George,Jones,Gynecologist,LIC-616777,ICU,14,555-1116,george.jones26@hospitaldocs.com,394.49
+DOC0491,Samantha,Gomez,Pediatrician,LIC-390819,Anesthesiology,33,555-9093,samantha.gomez22@hospitaldocs.com,243.12
+DOC0492,Gregory,Reed,Intensivist,LIC-692592,Radiology,5,555-3101,gregory.reed96@hospitaldocs.com,72.77
+DOC0493,Kimberly,Reed,General Surgeon,LIC-648489,Gynecology,13,555-1378,kimberly.reed89@hospitaldocs.com,287.21
+DOC0494,Brandon,Allen,Ophthalmologist,LIC-575976,Cardiology,28,555-1849,brandon.allen42@hospitaldocs.com,201.39
+DOC0495,Timothy,Scott,Pediatrician,LIC-813213,Endocrinology,30,555-9119,timothy.scott47@hospitaldocs.com,231.04
+DOC0496,Jennifer,Lewis,Neurologist,LIC-391433,Gastroenterology,35,555-8354,jennifer.lewis41@hospitaldocs.com,51.81
+DOC0497,Matthew,Nelson,Orthopedic Surgeon,LIC-699596,Cardiology,15,555-7943,matthew.nelson10@hospitaldocs.com,370.95
+DOC0498,Betty,Perez,Psychiatrist,LIC-425903,Orthopedics,7,555-1456,betty.perez62@hospitaldocs.com,201.18
+DOC0499,Patricia,Ramos,Psychiatrist,LIC-981336,Gynecology,16,555-2766,patricia.ramos61@hospitaldocs.com,133.43
+DOC0500,Carol,Miller,Psychiatrist,LIC-644918,General Surgery,5,555-8184,carol.miller98@hospitaldocs.com,83.48
+DOC0501,Laura,Howard,Pediatrician,LIC-189689,Neurology,3,555-7183,laura.howard41@hospitaldocs.com,361.53
+DOC0502,Frank,Rodriguez,Oncologist,LIC-165014,Pulmonology,4,555-5939,frank.rodriguez79@hospitaldocs.com,269.16
+DOC0503,William,Wilson,Neurologist,LIC-686424,Neurology,19,555-7249,william.wilson52@hospitaldocs.com,83.54
+DOC0504,Dennis,Evans,General Surgeon,LIC-728700,ICU,1,555-8428,dennis.evans50@hospitaldocs.com,212.47
+DOC0505,Jason,Richardson,Intensivist,LIC-206197,Psychiatry,2,555-8439,jason.richardson67@hospitaldocs.com,164.87
+DOC0506,Matthew,Wilson,Pediatrician,LIC-112885,ICU,5,555-4172,matthew.wilson74@hospitaldocs.com,94.09
+DOC0507,Angela,Allen,ENT Specialist,LIC-541457,Nephrology,29,555-4046,angela.allen32@hospitaldocs.com,98.19
+DOC0508,Jennifer,Davis,Oncologist,LIC-426806,Anesthesiology,28,555-9407,jennifer.davis84@hospitaldocs.com,314.03
+DOC0509,Michelle,Howard,Ophthalmologist,LIC-913166,Oncology,10,555-8692,michelle.howard40@hospitaldocs.com,261.17
+DOC0510,Donna,Mitchell,Cardiologist,LIC-642827,Anesthesiology,10,555-1939,donna.mitchell31@hospitaldocs.com,227.49
+DOC0511,Brenda,Miller,Gastroenterologist,LIC-460517,Emergency,13,555-4297,brenda.miller9@hospitaldocs.com,169.54
+DOC0512,Christine,Stewart,Pulmonologist,LIC-728896,Psychiatry,22,555-5909,christine.stewart54@hospitaldocs.com,165.02
+DOC0513,Susan,Collins,Neurologist,LIC-620021,General Surgery,1,555-4654,susan.collins89@hospitaldocs.com,130.6
+DOC0514,Helen,Ramirez,General Surgeon,LIC-604098,Psychiatry,25,555-4363,helen.ramirez52@hospitaldocs.com,114.49
+DOC0515,James,Campbell,Cardiologist,LIC-177312,ENT,2,555-2887,james.campbell19@hospitaldocs.com,151.7
+DOC0516,Matthew,Howard,ENT Specialist,LIC-146037,Cardiology,13,555-4241,matthew.howard37@hospitaldocs.com,110.95
+DOC0517,Kimberly,Thompson,Psychiatrist,LIC-988704,Ophthalmology,16,555-3925,kimberly.thompson26@hospitaldocs.com,57.52
+DOC0518,Kimberly,Gonzalez,Cardiologist,LIC-971834,Oncology,25,555-2818,kimberly.gonzalez44@hospitaldocs.com,377.64
+DOC0519,Michelle,Collins,General Surgeon,LIC-487596,ENT,11,555-9633,michelle.collins80@hospitaldocs.com,358.58
+DOC0520,Carolyn,Rodriguez,Pediatrician,LIC-251448,Oncology,13,555-4140,carolyn.rodriguez69@hospitaldocs.com,182.37

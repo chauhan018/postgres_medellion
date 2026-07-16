@@ -1,0 +1,551 @@
+employee_id,first_name,last_name,role,department,hire_date,salary,phone,email,shift
+EMP0001,Samantha,Anderson,Nurse,Gynecology,2015-06-30,42955.12,555-2679,samantha.anderson87@hospitalstaff.com,Night
+EMP0002,Anna,Lopez,Accountant,Gastroenterology,2010-09-18,29996.41,555-4582,anna.lopez30@hospitalstaff.com,Night
+EMP0003,Nicole,Brown,Security Guard,Emergency,2024-07-29,74988.77,555-7873,nicole.brown29@hospitalstaff.com,Evening
+EMP0004,Emma,Scott,Nurse,Radiology,2025-08-29,56315.16,555-5552,emma.scott20@hospitalstaff.com,Morning
+EMP0005,Heather,Baker,Lab Technician,Orthopedics,2018-07-10,34480.0,555-6635,heather.baker78@hospitalstaff.com,Evening
+EMP0006,Jennifer,Collins,Security Guard,Pediatrics,2018-06-28,33279.61,555-5803,jennifer.collins81@hospitalstaff.com,Night
+EMP0007,George,Kelly,Pharmacist,Orthopedics,2011-01-11,72304.64,555-5741,george.kelly11@hospitalstaff.com,Morning
+EMP0008,Richard,Carter,Ward Boy,Pulmonology,2024-04-04,83885.4,555-3664,richard.carter48@hospitalstaff.com,Evening
+EMP0009,Anthony,Wright,Dietitian,Orthopedics,2023-08-31,70543.55,555-9751,anthony.wright94@hospitalstaff.com,Morning
+EMP0010,Christopher,Reyes,Radiologist Technician,Gynecology,2024-05-09,74106.85,555-4598,christopher.reyes88@hospitalstaff.com,Evening
+EMP0011,Jerry,Davis,Pharmacist,Neurology,2017-01-28,54878.04,555-2084,jerry.davis28@hospitalstaff.com,Night
+EMP0012,Carolyn,Green,Pharmacist,Nephrology,2018-11-16,87273.77,555-8517,carolyn.green19@hospitalstaff.com,Evening
+EMP0013,Sarah,Young,Dietitian,Ophthalmology,2022-02-02,45603.69,555-8019,sarah.young75@hospitalstaff.com,Evening
+EMP0014,George,Lewis,Receptionist,Endocrinology,2021-01-25,34090.93,555-1771,george.lewis15@hospitalstaff.com,Morning
+EMP0015,Benjamin,Lee,IT Support,Gastroenterology,2023-05-18,32256.36,555-7252,benjamin.lee77@hospitalstaff.com,Evening
+EMP0016,Shirley,Allen,Security Guard,Cardiology,2025-04-04,76288.36,555-9797,shirley.allen97@hospitalstaff.com,Evening
+EMP0017,Jerry,Baker,Lab Technician,Dermatology,2019-10-02,38596.57,555-1053,jerry.baker93@hospitalstaff.com,Night
+EMP0018,Kimberly,Cook,Receptionist,Endocrinology,2012-05-21,86324.74,555-5889,kimberly.cook82@hospitalstaff.com,Night
+EMP0019,Nicole,Sanchez,Receptionist,ENT,2013-08-16,64138.4,555-9689,nicole.sanchez1@hospitalstaff.com,Night
+EMP0020,Dorothy,Morales,Nurse,Pediatrics,2018-02-21,86874.37,555-6038,dorothy.morales31@hospitalstaff.com,Morning
+EMP0021,Donald,Reed,Lab Technician,Orthopedics,2020-11-25,82673.56,555-9727,donald.reed99@hospitalstaff.com,Morning
+EMP0022,Thomas,Stewart,Security Guard,Radiology,2015-12-12,63354.14,555-7932,thomas.stewart28@hospitalstaff.com,Night
+EMP0023,Dennis,Sanchez,Dietitian,Dermatology,2018-12-13,94675.01,555-7118,dennis.sanchez57@hospitalstaff.com,Night
+EMP0024,Laura,Thomas,Pharmacist,General Surgery,2011-06-09,50651.73,555-4770,laura.thomas76@hospitalstaff.com,Morning
+EMP0025,James,Martinez,Dietitian,Neurology,2015-02-19,32515.82,555-1514,james.martinez43@hospitalstaff.com,Morning
+EMP0026,Angela,Walker,Ward Boy,Nephrology,2014-10-22,64128.67,555-8744,angela.walker32@hospitalstaff.com,Evening
+EMP0027,Timothy,Harris,Lab Technician,Pediatrics,2024-10-12,56880.43,555-7939,timothy.harris53@hospitalstaff.com,Evening
+EMP0028,Janet,Miller,IT Support,Pediatrics,2011-05-12,54975.63,555-6559,janet.miller14@hospitalstaff.com,Morning
+EMP0029,Matthew,Harris,Security Guard,Pulmonology,2013-02-22,56266.07,555-5563,matthew.harris60@hospitalstaff.com,Morning
+EMP0030,Elizabeth,Cruz,Security Guard,Pediatrics,2011-02-19,71693.71,555-9856,elizabeth.cruz2@hospitalstaff.com,Morning
+EMP0031,Dennis,Walker,Receptionist,Gastroenterology,2020-11-22,60251.01,555-7570,dennis.walker8@hospitalstaff.com,Morning
+EMP0032,Edward,Smith,Radiologist Technician,Gynecology,2020-03-16,47111.7,555-8973,edward.smith20@hospitalstaff.com,Morning
+EMP0033,Donna,Ramirez,Nurse,Anesthesiology,2022-02-28,32084.16,555-6138,donna.ramirez8@hospitalstaff.com,Morning
+EMP0034,Justin,Morris,Security Guard,Endocrinology,2013-07-13,31810.93,555-9320,justin.morris11@hospitalstaff.com,Morning
+EMP0035,William,Kim,Lab Technician,General Surgery,2019-01-21,36032.4,555-5033,william.kim75@hospitalstaff.com,Night
+EMP0036,Jennifer,Richardson,Lab Technician,Gastroenterology,2024-09-29,67106.04,555-9565,jennifer.richardson41@hospitalstaff.com,Evening
+EMP0037,Anthony,Green,Pharmacist,Gynecology,2018-11-17,36768.84,555-5915,anthony.green59@hospitalstaff.com,Evening
+EMP0038,Dennis,Martinez,Nurse,Pulmonology,2023-12-07,94896.45,555-2638,dennis.martinez10@hospitalstaff.com,Night
+EMP0039,Margaret,Cook,Ward Boy,Oncology,2017-10-30,87017.9,555-5002,margaret.cook48@hospitalstaff.com,Evening
+EMP0040,Christopher,Cruz,Security Guard,Dermatology,2023-09-20,93918.17,555-9666,christopher.cruz2@hospitalstaff.com,Night
+EMP0041,Stephen,Hill,IT Support,Pediatrics,2013-01-05,45719.22,555-2753,stephen.hill96@hospitalstaff.com,Night
+EMP0042,Karen,Wright,Ward Boy,ICU,2014-09-22,76080.02,555-4335,karen.wright88@hospitalstaff.com,Night
+EMP0043,Kimberly,Cook,Housekeeping Staff,Gynecology,2011-02-21,34184.0,555-7939,kimberly.cook36@hospitalstaff.com,Morning
+EMP0044,James,Nelson,Receptionist,Gynecology,2013-08-16,77662.47,555-8007,james.nelson72@hospitalstaff.com,Morning
+EMP0045,Joseph,Martinez,Dietitian,Oncology,2022-03-28,30413.89,555-7049,joseph.martinez75@hospitalstaff.com,Night
+EMP0046,Charles,Parker,Receptionist,Neurology,2016-11-30,52431.65,555-1653,charles.parker46@hospitalstaff.com,Morning
+EMP0047,Debra,Young,IT Support,Pediatrics,2017-12-07,80267.79,555-7658,debra.young80@hospitalstaff.com,Night
+EMP0048,Karen,Walker,Receptionist,Radiology,2019-04-01,29660.69,555-6442,karen.walker53@hospitalstaff.com,Night
+EMP0049,Jack,Young,Ward Boy,Radiology,2025-09-23,35242.41,555-1634,jack.young61@hospitalstaff.com,Morning
+EMP0050,Betty,Collins,Administrator,Dermatology,2015-02-08,42935.88,555-4164,betty.collins52@hospitalstaff.com,Evening
+EMP0051,Emily,Rodriguez,Ward Boy,ENT,2024-05-22,62130.18,555-9785,emily.rodriguez43@hospitalstaff.com,Morning
+EMP0052,Joseph,King,Receptionist,Anesthesiology,2015-12-15,30563.23,555-8119,joseph.king45@hospitalstaff.com,Night
+EMP0053,Kenneth,Parker,Accountant,Endocrinology,2012-08-05,53808.09,555-4114,kenneth.parker33@hospitalstaff.com,Morning
+EMP0054,Patrick,Parker,Nurse,Endocrinology,2022-01-28,74019.43,555-4228,patrick.parker47@hospitalstaff.com,Evening
+EMP0055,William,Nelson,Accountant,Psychiatry,2024-11-17,84817.02,555-5920,william.nelson65@hospitalstaff.com,Evening
+EMP0056,Christine,Evans,Administrator,Urology,2025-08-21,47808.9,555-3085,christine.evans25@hospitalstaff.com,Evening
+EMP0057,Christine,Carter,IT Support,Radiology,2023-10-22,66130.05,555-7653,christine.carter71@hospitalstaff.com,Morning
+EMP0058,Joshua,Torres,Pharmacist,Gastroenterology,2023-01-04,68646.33,555-6279,joshua.torres60@hospitalstaff.com,Evening
+EMP0059,Jeffrey,Ramirez,Security Guard,Nephrology,2013-10-22,72143.0,555-5649,jeffrey.ramirez66@hospitalstaff.com,Night
+EMP0060,Samantha,Richardson,Administrator,Orthopedics,2015-04-09,73077.31,555-4680,samantha.richardson26@hospitalstaff.com,Morning
+EMP0061,Patricia,Garcia,Pharmacist,Nephrology,2023-09-17,84932.43,555-2193,patricia.garcia59@hospitalstaff.com,Evening
+EMP0062,Benjamin,Kelly,Pharmacist,Urology,2021-02-01,54776.74,555-3417,benjamin.kelly84@hospitalstaff.com,Night
+EMP0063,James,Wilson,Radiologist Technician,General Surgery,2013-12-11,81875.36,555-9486,james.wilson60@hospitalstaff.com,Morning
+EMP0064,Brenda,Young,Lab Technician,Pulmonology,2012-12-28,81694.91,555-9702,brenda.young72@hospitalstaff.com,Night
+EMP0065,Kenneth,Cruz,Accountant,Endocrinology,2019-07-28,83648.13,555-9976,kenneth.cruz58@hospitalstaff.com,Morning
+EMP0066,Maria,Stewart,Housekeeping Staff,Gynecology,2015-07-19,84270.81,555-5543,maria.stewart99@hospitalstaff.com,Night
+EMP0067,Gary,Walker,Ward Boy,Pulmonology,2011-09-27,75807.51,555-4841,gary.walker35@hospitalstaff.com,Evening
+EMP0068,Kenneth,Cooper,Lab Technician,Oncology,2013-05-20,43494.52,555-3503,kenneth.cooper91@hospitalstaff.com,Morning
+EMP0069,William,Turner,Radiologist Technician,Psychiatry,2022-03-04,59216.93,555-2020,william.turner27@hospitalstaff.com,Evening
+EMP0070,Deborah,Howard,Dietitian,Cardiology,2022-11-30,53485.53,555-1096,deborah.howard46@hospitalstaff.com,Evening
+EMP0071,Dennis,Roberts,Radiologist Technician,Ophthalmology,2022-04-01,81591.17,555-4613,dennis.roberts63@hospitalstaff.com,Morning
+EMP0072,Paul,Parker,Housekeeping Staff,Cardiology,2018-09-21,50520.68,555-7624,paul.parker93@hospitalstaff.com,Morning
+EMP0073,Cynthia,Taylor,Accountant,Ophthalmology,2010-08-09,88764.23,555-1444,cynthia.taylor11@hospitalstaff.com,Night
+EMP0074,Jason,Moore,Housekeeping Staff,Radiology,2011-02-16,45430.47,555-6363,jason.moore28@hospitalstaff.com,Evening
+EMP0075,Dorothy,Baker,Radiologist Technician,Gynecology,2019-06-16,44902.19,555-2341,dorothy.baker61@hospitalstaff.com,Morning
+EMP0076,Maria,Cooper,Nurse,ENT,2015-01-11,71559.65,555-1659,maria.cooper97@hospitalstaff.com,Morning
+EMP0077,Ashley,Sanchez,Nurse,ICU,2013-06-02,43982.51,555-8758,ashley.sanchez86@hospitalstaff.com,Morning
+EMP0078,Larry,Ramirez,Housekeeping Staff,Gynecology,2018-04-10,39241.87,555-2876,larry.ramirez21@hospitalstaff.com,Evening
+EMP0079,Susan,Howard,Nurse,Dermatology,2022-11-30,73382.27,555-7149,susan.howard51@hospitalstaff.com,Night
+EMP0080,Betty,Martinez,Accountant,General Surgery,2012-04-14,74711.93,555-5941,betty.martinez88@hospitalstaff.com,Night
+EMP0081,Jessica,Reed,Nurse,ENT,2021-12-13,56701.33,555-7071,jessica.reed9@hospitalstaff.com,Night
+EMP0082,Samuel,Baker,Nurse,Gastroenterology,2020-12-29,35071.1,555-6934,samuel.baker82@hospitalstaff.com,Evening
+EMP0083,Patrick,Martin,Radiologist Technician,Radiology,2021-09-14,92686.74,555-5425,patrick.martin79@hospitalstaff.com,Night
+EMP0084,Diane,Morris,Housekeeping Staff,Gastroenterology,2023-04-16,45982.5,555-5022,diane.morris12@hospitalstaff.com,Evening
+EMP0085,Laura,Young,Housekeeping Staff,Anesthesiology,2023-09-09,72768.63,555-6511,laura.young4@hospitalstaff.com,Evening
+EMP0086,Dorothy,White,Housekeeping Staff,Emergency,2017-12-16,81454.77,555-6576,dorothy.white36@hospitalstaff.com,Night
+EMP0087,Rachel,Scott,Security Guard,Cardiology,2021-08-03,91520.19,555-2402,rachel.scott31@hospitalstaff.com,Night
+EMP0088,Timothy,Morales,Security Guard,General Surgery,2025-06-28,59898.24,555-9041,timothy.morales58@hospitalstaff.com,Morning
+EMP0089,Barbara,Nguyen,Pharmacist,Urology,2025-07-08,44301.45,555-7046,barbara.nguyen61@hospitalstaff.com,Night
+EMP0090,Shirley,Hall,Radiologist Technician,Ophthalmology,2017-06-02,51571.31,555-8434,shirley.hall35@hospitalstaff.com,Evening
+EMP0091,Steven,Robinson,Lab Technician,Emergency,2017-01-28,36010.17,555-9779,steven.robinson98@hospitalstaff.com,Night
+EMP0092,Lisa,Harris,Pharmacist,Nephrology,2016-03-15,76547.2,555-9595,lisa.harris77@hospitalstaff.com,Evening
+EMP0093,Richard,Harris,Ward Boy,General Surgery,2018-02-04,40022.58,555-1231,richard.harris91@hospitalstaff.com,Night
+EMP0094,Thomas,Scott,Nurse,Neurology,2022-05-31,47573.16,555-3068,thomas.scott82@hospitalstaff.com,Evening
+EMP0095,Susan,Johnson,Accountant,Dermatology,2020-07-12,60073.85,555-6582,susan.johnson24@hospitalstaff.com,Morning
+EMP0096,Steven,Morris,Lab Technician,Orthopedics,2018-12-27,60947.02,555-1878,steven.morris20@hospitalstaff.com,Morning
+EMP0097,Larry,Hill,Lab Technician,General Surgery,2012-08-28,65390.89,555-7818,larry.hill78@hospitalstaff.com,Night
+EMP0098,Helen,Lewis,Security Guard,Urology,2020-02-08,88869.79,555-5871,helen.lewis76@hospitalstaff.com,Evening
+EMP0099,Michelle,Reed,Accountant,Neurology,2023-09-04,92327.29,555-2625,michelle.reed98@hospitalstaff.com,Morning
+EMP0100,Benjamin,Ramirez,Ward Boy,Orthopedics,2013-07-10,44070.97,555-2229,benjamin.ramirez21@hospitalstaff.com,Morning
+EMP0101,Timothy,Edwards,Dietitian,ICU,2020-07-16,47514.37,555-4792,timothy.edwards37@hospitalstaff.com,Night
+EMP0102,Andrew,Collins,Lab Technician,General Surgery,2015-12-08,80784.48,555-4241,andrew.collins55@hospitalstaff.com,Morning
+EMP0103,Anna,Lewis,IT Support,Oncology,2015-12-17,83384.29,555-2169,anna.lewis8@hospitalstaff.com,Morning
+EMP0104,Michelle,Kim,Dietitian,Anesthesiology,2016-06-22,57423.28,555-8679,michelle.kim89@hospitalstaff.com,Evening
+EMP0105,Rachel,Phillips,Ward Boy,Endocrinology,2022-02-10,61084.28,555-2317,rachel.phillips77@hospitalstaff.com,Morning
+EMP0106,Sharon,Adams,Accountant,Gynecology,2010-07-31,34118.9,555-1339,sharon.adams98@hospitalstaff.com,Night
+EMP0107,Paul,Kelly,Nurse,Radiology,2020-07-21,62770.58,555-8245,paul.kelly36@hospitalstaff.com,Morning
+EMP0108,Justin,Parker,IT Support,Nephrology,2012-01-18,59490.7,555-7690,justin.parker43@hospitalstaff.com,Evening
+EMP0109,Christine,Wilson,Receptionist,Psychiatry,2019-03-27,74476.14,555-5722,christine.wilson85@hospitalstaff.com,Evening
+EMP0110,Heather,Peterson,Nurse,Pulmonology,2011-12-23,49072.65,555-6296,heather.peterson15@hospitalstaff.com,Evening
+EMP0111,Angela,Smith,IT Support,Ophthalmology,2020-05-12,55687.59,555-4073,angela.smith67@hospitalstaff.com,Evening
+EMP0112,Helen,Murphy,IT Support,Pulmonology,2011-02-27,41638.4,555-9998,helen.murphy17@hospitalstaff.com,Evening
+EMP0113,Jeffrey,Morales,Lab Technician,Cardiology,2024-02-18,68794.4,555-4920,jeffrey.morales91@hospitalstaff.com,Morning
+EMP0114,Michelle,Peterson,Nurse,Ophthalmology,2019-02-25,34245.02,555-2858,michelle.peterson60@hospitalstaff.com,Morning
+EMP0115,Samuel,Martin,Housekeeping Staff,Dermatology,2021-05-31,75262.58,555-7807,samuel.martin62@hospitalstaff.com,Evening
+EMP0116,Ashley,Collins,Security Guard,Oncology,2018-08-09,40770.89,555-9327,ashley.collins96@hospitalstaff.com,Morning
+EMP0117,William,Scott,Radiologist Technician,Psychiatry,2021-05-22,45900.57,555-1042,william.scott37@hospitalstaff.com,Night
+EMP0118,Joshua,Ramos,Accountant,Nephrology,2013-05-02,57918.68,555-8935,joshua.ramos45@hospitalstaff.com,Evening
+EMP0119,Stephen,Cooper,Radiologist Technician,Pulmonology,2017-03-21,86263.31,555-4912,stephen.cooper74@hospitalstaff.com,Evening
+EMP0120,Sandra,Evans,Nurse,Psychiatry,2020-08-10,75250.27,555-7246,sandra.evans50@hospitalstaff.com,Night
+EMP0121,Katherine,Martin,Housekeeping Staff,Neurology,2012-10-31,61653.51,555-6439,katherine.martin13@hospitalstaff.com,Evening
+EMP0122,Richard,Ortiz,Housekeeping Staff,Cardiology,2013-03-26,55468.57,555-3529,richard.ortiz10@hospitalstaff.com,Evening
+EMP0123,Kimberly,Baker,Accountant,Urology,2024-07-29,33381.13,555-6383,kimberly.baker87@hospitalstaff.com,Night
+EMP0124,Edward,Green,IT Support,Nephrology,2022-02-19,30405.24,555-2121,edward.green31@hospitalstaff.com,Night
+EMP0125,Debra,Torres,Pharmacist,Orthopedics,2019-09-26,93548.63,555-2646,debra.torres57@hospitalstaff.com,Morning
+EMP0126,Frank,Hill,Nurse,Neurology,2017-04-11,81341.61,555-5806,frank.hill46@hospitalstaff.com,Evening
+EMP0127,Sharon,Jackson,Pharmacist,Endocrinology,2019-03-30,65917.18,555-3950,sharon.jackson22@hospitalstaff.com,Morning
+EMP0128,David,Ward,Radiologist Technician,ICU,2025-04-28,44135.6,555-3344,david.ward30@hospitalstaff.com,Evening
+EMP0129,Samantha,Allen,Housekeeping Staff,Gynecology,2024-12-15,28629.63,555-8622,samantha.allen37@hospitalstaff.com,Night
+EMP0130,Anna,Lee,Lab Technician,Pulmonology,2017-10-01,94172.66,555-5901,anna.lee82@hospitalstaff.com,Evening
+EMP0131,Frank,Allen,Housekeeping Staff,Dermatology,2014-06-20,94958.03,555-8916,frank.allen14@hospitalstaff.com,Morning
+EMP0132,Edward,Kelly,Administrator,Anesthesiology,2016-08-20,94510.37,555-5837,edward.kelly3@hospitalstaff.com,Night
+EMP0133,Ronald,Scott,Nurse,Anesthesiology,2025-05-20,80146.88,555-1803,ronald.scott78@hospitalstaff.com,Night
+EMP0134,Amy,Torres,Pharmacist,ICU,2017-11-26,42673.3,555-4115,amy.torres80@hospitalstaff.com,Evening
+EMP0135,Alexander,Moore,IT Support,Pediatrics,2024-01-28,71304.82,555-6061,alexander.moore57@hospitalstaff.com,Morning
+EMP0136,Justin,Campbell,Dietitian,Oncology,2012-01-09,88945.06,555-6352,justin.campbell96@hospitalstaff.com,Evening
+EMP0137,Daniel,Sanchez,Receptionist,Ophthalmology,2018-03-17,63567.11,555-5465,daniel.sanchez22@hospitalstaff.com,Evening
+EMP0138,Kathleen,Nguyen,Dietitian,Psychiatry,2012-08-01,59378.2,555-2233,kathleen.nguyen19@hospitalstaff.com,Morning
+EMP0139,Alexander,Gomez,Security Guard,ENT,2012-01-10,80975.69,555-1228,alexander.gomez34@hospitalstaff.com,Night
+EMP0140,Jessica,Collins,Administrator,Gynecology,2023-02-10,53528.71,555-7086,jessica.collins14@hospitalstaff.com,Night
+EMP0141,Sandra,Stewart,Nurse,ICU,2022-08-05,49976.42,555-4626,sandra.stewart83@hospitalstaff.com,Morning
+EMP0142,Samantha,Reyes,Dietitian,Dermatology,2024-07-24,55355.82,555-3290,samantha.reyes6@hospitalstaff.com,Morning
+EMP0143,Joshua,Murphy,Lab Technician,Pediatrics,2015-04-08,87446.37,555-3222,joshua.murphy50@hospitalstaff.com,Evening
+EMP0144,Melissa,Cooper,Radiologist Technician,Anesthesiology,2013-06-19,87322.72,555-2622,melissa.cooper63@hospitalstaff.com,Night
+EMP0145,Timothy,Scott,Nurse,ENT,2014-11-15,57706.67,555-4868,timothy.scott47@hospitalstaff.com,Morning
+EMP0146,Debra,Mitchell,Security Guard,ENT,2011-05-12,54675.36,555-4109,debra.mitchell16@hospitalstaff.com,Evening
+EMP0147,Barbara,Ramirez,IT Support,ICU,2010-06-24,31388.76,555-6464,barbara.ramirez32@hospitalstaff.com,Morning
+EMP0148,Larry,Clark,Lab Technician,Ophthalmology,2014-08-25,67287.67,555-4817,larry.clark43@hospitalstaff.com,Morning
+EMP0149,Scott,Smith,Ward Boy,Oncology,2012-11-30,64194.44,555-3858,scott.smith15@hospitalstaff.com,Night
+EMP0150,Patricia,Taylor,Nurse,ENT,2015-05-04,67453.15,555-1258,patricia.taylor23@hospitalstaff.com,Evening
+EMP0151,Michael,Taylor,Dietitian,Gastroenterology,2021-10-19,35614.5,555-2041,michael.taylor61@hospitalstaff.com,Evening
+EMP0152,Diane,Campbell,Security Guard,Anesthesiology,2012-06-12,58284.36,555-4629,diane.campbell79@hospitalstaff.com,Morning
+EMP0153,Janet,Gutierrez,Ward Boy,Pulmonology,2024-06-06,92589.75,555-1996,janet.gutierrez62@hospitalstaff.com,Evening
+EMP0154,Jason,Wilson,Housekeeping Staff,Pulmonology,2011-08-26,88250.87,555-6277,jason.wilson78@hospitalstaff.com,Morning
+EMP0155,William,Taylor,Ward Boy,ICU,2024-03-14,67219.43,555-6327,william.taylor49@hospitalstaff.com,Night
+EMP0156,Shirley,Nguyen,Housekeeping Staff,Endocrinology,2023-07-31,56823.35,555-2874,shirley.nguyen84@hospitalstaff.com,Night
+EMP0157,Jerry,Peterson,Dietitian,Emergency,2019-08-25,58254.18,555-4743,jerry.peterson53@hospitalstaff.com,Evening
+EMP0158,Ryan,Phillips,Radiologist Technician,Pediatrics,2017-01-04,56593.19,555-5176,ryan.phillips48@hospitalstaff.com,Morning
+EMP0159,Debra,Stewart,Lab Technician,Orthopedics,2011-12-01,34246.42,555-2582,debra.stewart96@hospitalstaff.com,Night
+EMP0160,Melissa,Taylor,Security Guard,Neurology,2023-02-26,92093.85,555-6400,melissa.taylor86@hospitalstaff.com,Morning
+EMP0161,Timothy,Rivera,IT Support,Gastroenterology,2011-02-26,92882.71,555-6119,timothy.rivera46@hospitalstaff.com,Morning
+EMP0162,Pamela,Cook,Pharmacist,Oncology,2024-09-23,60306.69,555-2773,pamela.cook45@hospitalstaff.com,Night
+EMP0163,Melissa,Anderson,Ward Boy,Anesthesiology,2015-01-27,82083.83,555-1430,melissa.anderson78@hospitalstaff.com,Night
+EMP0164,Frank,Wright,Nurse,Radiology,2016-02-17,75080.82,555-6062,frank.wright44@hospitalstaff.com,Evening
+EMP0165,James,White,Receptionist,Anesthesiology,2024-09-28,54852.55,555-3324,james.white95@hospitalstaff.com,Night
+EMP0166,Patricia,Lopez,Dietitian,Endocrinology,2014-10-29,53205.03,555-8432,patricia.lopez44@hospitalstaff.com,Morning
+EMP0167,Melissa,Flores,Dietitian,Psychiatry,2022-09-24,67946.99,555-1861,melissa.flores20@hospitalstaff.com,Morning
+EMP0168,Dennis,Richardson,Nurse,Orthopedics,2016-02-08,57688.57,555-7947,dennis.richardson63@hospitalstaff.com,Night
+EMP0169,Jeffrey,Turner,Ward Boy,Emergency,2021-06-29,35625.77,555-8043,jeffrey.turner15@hospitalstaff.com,Evening
+EMP0170,Alexander,Ramos,Housekeeping Staff,Endocrinology,2024-12-18,48664.1,555-4612,alexander.ramos51@hospitalstaff.com,Night
+EMP0171,Linda,Smith,Pharmacist,Dermatology,2014-09-27,79412.42,555-5186,linda.smith38@hospitalstaff.com,Evening
+EMP0172,Jessica,Smith,Housekeeping Staff,Gastroenterology,2013-12-10,36655.44,555-9725,jessica.smith91@hospitalstaff.com,Morning
+EMP0173,Nicholas,Bailey,IT Support,ENT,2011-08-14,54603.77,555-1693,nicholas.bailey56@hospitalstaff.com,Morning
+EMP0174,Ryan,Martinez,Administrator,Anesthesiology,2019-08-18,66417.78,555-7843,ryan.martinez38@hospitalstaff.com,Morning
+EMP0175,Stephanie,Williams,Administrator,Radiology,2023-11-12,58826.49,555-6928,stephanie.williams12@hospitalstaff.com,Evening
+EMP0176,Susan,Young,Radiologist Technician,Anesthesiology,2018-12-25,63105.49,555-7484,susan.young40@hospitalstaff.com,Night
+EMP0177,Carol,Lewis,Administrator,Radiology,2011-09-18,62202.38,555-2868,carol.lewis68@hospitalstaff.com,Night
+EMP0178,Matthew,Hall,Administrator,Oncology,2015-04-20,34887.9,555-5193,matthew.hall26@hospitalstaff.com,Morning
+EMP0179,Nicole,Martin,IT Support,Orthopedics,2013-12-22,91736.57,555-9095,nicole.martin60@hospitalstaff.com,Night
+EMP0180,Heather,Howard,Housekeeping Staff,Anesthesiology,2024-06-03,70564.99,555-6295,heather.howard81@hospitalstaff.com,Evening
+EMP0181,Karen,Cruz,Lab Technician,Nephrology,2019-12-02,70302.8,555-5500,karen.cruz76@hospitalstaff.com,Morning
+EMP0182,Amanda,Cook,Lab Technician,Dermatology,2020-05-10,58278.23,555-1932,amanda.cook48@hospitalstaff.com,Evening
+EMP0183,Elizabeth,Lopez,Accountant,ICU,2021-05-16,53760.33,555-1672,elizabeth.lopez58@hospitalstaff.com,Night
+EMP0184,Katherine,Harris,Administrator,ICU,2020-09-01,61591.61,555-2013,katherine.harris58@hospitalstaff.com,Morning
+EMP0185,Carol,Hernandez,Security Guard,Radiology,2010-11-17,44598.83,555-8172,carol.hernandez57@hospitalstaff.com,Night
+EMP0186,Eric,Ward,Receptionist,ENT,2018-05-13,89501.76,555-7347,eric.ward53@hospitalstaff.com,Evening
+EMP0187,Alexander,Kim,Nurse,Psychiatry,2011-06-24,50089.28,555-7333,alexander.kim37@hospitalstaff.com,Evening
+EMP0188,Raymond,Cox,Receptionist,Psychiatry,2011-10-30,67043.55,555-3317,raymond.cox45@hospitalstaff.com,Evening
+EMP0189,Katherine,Gomez,Receptionist,ICU,2025-11-24,90846.15,555-6072,katherine.gomez72@hospitalstaff.com,Evening
+EMP0190,Samuel,Nelson,Receptionist,Endocrinology,2012-02-05,71283.66,555-7937,samuel.nelson66@hospitalstaff.com,Evening
+EMP0191,John,Campbell,Ward Boy,Radiology,2014-10-21,50896.07,555-8967,john.campbell25@hospitalstaff.com,Morning
+EMP0192,Sarah,Martin,Lab Technician,Dermatology,2012-04-08,62015.21,555-9843,sarah.martin95@hospitalstaff.com,Night
+EMP0193,Robert,Baker,Accountant,Oncology,2023-05-25,53240.23,555-3658,robert.baker24@hospitalstaff.com,Night
+EMP0194,Jerry,Richardson,Receptionist,Pulmonology,2010-12-24,55527.53,555-4891,jerry.richardson57@hospitalstaff.com,Night
+EMP0195,Andrew,Edwards,Pharmacist,Ophthalmology,2015-05-14,48734.35,555-8684,andrew.edwards25@hospitalstaff.com,Evening
+EMP0196,Alexander,Kelly,Housekeeping Staff,Pulmonology,2016-04-27,80134.31,555-9239,alexander.kelly68@hospitalstaff.com,Evening
+EMP0197,Christopher,Sanchez,Accountant,Oncology,2015-08-11,31496.05,555-8873,christopher.sanchez48@hospitalstaff.com,Night
+EMP0198,Susan,Gutierrez,Lab Technician,Dermatology,2011-11-19,79128.83,555-5469,susan.gutierrez58@hospitalstaff.com,Night
+EMP0199,Charles,Parker,Lab Technician,General Surgery,2020-02-13,87270.19,555-1436,charles.parker54@hospitalstaff.com,Morning
+EMP0200,Ronald,Cook,Administrator,General Surgery,2018-08-30,94633.2,555-7142,ronald.cook29@hospitalstaff.com,Morning
+EMP0201,Kenneth,Gonzalez,Dietitian,Psychiatry,2013-04-11,37219.17,555-5700,kenneth.gonzalez61@hospitalstaff.com,Night
+EMP0202,Sarah,Stewart,Housekeeping Staff,ICU,2010-02-13,88692.45,555-1311,sarah.stewart33@hospitalstaff.com,Morning
+EMP0203,Karen,Peterson,Dietitian,ICU,2021-11-02,56358.07,555-5720,karen.peterson31@hospitalstaff.com,Evening
+EMP0204,Jessica,Miller,Pharmacist,Gastroenterology,2024-05-01,81191.24,555-8489,jessica.miller9@hospitalstaff.com,Morning
+EMP0205,Amy,Kim,Security Guard,Cardiology,2024-03-04,62530.17,555-4963,amy.kim92@hospitalstaff.com,Morning
+EMP0206,Donna,Diaz,Nurse,ICU,2017-11-30,44117.8,555-7825,donna.diaz24@hospitalstaff.com,Night
+EMP0207,Christine,Hernandez,Security Guard,ENT,2011-07-09,91878.05,555-9914,christine.hernandez65@hospitalstaff.com,Night
+EMP0208,Stephen,Williams,Radiologist Technician,Nephrology,2010-12-23,70589.94,555-7116,stephen.williams33@hospitalstaff.com,Night
+EMP0209,John,Rivera,Lab Technician,ENT,2015-05-30,77107.05,555-2698,john.rivera99@hospitalstaff.com,Night
+EMP0210,Jack,Nelson,Receptionist,Neurology,2017-11-26,64582.92,555-3868,jack.nelson88@hospitalstaff.com,Evening
+EMP0211,Rachel,Morris,IT Support,Radiology,2013-01-09,32227.74,555-8498,rachel.morris5@hospitalstaff.com,Evening
+EMP0212,Betty,Garcia,Pharmacist,Neurology,2017-01-29,90535.86,555-9444,betty.garcia51@hospitalstaff.com,Night
+EMP0213,Jacob,Allen,Nurse,Emergency,2016-06-01,51917.27,555-1783,jacob.allen84@hospitalstaff.com,Evening
+EMP0214,Paul,Thomas,Administrator,Gastroenterology,2018-12-21,77801.62,555-7334,paul.thomas44@hospitalstaff.com,Morning
+EMP0215,Amy,Murphy,Administrator,Endocrinology,2015-12-25,81676.92,555-7955,amy.murphy11@hospitalstaff.com,Evening
+EMP0216,Nicole,White,Security Guard,Dermatology,2017-03-16,34874.06,555-6372,nicole.white85@hospitalstaff.com,Evening
+EMP0217,Michelle,Edwards,Accountant,Gastroenterology,2013-09-27,74214.24,555-6759,michelle.edwards58@hospitalstaff.com,Morning
+EMP0218,Janet,Rivera,Accountant,Gastroenterology,2016-02-28,70844.44,555-1939,janet.rivera10@hospitalstaff.com,Night
+EMP0219,Samantha,Phillips,Administrator,Endocrinology,2025-03-28,38719.11,555-1510,samantha.phillips19@hospitalstaff.com,Night
+EMP0220,Alexander,Cruz,Nurse,Oncology,2011-07-05,43811.69,555-7001,alexander.cruz47@hospitalstaff.com,Evening
+EMP0221,Larry,Jones,Accountant,Oncology,2025-03-25,58144.81,555-7077,larry.jones48@hospitalstaff.com,Evening
+EMP0222,Heather,Martinez,Accountant,Oncology,2021-11-16,52585.65,555-6150,heather.martinez84@hospitalstaff.com,Evening
+EMP0223,Ashley,Anderson,Nurse,Radiology,2021-03-12,62688.93,555-2929,ashley.anderson34@hospitalstaff.com,Evening
+EMP0224,Patrick,Edwards,Pharmacist,ICU,2016-05-28,74496.7,555-9047,patrick.edwards26@hospitalstaff.com,Morning
+EMP0225,Sarah,Martinez,Housekeeping Staff,Radiology,2025-12-31,57822.45,555-2438,sarah.martinez88@hospitalstaff.com,Evening
+EMP0226,Christine,Hall,Dietitian,Orthopedics,2022-05-03,64325.48,555-5914,christine.hall21@hospitalstaff.com,Night
+EMP0227,Patrick,Thompson,Administrator,Endocrinology,2015-01-11,36131.28,555-4292,patrick.thompson18@hospitalstaff.com,Morning
+EMP0228,Amy,Brown,Administrator,Ophthalmology,2022-11-02,52717.05,555-3126,amy.brown79@hospitalstaff.com,Morning
+EMP0229,William,Flores,Radiologist Technician,Nephrology,2021-10-16,55523.27,555-7708,william.flores74@hospitalstaff.com,Morning
+EMP0230,Thomas,Green,IT Support,Orthopedics,2020-02-04,59210.82,555-9476,thomas.green45@hospitalstaff.com,Morning
+EMP0231,Diane,Peterson,IT Support,Anesthesiology,2014-01-30,79441.37,555-3114,diane.peterson56@hospitalstaff.com,Night
+EMP0232,Linda,Thomas,Security Guard,Oncology,2016-10-27,39032.02,555-6286,linda.thomas91@hospitalstaff.com,Morning
+EMP0233,Brian,Gutierrez,Ward Boy,Orthopedics,2015-08-15,41152.23,555-5496,brian.gutierrez17@hospitalstaff.com,Night
+EMP0234,Joshua,Ward,Security Guard,Orthopedics,2021-04-10,70946.16,555-3526,joshua.ward22@hospitalstaff.com,Night
+EMP0235,Helen,Cox,Administrator,Anesthesiology,2010-12-04,83290.83,555-1464,helen.cox11@hospitalstaff.com,Morning
+EMP0236,Samuel,Kelly,Ward Boy,Emergency,2022-10-31,55911.31,555-1496,samuel.kelly64@hospitalstaff.com,Night
+EMP0237,Anna,Nguyen,IT Support,Dermatology,2020-10-31,44406.82,555-7653,anna.nguyen39@hospitalstaff.com,Evening
+EMP0238,Elizabeth,Davis,Receptionist,Pulmonology,2019-04-28,60444.83,555-4342,elizabeth.davis44@hospitalstaff.com,Night
+EMP0239,Charles,Green,Dietitian,Psychiatry,2017-09-30,93350.07,555-3142,charles.green98@hospitalstaff.com,Evening
+EMP0240,Angela,Bailey,Lab Technician,Psychiatry,2015-06-04,59253.66,555-5382,angela.bailey58@hospitalstaff.com,Morning
+EMP0241,Charles,Gonzalez,Nurse,Dermatology,2018-08-13,85898.98,555-7850,charles.gonzalez32@hospitalstaff.com,Morning
+EMP0242,Dorothy,Kelly,Dietitian,Psychiatry,2014-04-05,79129.13,555-9163,dorothy.kelly66@hospitalstaff.com,Evening
+EMP0243,Amy,Flores,Housekeeping Staff,Cardiology,2012-01-08,91330.6,555-9281,amy.flores59@hospitalstaff.com,Morning
+EMP0244,Margaret,Howard,Administrator,Neurology,2011-02-19,46850.87,555-8710,margaret.howard37@hospitalstaff.com,Night
+EMP0245,Mary,Wilson,Radiologist Technician,Oncology,2015-12-07,76743.04,555-7606,mary.wilson47@hospitalstaff.com,Morning
+EMP0246,Stephanie,Miller,Accountant,Ophthalmology,2014-05-14,52289.09,555-5728,stephanie.miller10@hospitalstaff.com,Evening
+EMP0247,Nicholas,Edwards,Security Guard,Gynecology,2023-12-24,73586.71,555-2946,nicholas.edwards17@hospitalstaff.com,Morning
+EMP0248,Ronald,Mitchell,Administrator,Ophthalmology,2018-03-15,78582.67,555-4261,ronald.mitchell78@hospitalstaff.com,Night
+EMP0249,Stephanie,Cook,Nurse,Neurology,2010-11-15,37181.44,555-6456,stephanie.cook61@hospitalstaff.com,Night
+EMP0250,Ryan,Martin,Accountant,Endocrinology,2013-02-19,49973.71,555-6218,ryan.martin21@hospitalstaff.com,Evening
+EMP0251,Brandon,Hill,Accountant,Psychiatry,2021-05-18,83495.39,555-9721,brandon.hill63@hospitalstaff.com,Night
+EMP0252,Larry,Hill,Housekeeping Staff,Cardiology,2018-04-06,50193.05,555-2795,larry.hill54@hospitalstaff.com,Night
+EMP0253,Michelle,Brown,Accountant,Nephrology,2015-12-16,92793.74,555-4728,michelle.brown93@hospitalstaff.com,Morning
+EMP0254,Justin,Morris,Receptionist,Endocrinology,2024-02-09,76319.25,555-7229,justin.morris19@hospitalstaff.com,Night
+EMP0255,Ashley,Jones,Accountant,Pediatrics,2014-04-12,29268.8,555-6139,ashley.jones54@hospitalstaff.com,Morning
+EMP0256,Timothy,Clark,Radiologist Technician,Endocrinology,2023-09-19,89674.9,555-2020,timothy.clark91@hospitalstaff.com,Morning
+EMP0257,Eric,Clark,Security Guard,Psychiatry,2024-11-07,60050.86,555-7173,eric.clark41@hospitalstaff.com,Morning
+EMP0258,Ryan,Morgan,Administrator,Ophthalmology,2017-12-12,73283.19,555-5331,ryan.morgan79@hospitalstaff.com,Evening
+EMP0259,Matthew,Young,Ward Boy,Ophthalmology,2016-09-11,43066.09,555-5876,matthew.young99@hospitalstaff.com,Evening
+EMP0260,Patrick,Clark,Dietitian,Nephrology,2017-02-10,60146.83,555-5480,patrick.clark37@hospitalstaff.com,Morning
+EMP0261,Pamela,Cooper,Radiologist Technician,Urology,2017-09-28,91958.79,555-3399,pamela.cooper38@hospitalstaff.com,Morning
+EMP0262,Andrew,Hernandez,Administrator,Pulmonology,2024-09-17,45181.75,555-8849,andrew.hernandez28@hospitalstaff.com,Morning
+EMP0263,Jonathan,Wright,Security Guard,Gynecology,2013-01-29,35318.18,555-4920,jonathan.wright32@hospitalstaff.com,Morning
+EMP0264,Christine,Ortiz,Pharmacist,General Surgery,2011-03-07,34713.26,555-6411,christine.ortiz92@hospitalstaff.com,Evening
+EMP0265,Richard,Moore,Nurse,Ophthalmology,2013-07-17,55262.8,555-8793,richard.moore62@hospitalstaff.com,Night
+EMP0266,Betty,Torres,Administrator,Dermatology,2024-06-27,31963.89,555-2465,betty.torres84@hospitalstaff.com,Night
+EMP0267,Sandra,Morgan,Dietitian,Neurology,2013-12-05,55998.29,555-3880,sandra.morgan5@hospitalstaff.com,Evening
+EMP0268,Amy,White,Dietitian,Dermatology,2010-11-03,28620.9,555-2758,amy.white43@hospitalstaff.com,Evening
+EMP0269,Ryan,Cooper,Security Guard,Nephrology,2013-01-04,85021.0,555-8668,ryan.cooper35@hospitalstaff.com,Morning
+EMP0270,Joseph,Nelson,Receptionist,Pulmonology,2024-07-16,45236.75,555-4050,joseph.nelson2@hospitalstaff.com,Night
+EMP0271,Carol,Nguyen,Accountant,Emergency,2013-12-08,68933.95,555-7643,carol.nguyen55@hospitalstaff.com,Night
+EMP0272,Dorothy,Lopez,Radiologist Technician,Pediatrics,2014-02-22,93772.91,555-8822,dorothy.lopez42@hospitalstaff.com,Morning
+EMP0273,James,King,Radiologist Technician,General Surgery,2020-01-08,78501.7,555-6400,james.king39@hospitalstaff.com,Night
+EMP0274,Raymond,Kelly,Nurse,Gynecology,2024-08-29,52089.99,555-4871,raymond.kelly8@hospitalstaff.com,Night
+EMP0275,Jessica,Reyes,Ward Boy,Radiology,2019-02-04,73966.93,555-6095,jessica.reyes89@hospitalstaff.com,Morning
+EMP0276,Samantha,Nguyen,Administrator,ICU,2014-12-15,42681.62,555-3188,samantha.nguyen62@hospitalstaff.com,Morning
+EMP0277,Ryan,Cox,Administrator,Gastroenterology,2025-09-29,64798.71,555-8714,ryan.cox97@hospitalstaff.com,Night
+EMP0278,Christine,Ramirez,Pharmacist,ICU,2011-11-02,63208.95,555-9653,christine.ramirez91@hospitalstaff.com,Evening
+EMP0279,Elizabeth,Reed,Lab Technician,Neurology,2022-04-14,88493.51,555-4312,elizabeth.reed74@hospitalstaff.com,Night
+EMP0280,Karen,Perez,Administrator,Endocrinology,2019-11-29,35788.08,555-4365,karen.perez92@hospitalstaff.com,Night
+EMP0281,Gary,Lopez,Security Guard,Pulmonology,2011-04-01,58379.96,555-9409,gary.lopez54@hospitalstaff.com,Evening
+EMP0282,Larry,Davis,Security Guard,Pulmonology,2025-02-02,82063.33,555-1356,larry.davis51a@hospitalstaff.com,Evening
+EMP0283,James,Ramirez,Accountant,Orthopedics,2011-01-07,56387.72,555-2044,james.ramirez70@hospitalstaff.com,Morning
+EMP0284,William,Stewart,Nurse,Dermatology,2019-03-04,40058.75,555-3218,william.stewart99@hospitalstaff.com,Night
+EMP0285,Janet,Turner,Administrator,Urology,2020-01-23,86264.56,555-7184,janet.turner49@hospitalstaff.com,Morning
+EMP0286,Debra,Cooper,Receptionist,ENT,2012-08-29,39957.73,555-9802,debra.cooper51@hospitalstaff.com,Night
+EMP0287,Thomas,Lewis,Nurse,Cardiology,2016-09-10,59021.26,555-9920,thomas.lewis55@hospitalstaff.com,Night
+EMP0288,Edward,Robinson,Pharmacist,Pulmonology,2017-10-06,38393.13,555-4088,edward.robinson93@hospitalstaff.com,Morning
+EMP0289,Robert,Turner,Accountant,Cardiology,2015-05-26,41807.47,555-2653,robert.turner77@hospitalstaff.com,Morning
+EMP0290,Laura,Kim,IT Support,Neurology,2015-06-28,77616.25,555-7590,laura.kim57@hospitalstaff.com,Morning
+EMP0291,Anna,Ramirez,Nurse,Oncology,2021-04-20,94563.39,555-4836,anna.ramirez94@hospitalstaff.com,Night
+EMP0292,Kenneth,Kelly,Accountant,Psychiatry,2015-04-25,48218.22,555-3347,kenneth.kelly85@hospitalstaff.com,Night
+EMP0293,Mark,Evans,Ward Boy,Gynecology,2011-05-15,65300.11,555-3869,mark.evans81@hospitalstaff.com,Night
+EMP0294,Jason,Bailey,Housekeeping Staff,Neurology,2017-09-22,91086.29,555-7244,jason.bailey68@hospitalstaff.com,Evening
+EMP0295,Rachel,Turner,Radiologist Technician,Oncology,2016-09-22,53222.83,555-9813,rachel.turner61@hospitalstaff.com,Morning
+EMP0296,Mark,Hill,Dietitian,Oncology,2020-05-21,89287.66,555-7761,mark.hill54@hospitalstaff.com,Night
+EMP0297,Shirley,Moore,Radiologist Technician,General Surgery,2015-09-20,41623.56,555-2295,shirley.moore58@hospitalstaff.com,Evening
+EMP0298,Barbara,Morgan,Dietitian,Emergency,2011-02-27,45986.93,555-1647,barbara.morgan10@hospitalstaff.com,Morning
+EMP0299,Heather,Ramos,Dietitian,Ophthalmology,2014-11-13,60119.41,555-6455,heather.ramos39@hospitalstaff.com,Morning
+EMP0300,Margaret,Harris,Dietitian,Pediatrics,2020-09-28,89267.57,555-4350,margaret.harris51@hospitalstaff.com,Morning
+EMP0301,Stephen,Adams,Ward Boy,Urology,2020-06-16,63754.56,555-6886,stephen.adams40@hospitalstaff.com,Evening
+EMP0302,George,Rogers,Housekeeping Staff,Pulmonology,2012-03-18,81788.71,555-8692,george.rogers98@hospitalstaff.com,Evening
+EMP0303,Anthony,Mitchell,Administrator,Gastroenterology,2011-01-10,65689.16,555-4625,anthony.mitchell95@hospitalstaff.com,Morning
+EMP0304,John,King,Security Guard,Anesthesiology,2022-12-28,76240.8,555-5836,john.king20@hospitalstaff.com,Morning
+EMP0305,Kevin,Robinson,Radiologist Technician,Anesthesiology,2015-07-07,61453.2,555-6530,kevin.robinson33@hospitalstaff.com,Evening
+EMP0306,Raymond,Morales,Housekeeping Staff,Radiology,2017-11-25,39340.8,555-9954,raymond.morales63@hospitalstaff.com,Morning
+EMP0307,Anna,Davis,Security Guard,Neurology,2011-09-01,91327.6,555-1794,anna.davis98@hospitalstaff.com,Morning
+EMP0308,Timothy,Moore,IT Support,General Surgery,2011-07-11,75380.36,555-1149,timothy.moore28@hospitalstaff.com,Night
+EMP0309,Ryan,Mitchell,Nurse,ICU,2024-04-21,72672.57,555-8916,ryan.mitchell85@hospitalstaff.com,Evening
+EMP0310,John,Smith,Security Guard,Ophthalmology,2019-03-24,28794.01,555-9673,john.smith93@hospitalstaff.com,Evening
+EMP0311,Jonathan,Torres,Nurse,Endocrinology,2025-08-26,73160.21,555-3937,jonathan.torres14@hospitalstaff.com,Morning
+EMP0312,Shirley,Martin,Pharmacist,Emergency,2023-11-26,63272.55,555-6807,shirley.martin35@hospitalstaff.com,Evening
+EMP0313,David,Mitchell,Radiologist Technician,Pulmonology,2022-09-03,44294.93,555-4700,david.mitchell39@hospitalstaff.com,Night
+EMP0314,David,Jones,Lab Technician,Urology,2018-07-04,53270.36,555-8798,david.jones8@hospitalstaff.com,Night
+EMP0315,Mary,Perez,Lab Technician,Nephrology,2019-09-25,71208.79,555-6427,mary.perez73@hospitalstaff.com,Morning
+EMP0316,Shirley,Garcia,Pharmacist,Emergency,2025-07-12,87466.14,555-8790,shirley.garcia35@hospitalstaff.com,Morning
+EMP0317,Elizabeth,Scott,Security Guard,Anesthesiology,2024-10-05,30204.42,555-6152,elizabeth.scott3@hospitalstaff.com,Morning
+EMP0318,Emma,Jackson,Dietitian,Urology,2011-09-23,48051.55,555-4939,emma.jackson73@hospitalstaff.com,Evening
+EMP0319,Alexander,Cooper,Administrator,Urology,2013-02-20,80963.37,555-2284,alexander.cooper65@hospitalstaff.com,Night
+EMP0320,Brian,Miller,Lab Technician,Gastroenterology,2015-03-17,84191.2,555-6580,brian.miller78@hospitalstaff.com,Night
+EMP0321,Scott,Gomez,Administrator,Cardiology,2024-03-22,46312.91,555-8381,scott.gomez63@hospitalstaff.com,Morning
+EMP0322,Amanda,Peterson,Radiologist Technician,Gastroenterology,2014-03-02,73539.56,555-7227,amanda.peterson11@hospitalstaff.com,Night
+EMP0323,Donna,Young,Dietitian,Orthopedics,2011-11-04,45954.13,555-7225,donna.young92@hospitalstaff.com,Night
+EMP0324,Karen,Roberts,Administrator,ENT,2012-05-22,34131.87,555-6050,karen.roberts57@hospitalstaff.com,Evening
+EMP0325,Heather,Wright,Lab Technician,Oncology,2011-12-17,40555.25,555-8353,heather.wright72@hospitalstaff.com,Night
+EMP0326,Angela,Evans,Lab Technician,Cardiology,2012-01-05,51712.26,555-2524,angela.evans77@hospitalstaff.com,Night
+EMP0327,Dorothy,Roberts,Nurse,Dermatology,2019-04-13,53982.57,555-2387,dorothy.roberts93@hospitalstaff.com,Night
+EMP0328,Ashley,Kelly,Security Guard,Radiology,2025-05-16,53509.05,555-3274,ashley.kelly35@hospitalstaff.com,Evening
+EMP0329,Paul,Murphy,Receptionist,Orthopedics,2013-10-01,57123.31,555-7899,paul.murphy39@hospitalstaff.com,Evening
+EMP0330,Elizabeth,Campbell,Ward Boy,General Surgery,2024-01-08,61218.76,555-4203,elizabeth.campbell59@hospitalstaff.com,Morning
+EMP0331,Sarah,Hill,Nurse,Urology,2017-06-14,84388.1,555-7224,sarah.hill43@hospitalstaff.com,Evening
+EMP0332,Kevin,Parker,IT Support,ICU,2013-01-20,48129.16,555-4290,kevin.parker62@hospitalstaff.com,Evening
+EMP0333,Daniel,Gomez,Administrator,Dermatology,2025-08-03,70404.46,555-4971,daniel.gomez42@hospitalstaff.com,Evening
+EMP0334,Emily,Gomez,Administrator,Pediatrics,2022-08-25,41386.6,555-9939,emily.gomez24@hospitalstaff.com,Night
+EMP0335,Jerry,Peterson,Nurse,Pulmonology,2025-11-20,42046.44,555-5773,jerry.peterson89@hospitalstaff.com,Morning
+EMP0336,Timothy,Murphy,Receptionist,Dermatology,2015-06-06,44929.67,555-3525,timothy.murphy92@hospitalstaff.com,Evening
+EMP0337,Edward,Martinez,Housekeeping Staff,ICU,2020-09-30,67010.35,555-9755,edward.martinez65@hospitalstaff.com,Night
+EMP0338,Rebecca,Cooper,Nurse,ENT,2025-09-26,87998.6,555-9796,rebecca.cooper77@hospitalstaff.com,Night
+EMP0339,David,Wilson,Pharmacist,ENT,2013-09-24,71348.99,555-1725,david.wilson73@hospitalstaff.com,Night
+EMP0340,Alexander,Phillips,Administrator,Gastroenterology,2012-05-17,28706.7,555-5239,alexander.phillips29@hospitalstaff.com,Night
+EMP0341,Maria,Gutierrez,Security Guard,Anesthesiology,2025-06-04,66540.77,555-8303,maria.gutierrez48@hospitalstaff.com,Evening
+EMP0342,Cynthia,Ramos,Dietitian,Endocrinology,2013-05-19,51112.81,555-1402,cynthia.ramos62@hospitalstaff.com,Morning
+EMP0343,Donna,Turner,Lab Technician,Pediatrics,2013-03-06,51338.02,555-6620,donna.turner59@hospitalstaff.com,Morning
+EMP0344,Eric,Morris,Administrator,Nephrology,2012-03-10,57357.12,555-8412,eric.morris41@hospitalstaff.com,Morning
+EMP0345,Joshua,Garcia,Dietitian,Pediatrics,2010-07-05,84895.06,555-2791,joshua.garcia87@hospitalstaff.com,Morning
+EMP0346,Jack,Young,Security Guard,Radiology,2022-05-19,38729.09,555-7985,jack.young60@hospitalstaff.com,Morning
+EMP0347,Stephanie,White,Receptionist,Gastroenterology,2018-11-15,29955.88,555-4232,stephanie.white58@hospitalstaff.com,Night
+EMP0348,Jason,Roberts,Nurse,Emergency,2014-08-13,46649.1,555-2025,jason.roberts74@hospitalstaff.com,Morning
+EMP0349,Jonathan,White,Administrator,Psychiatry,2014-06-03,58655.88,555-5298,jonathan.white86@hospitalstaff.com,Evening
+EMP0350,Shirley,Green,Accountant,Urology,2023-09-17,54300.45,555-2871,shirley.green45@hospitalstaff.com,Evening
+EMP0351,Ryan,Richardson,Receptionist,Dermatology,2023-10-13,67541.28,555-3194,ryan.richardson41@hospitalstaff.com,Morning
+EMP0352,Donald,Flores,Lab Technician,Radiology,2018-05-17,74460.25,555-9369,donald.flores50@hospitalstaff.com,Evening
+EMP0353,Scott,Moore,Accountant,Urology,2019-06-28,40445.5,555-9804,scott.moore89@hospitalstaff.com,Night
+EMP0354,Daniel,Bailey,Receptionist,Nephrology,2016-06-24,37399.87,555-6154,daniel.bailey58@hospitalstaff.com,Night
+EMP0355,Michael,Rivera,Nurse,Nephrology,2013-01-23,41073.61,555-7290,michael.rivera72@hospitalstaff.com,Night
+EMP0356,Katherine,Murphy,Radiologist Technician,Nephrology,2019-04-28,75579.54,555-8272,katherine.murphy63@hospitalstaff.com,Morning
+EMP0357,David,Reed,Nurse,General Surgery,2016-07-20,30190.57,555-4683,david.reed69@hospitalstaff.com,Evening
+EMP0358,Nancy,Collins,Accountant,Nephrology,2022-05-01,62224.0,555-2871,nancy.collins35@hospitalstaff.com,Night
+EMP0359,George,Cooper,Nurse,Pulmonology,2022-04-03,42642.31,555-7965,george.cooper14@hospitalstaff.com,Night
+EMP0360,Katherine,Young,Ward Boy,Neurology,2020-02-02,45608.62,555-2425,katherine.young57@hospitalstaff.com,Morning
+EMP0361,Diane,Walker,Pharmacist,Anesthesiology,2025-06-16,51492.27,555-8015,diane.walker22@hospitalstaff.com,Night
+EMP0362,Sarah,Clark,Pharmacist,Neurology,2022-10-15,51504.64,555-5605,sarah.clark77@hospitalstaff.com,Night
+EMP0363,Nancy,Adams,Dietitian,Dermatology,2016-06-28,66373.28,555-9428,nancy.adams87@hospitalstaff.com,Morning
+EMP0364,Sarah,Evans,Nurse,Gynecology,2024-09-17,36501.51,555-3174,sarah.evans32@hospitalstaff.com,Morning
+EMP0365,Carolyn,Adams,Pharmacist,Urology,2020-12-23,37525.5,555-5402,carolyn.adams81@hospitalstaff.com,Evening
+EMP0366,Edward,Edwards,Lab Technician,Orthopedics,2019-01-14,62546.1,555-5558,edward.edwards89@hospitalstaff.com,Evening
+EMP0367,Ryan,Morales,Administrator,Anesthesiology,2010-01-21,86216.82,555-2526,ryan.morales94@hospitalstaff.com,Evening
+EMP0368,Samantha,Rivera,Lab Technician,Ophthalmology,2018-12-03,42594.61,555-8039,samantha.rivera28@hospitalstaff.com,Evening
+EMP0369,Paul,Adams,Ward Boy,Psychiatry,2022-04-11,66721.55,555-8951,paul.adams44@hospitalstaff.com,Night
+EMP0370,Heather,Miller,Nurse,Pediatrics,2024-01-17,80520.61,555-8529,heather.miller3@hospitalstaff.com,Morning
+EMP0371,Christopher,Cruz,Housekeeping Staff,Cardiology,2019-08-06,41555.32,555-3161,christopher.cruz84@hospitalstaff.com,Evening
+EMP0372,Christopher,Scott,Lab Technician,ENT,2015-08-14,33522.18,555-3711,christopher.scott7@hospitalstaff.com,Evening
+EMP0373,Benjamin,Flores,Dietitian,General Surgery,2019-08-18,71917.51,555-2559,benjamin.flores1@hospitalstaff.com,Morning
+EMP0374,Kathleen,Martinez,Receptionist,Anesthesiology,2015-01-27,62802.77,555-8291,kathleen.martinez2@hospitalstaff.com,Morning
+EMP0375,Rachel,Baker,Lab Technician,Gastroenterology,2025-07-26,36855.74,555-2160,rachel.baker30@hospitalstaff.com,Evening
+EMP0376,Barbara,Wilson,Lab Technician,Psychiatry,2018-03-31,87026.26,555-3246,barbara.wilson49@hospitalstaff.com,Morning
+EMP0377,Samuel,Jackson,Lab Technician,Endocrinology,2022-08-20,28567.81,555-3688,samuel.jackson57@hospitalstaff.com,Evening
+EMP0378,Raymond,Ramirez,IT Support,Oncology,2019-03-27,69277.09,555-8248,raymond.ramirez28@hospitalstaff.com,Morning
+EMP0379,Richard,Moore,Lab Technician,Anesthesiology,2018-08-12,51552.89,555-8035,richard.moore41@hospitalstaff.com,Morning
+EMP0380,Ashley,Scott,IT Support,Orthopedics,2015-07-26,65077.57,555-5668,ashley.scott89@hospitalstaff.com,Morning
+EMP0381,Gregory,Hill,Pharmacist,Endocrinology,2023-08-12,62138.01,555-7418,gregory.hill38@hospitalstaff.com,Night
+EMP0382,Michael,Walker,Housekeeping Staff,Urology,2012-07-12,44152.48,555-2163,michael.walker68@hospitalstaff.com,Morning
+EMP0383,George,Green,Receptionist,Urology,2022-10-01,56197.86,555-9951,george.green88@hospitalstaff.com,Morning
+EMP0384,Heather,Stewart,Lab Technician,Cardiology,2023-03-05,32524.68,555-5295,heather.stewart28@hospitalstaff.com,Morning
+EMP0385,Linda,Gomez,Security Guard,Dermatology,2024-02-06,75746.15,555-7806,linda.gomez55@hospitalstaff.com,Night
+EMP0386,Stephanie,Hernandez,IT Support,Ophthalmology,2022-01-22,69275.15,555-5546,stephanie.hernandez11@hospitalstaff.com,Evening
+EMP0387,David,Rogers,Pharmacist,Oncology,2022-01-12,49892.27,555-2083,david.rogers40@hospitalstaff.com,Night
+EMP0388,Sharon,Walker,Nurse,General Surgery,2011-12-08,89950.06,555-2900,sharon.walker59@hospitalstaff.com,Night
+EMP0389,Nicole,Davis,Ward Boy,Radiology,2012-09-05,28848.55,555-3248,nicole.davis90@hospitalstaff.com,Morning
+EMP0390,Christopher,Murphy,Administrator,Endocrinology,2021-08-08,80460.14,555-5247,christopher.murphy22@hospitalstaff.com,Evening
+EMP0391,Thomas,Wright,Dietitian,Pediatrics,2010-08-29,50445.74,555-8034,thomas.wright35@hospitalstaff.com,Night
+EMP0392,William,King,Dietitian,Anesthesiology,2024-01-28,33163.69,555-8457,william.king66@hospitalstaff.com,Evening
+EMP0393,Linda,Murphy,Accountant,Radiology,2018-04-01,38539.77,555-2685,linda.murphy74@hospitalstaff.com,Night
+EMP0394,Raymond,Anderson,Pharmacist,Endocrinology,2010-01-22,30950.54,555-1201,raymond.anderson32@hospitalstaff.com,Morning
+EMP0395,Jacob,Campbell,Radiologist Technician,Oncology,2014-01-06,90387.73,555-1579,jacob.campbell71@hospitalstaff.com,Night
+EMP0396,Jack,Turner,Pharmacist,Psychiatry,2015-07-27,55889.19,555-6241,jack.turner35@hospitalstaff.com,Morning
+EMP0397,Pamela,Mitchell,Lab Technician,Endocrinology,2025-02-06,88430.05,555-3938,pamela.mitchell29@hospitalstaff.com,Night
+EMP0398,Jennifer,Phillips,Lab Technician,Pulmonology,2016-05-01,79826.34,555-6090,jennifer.phillips42@hospitalstaff.com,Morning
+EMP0399,Stephen,Collins,Nurse,ENT,2014-07-02,47536.87,555-5979,stephen.collins95@hospitalstaff.com,Night
+EMP0400,Ashley,Reyes,Administrator,Anesthesiology,2021-01-24,94851.74,555-4201,ashley.reyes94@hospitalstaff.com,Night
+EMP0401,Heather,Young,Receptionist,Cardiology,2019-03-14,29601.99,555-9872,heather.young45@hospitalstaff.com,Night
+EMP0402,Frank,Johnson,Administrator,Cardiology,2024-09-28,53210.41,555-6038,frank.johnson14@hospitalstaff.com,Morning
+EMP0403,Shirley,Walker,Radiologist Technician,Nephrology,2011-05-06,93161.47,555-3332,shirley.walker92@hospitalstaff.com,Evening
+EMP0404,Barbara,Garcia,Pharmacist,Endocrinology,2019-04-07,74956.74,555-7102,barbara.garcia59@hospitalstaff.com,Night
+EMP0405,David,Howard,Lab Technician,Endocrinology,2012-12-29,70693.45,555-7461,david.howard10@hospitalstaff.com,Night
+EMP0406,Larry,Davis,Radiologist Technician,Oncology,2015-04-24,47542.29,555-6161,larry.davis51b@hospitalstaff.com,Night
+EMP0407,Jack,Adams,Administrator,Pulmonology,2016-02-06,43651.95,555-4321,jack.adams18@hospitalstaff.com,Night
+EMP0408,Susan,Martin,Lab Technician,Radiology,2020-01-31,59225.69,555-7660,susan.martin16@hospitalstaff.com,Night
+EMP0409,Amanda,Clark,Housekeeping Staff,Dermatology,2020-05-23,45755.53,555-2964,amanda.clark12@hospitalstaff.com,Morning
+EMP0410,Debra,Hill,Dietitian,ICU,2010-11-27,42406.39,555-6370,debra.hill19@hospitalstaff.com,Morning
+EMP0411,Carolyn,Young,Administrator,Urology,2021-07-08,31279.69,555-5896,carolyn.young34@hospitalstaff.com,Morning
+EMP0412,Patricia,Phillips,Housekeeping Staff,Ophthalmology,2022-05-04,44740.13,555-8570,patricia.phillips14@hospitalstaff.com,Morning
+EMP0413,Jessica,Johnson,Nurse,General Surgery,2012-12-06,41274.91,555-7563,jessica.johnson48@hospitalstaff.com,Night
+EMP0414,Benjamin,Hernandez,Accountant,Anesthesiology,2015-10-22,89467.71,555-2228,benjamin.hernandez3@hospitalstaff.com,Morning
+EMP0415,Betty,Cruz,Receptionist,Orthopedics,2017-06-09,36209.35,555-8552,betty.cruz7@hospitalstaff.com,Morning
+EMP0416,Pamela,Parker,Dietitian,Urology,2021-02-16,29975.31,555-7990,pamela.parker23@hospitalstaff.com,Evening
+EMP0417,Margaret,White,Ward Boy,Gynecology,2020-01-02,87189.39,555-1567,margaret.white79@hospitalstaff.com,Night
+EMP0418,Brandon,Young,IT Support,Dermatology,2021-03-10,55603.48,555-8848,brandon.young8@hospitalstaff.com,Morning
+EMP0419,Emily,Roberts,Receptionist,Gastroenterology,2014-06-22,71057.72,555-9614,emily.roberts32@hospitalstaff.com,Night
+EMP0420,Anna,Williams,Radiologist Technician,ENT,2020-10-04,64482.69,555-8940,anna.williams45@hospitalstaff.com,Night
+EMP0421,Nicholas,Adams,Radiologist Technician,Gynecology,2014-01-13,29746.22,555-4588,nicholas.adams4@hospitalstaff.com,Evening
+EMP0422,Linda,Stewart,Security Guard,ENT,2023-02-06,94973.59,555-3615,linda.stewart13@hospitalstaff.com,Morning
+EMP0423,Gregory,Walker,Ward Boy,Ophthalmology,2011-04-04,79191.33,555-4594,gregory.walker74@hospitalstaff.com,Evening
+EMP0424,Amanda,Thompson,Receptionist,General Surgery,2023-04-16,49306.29,555-6878,amanda.thompson76@hospitalstaff.com,Morning
+EMP0425,Patrick,Rivera,Accountant,Anesthesiology,2013-03-10,65728.3,555-4084,patrick.rivera64@hospitalstaff.com,Night
+EMP0426,Michelle,Thompson,Housekeeping Staff,Neurology,2012-01-10,31763.25,555-4584,michelle.thompson3@hospitalstaff.com,Night
+EMP0427,Kathleen,Smith,Administrator,ICU,2014-07-09,82031.84,555-6582,kathleen.smith92@hospitalstaff.com,Morning
+EMP0428,Dorothy,Davis,Nurse,Oncology,2023-02-27,75214.65,555-3320,dorothy.davis15@hospitalstaff.com,Night
+EMP0429,George,Martinez,Administrator,Urology,2023-02-22,34769.16,555-5944,george.martinez42@hospitalstaff.com,Morning
+EMP0430,Christopher,Parker,IT Support,Nephrology,2024-07-24,49257.99,555-6846,christopher.parker29@hospitalstaff.com,Night
+EMP0431,Emma,Thompson,Radiologist Technician,Dermatology,2025-06-11,47732.66,555-3911,emma.thompson94@hospitalstaff.com,Morning
+EMP0432,Rachel,Kelly,Radiologist Technician,Anesthesiology,2010-09-23,40199.48,555-6213,rachel.kelly79@hospitalstaff.com,Morning
+EMP0433,Samantha,Reed,Lab Technician,Nephrology,2013-02-26,50188.28,555-2274,samantha.reed31@hospitalstaff.com,Evening
+EMP0434,Kenneth,Perez,IT Support,Orthopedics,2025-11-25,72891.65,555-6500,kenneth.perez58@hospitalstaff.com,Morning
+EMP0435,Kimberly,Clark,Pharmacist,Orthopedics,2017-11-11,45196.08,555-2770,kimberly.clark93@hospitalstaff.com,Morning
+EMP0436,Michael,Roberts,Housekeeping Staff,Gastroenterology,2013-09-24,87264.98,555-9078,michael.roberts49@hospitalstaff.com,Evening
+EMP0437,Anna,Carter,Lab Technician,Nephrology,2022-12-19,71614.96,555-4695,anna.carter21@hospitalstaff.com,Evening
+EMP0438,Elizabeth,Jones,Ward Boy,Cardiology,2017-02-23,45495.56,555-2715,elizabeth.jones10@hospitalstaff.com,Evening
+EMP0439,Nancy,Carter,Receptionist,Orthopedics,2022-04-09,91102.89,555-2525,nancy.carter44@hospitalstaff.com,Night
+EMP0440,Brandon,Morris,Dietitian,Cardiology,2019-09-04,91143.63,555-3703,brandon.morris78@hospitalstaff.com,Evening
+EMP0441,Christopher,Miller,Lab Technician,Psychiatry,2014-08-11,93284.69,555-7705,christopher.miller90@hospitalstaff.com,Night
+EMP0442,Raymond,Cooper,Ward Boy,Dermatology,2016-09-02,43915.74,555-1813,raymond.cooper51@hospitalstaff.com,Night
+EMP0443,Stephen,Morales,Receptionist,Neurology,2018-02-03,28255.64,555-2435,stephen.morales38@hospitalstaff.com,Night
+EMP0444,Benjamin,Kim,Housekeeping Staff,Emergency,2012-03-05,29724.29,555-3798,benjamin.kim82@hospitalstaff.com,Evening
+EMP0445,David,Stewart,Lab Technician,Dermatology,2018-12-01,59553.28,555-5341,david.stewart12@hospitalstaff.com,Night
+EMP0446,Anna,Roberts,Receptionist,ENT,2018-07-22,52749.91,555-8303,anna.roberts6@hospitalstaff.com,Evening
+EMP0447,Jeffrey,Reyes,Ward Boy,General Surgery,2016-01-10,65804.52,555-3476,jeffrey.reyes97@hospitalstaff.com,Night
+EMP0448,Christine,Gonzalez,Lab Technician,ENT,2022-02-22,55737.11,555-4727,christine.gonzalez71@hospitalstaff.com,Morning
+EMP0449,Deborah,Gutierrez,Radiologist Technician,Ophthalmology,2025-05-30,86081.9,555-8779,deborah.gutierrez74@hospitalstaff.com,Morning
+EMP0450,Jacob,Hill,Lab Technician,Urology,2010-10-12,61640.8,555-9467,jacob.hill74@hospitalstaff.com,Night
+EMP0451,Helen,Jackson,Lab Technician,Pulmonology,2013-11-17,91587.12,555-3738,helen.jackson28@hospitalstaff.com,Morning
+EMP0452,Thomas,Garcia,Radiologist Technician,Orthopedics,2025-04-28,57171.35,555-3422,thomas.garcia77@hospitalstaff.com,Evening
+EMP0453,Kenneth,Rodriguez,Lab Technician,Urology,2022-06-24,54622.78,555-6343,kenneth.rodriguez36@hospitalstaff.com,Night
+EMP0454,Ryan,Johnson,Dietitian,ICU,2023-03-07,63011.65,555-7874,ryan.johnson15@hospitalstaff.com,Evening
+EMP0455,Karen,Jackson,Accountant,Anesthesiology,2023-01-26,78811.28,555-2641,karen.jackson14@hospitalstaff.com,Night
+EMP0456,Diane,Gonzalez,Ward Boy,Ophthalmology,2017-09-17,86818.87,555-5327,diane.gonzalez50@hospitalstaff.com,Night
+EMP0457,Gary,Kelly,Accountant,Nephrology,2010-11-03,39537.38,555-7602,gary.kelly19@hospitalstaff.com,Night
+EMP0458,Nicole,Phillips,Nurse,Urology,2017-06-08,74264.42,555-1807,nicole.phillips96@hospitalstaff.com,Evening
+EMP0459,Paul,Mitchell,Nurse,Psychiatry,2016-10-18,48833.6,555-9054,paul.mitchell90@hospitalstaff.com,Night
+EMP0460,Richard,Robinson,Receptionist,Dermatology,2019-12-09,79860.07,555-6257,richard.robinson35@hospitalstaff.com,Night
+EMP0461,Rebecca,Cox,IT Support,Orthopedics,2014-03-20,57595.01,555-7671,rebecca.cox95@hospitalstaff.com,Evening
+EMP0462,Heather,Gutierrez,Administrator,Neurology,2021-07-23,81029.86,555-2075,heather.gutierrez40@hospitalstaff.com,Night
+EMP0463,Nicholas,Phillips,Receptionist,Endocrinology,2022-10-03,29939.53,555-4158,nicholas.phillips26@hospitalstaff.com,Morning
+EMP0464,Ashley,Jones,Housekeeping Staff,Neurology,2018-01-31,75210.47,555-5488,ashley.jones48@hospitalstaff.com,Evening
+EMP0465,Nicholas,Gomez,IT Support,Pediatrics,2025-04-12,30047.73,555-7102,nicholas.gomez63@hospitalstaff.com,Night
+EMP0466,Laura,Thompson,Housekeeping Staff,Anesthesiology,2022-05-14,51433.91,555-3679,laura.thompson34@hospitalstaff.com,Night
+EMP0467,Frank,Lopez,Ward Boy,Cardiology,2018-09-02,31326.62,555-4511,frank.lopez29@hospitalstaff.com,Night
+EMP0468,Mark,Clark,Ward Boy,Gastroenterology,2021-07-06,29343.51,555-1145,mark.clark61@hospitalstaff.com,Morning
+EMP0469,Samuel,Thompson,Accountant,Cardiology,2015-01-08,44910.16,555-6004,samuel.thompson92@hospitalstaff.com,Night
+EMP0470,Samuel,Scott,Radiologist Technician,Urology,2017-10-27,58752.87,555-4575,samuel.scott60@hospitalstaff.com,Evening
+EMP0471,Alexander,Gutierrez,Accountant,Urology,2023-02-10,34854.91,555-9380,alexander.gutierrez85@hospitalstaff.com,Evening
+EMP0472,Brenda,Kim,Accountant,Dermatology,2016-09-11,73855.68,555-8892,brenda.kim9@hospitalstaff.com,Evening
+EMP0473,Emily,Adams,Ward Boy,Gynecology,2024-09-18,75643.28,555-5895,emily.adams25@hospitalstaff.com,Morning
+EMP0474,Eric,Walker,Nurse,ICU,2019-01-24,72255.53,555-3292,eric.walker93@hospitalstaff.com,Morning
+EMP0475,Katherine,Murphy,Ward Boy,Gynecology,2019-05-22,55108.13,555-1578,katherine.murphy75@hospitalstaff.com,Night
+EMP0476,Pamela,Harris,Administrator,General Surgery,2025-05-24,63820.55,555-8794,pamela.harris86@hospitalstaff.com,Evening
+EMP0477,Nicholas,Hill,Receptionist,Ophthalmology,2014-01-23,47683.53,555-8713,nicholas.hill17@hospitalstaff.com,Night
+EMP0478,Kimberly,Bailey,Receptionist,Psychiatry,2024-09-05,33983.09,555-6820,kimberly.bailey29@hospitalstaff.com,Night
+EMP0479,Michelle,Turner,Administrator,ENT,2015-11-05,67233.24,555-8598,michelle.turner16@hospitalstaff.com,Evening
+EMP0480,Michael,Howard,Accountant,ICU,2011-08-07,59638.72,555-4187,michael.howard65@hospitalstaff.com,Morning
+EMP0481,Debra,Carter,Security Guard,Dermatology,2019-04-08,31622.15,555-3470,debra.carter18@hospitalstaff.com,Morning
+EMP0482,Carol,Evans,Accountant,Pulmonology,2013-03-19,49197.69,555-3954,carol.evans11@hospitalstaff.com,Evening
+EMP0483,Kevin,Thompson,Administrator,Neurology,2010-02-08,58287.57,555-4430,kevin.thompson98@hospitalstaff.com,Morning
+EMP0484,Pamela,Lee,Housekeeping Staff,Orthopedics,2012-11-26,69170.14,555-8035,pamela.lee52@hospitalstaff.com,Evening
+EMP0485,Kathleen,Roberts,Nurse,Neurology,2021-12-21,41360.75,555-7112,kathleen.roberts2@hospitalstaff.com,Evening
+EMP0486,Dennis,Ortiz,Pharmacist,Cardiology,2025-03-06,28276.3,555-5076,dennis.ortiz29@hospitalstaff.com,Night
+EMP0487,Brian,Flores,Receptionist,Pediatrics,2018-08-09,61723.54,555-6015,brian.flores22@hospitalstaff.com,Morning
+EMP0488,Jennifer,Hill,Ward Boy,Pulmonology,2021-09-02,67956.78,555-6535,jennifer.hill56@hospitalstaff.com,Night
+EMP0489,Sarah,Baker,Housekeeping Staff,ENT,2014-03-24,39047.2,555-7609,sarah.baker3@hospitalstaff.com,Morning
+EMP0490,Mark,Taylor,Pharmacist,Cardiology,2023-03-24,61810.45,555-3017,mark.taylor47@hospitalstaff.com,Night
+EMP0491,Katherine,Jones,Radiologist Technician,Gynecology,2021-12-29,69750.03,555-1785,katherine.jones85@hospitalstaff.com,Morning
+EMP0492,Katherine,Williams,Nurse,Pediatrics,2019-05-08,57769.06,555-3024,katherine.williams71@hospitalstaff.com,Evening
+EMP0493,Jacob,Martin,Pharmacist,Cardiology,2016-10-02,56198.39,555-2654,jacob.martin85@hospitalstaff.com,Night
+EMP0494,Paul,Richardson,Accountant,Oncology,2019-05-25,83653.73,555-2718,paul.richardson66@hospitalstaff.com,Night
+EMP0495,Helen,Thomas,Ward Boy,Pediatrics,2012-05-20,61348.52,555-4272,helen.thomas34@hospitalstaff.com,Night
+EMP0496,Betty,Rivera,Dietitian,Gastroenterology,2016-08-16,38745.03,555-9980,betty.rivera64@hospitalstaff.com,Morning
+EMP0497,Frank,Morris,Administrator,General Surgery,2010-01-23,28854.21,555-2458,frank.morris15@hospitalstaff.com,Night
+EMP0498,Christine,Murphy,Receptionist,Orthopedics,2021-06-23,33028.23,555-2659,christine.murphy33@hospitalstaff.com,Night
+EMP0499,Sandra,Collins,Ward Boy,Gynecology,2020-05-31,31355.37,555-3862,sandra.collins6@hospitalstaff.com,Evening
+EMP0500,George,Green,Radiologist Technician,Pediatrics,2012-02-18,85033.48,555-1751,george.green2@hospitalstaff.com,Morning
+EMP0501,Gregory,Perez,Administrator,ENT,2019-10-26,91990.97,555-5395,gregory.perez94@hospitalstaff.com,Morning
+EMP0502,Melissa,Baker,Receptionist,Pediatrics,2018-12-28,54816.77,555-8479,melissa.baker35@hospitalstaff.com,Evening
+EMP0503,Frank,Morris,Radiologist Technician,Radiology,2012-07-15,36878.28,555-1960,frank.morris21@hospitalstaff.com,Morning
+EMP0504,Rebecca,Ramos,Housekeeping Staff,Anesthesiology,2025-03-20,57356.91,555-7221,rebecca.ramos46@hospitalstaff.com,Night
+EMP0505,Patricia,Taylor,Housekeeping Staff,Nephrology,2012-07-14,87468.79,555-8220,patricia.taylor6@hospitalstaff.com,Morning
+EMP0506,Kimberly,Green,Nurse,Endocrinology,2022-12-07,76492.83,555-4669,kimberly.green86@hospitalstaff.com,Evening
+EMP0507,Eric,Gutierrez,Dietitian,ICU,2012-02-20,57000.81,555-5072,eric.gutierrez62@hospitalstaff.com,Evening
+EMP0508,Gregory,Roberts,Receptionist,Ophthalmology,2023-09-30,31655.93,555-3571,gregory.roberts65@hospitalstaff.com,Evening
+EMP0509,Amy,Perez,Lab Technician,Nephrology,2017-03-11,44139.75,555-5557,amy.perez7@hospitalstaff.com,Night
+EMP0510,Mark,Peterson,IT Support,Urology,2019-01-17,82745.92,555-2291,mark.peterson59@hospitalstaff.com,Evening
+EMP0511,Pamela,Edwards,Lab Technician,Nephrology,2020-01-11,49176.12,555-9148,pamela.edwards96@hospitalstaff.com,Night
+EMP0512,John,Wilson,Radiologist Technician,Gastroenterology,2010-10-21,65327.78,555-1002,john.wilson12@hospitalstaff.com,Night
+EMP0513,Helen,Hill,Security Guard,Ophthalmology,2014-08-22,71857.93,555-8474,helen.hill44@hospitalstaff.com,Evening
+EMP0514,Michael,Lewis,Housekeeping Staff,Psychiatry,2022-07-25,79416.9,555-8751,michael.lewis92@hospitalstaff.com,Night
+EMP0515,George,Edwards,Lab Technician,Pediatrics,2024-10-11,42857.06,555-6592,george.edwards46@hospitalstaff.com,Night
+EMP0516,Donna,Peterson,Security Guard,ENT,2025-09-30,35123.59,555-3689,donna.peterson64@hospitalstaff.com,Morning
+EMP0517,Carolyn,Evans,Lab Technician,Gynecology,2023-09-14,41126.74,555-2978,carolyn.evans51@hospitalstaff.com,Morning
+EMP0518,Ryan,Harris,Dietitian,Psychiatry,2012-06-01,78729.01,555-1761,ryan.harris82@hospitalstaff.com,Night
+EMP0519,Emma,Thomas,Housekeeping Staff,Pulmonology,2024-10-08,67484.18,555-9260,emma.thomas18@hospitalstaff.com,Evening
+EMP0520,James,Ortiz,Dietitian,Neurology,2022-05-30,90665.65,555-8912,james.ortiz66@hospitalstaff.com,Morning
+EMP0521,Frank,Howard,Receptionist,Oncology,2012-04-28,53956.17,555-6273,frank.howard65@hospitalstaff.com,Evening
+EMP0522,Rebecca,Cox,Dietitian,General Surgery,2016-02-20,54657.29,555-6617,rebecca.cox38@hospitalstaff.com,Evening
+EMP0523,Sarah,Moore,Radiologist Technician,ICU,2025-09-13,87391.27,555-9393,sarah.moore39@hospitalstaff.com,Night
+EMP0524,Stephen,Green,Dietitian,Ophthalmology,2024-03-10,42561.95,555-4435,stephen.green80@hospitalstaff.com,Night
+EMP0525,Donna,Hall,IT Support,Oncology,2025-12-07,71555.79,555-3913,donna.hall65@hospitalstaff.com,Night
+EMP0526,Frank,Adams,Dietitian,Pediatrics,2017-11-25,65672.77,555-7839,frank.adams87@hospitalstaff.com,Night
+EMP0527,Jonathan,Torres,Radiologist Technician,Cardiology,2021-09-22,35133.52,555-7240,jonathan.torres19@hospitalstaff.com,Morning
+EMP0528,Christine,Davis,Pharmacist,Gynecology,2013-08-11,93896.67,555-5105,christine.davis19@hospitalstaff.com,Morning
+EMP0529,Frank,Nguyen,Pharmacist,Ophthalmology,2010-09-22,52031.72,555-8415,frank.nguyen14@hospitalstaff.com,Night
+EMP0530,Alexander,Bailey,Pharmacist,Ophthalmology,2018-09-21,43918.9,555-5712,alexander.bailey89@hospitalstaff.com,Night
+EMP0531,Michael,Carter,Radiologist Technician,Gastroenterology,2025-05-14,48947.82,555-1881,michael.carter2@hospitalstaff.com,Night
+EMP0532,Steven,Sanchez,Accountant,Pulmonology,2015-01-22,89069.59,555-7025,steven.sanchez97@hospitalstaff.com,Night
+EMP0533,Anna,Cox,Pharmacist,Emergency,2016-08-06,58070.6,555-2220,anna.cox24@hospitalstaff.com,Morning
+EMP0534,Jack,Rogers,Lab Technician,Urology,2010-11-29,56710.02,555-5329,jack.rogers17@hospitalstaff.com,Morning
+EMP0535,Justin,Allen,Nurse,Psychiatry,2020-06-17,75549.18,555-3536,justin.allen6@hospitalstaff.com,Morning
+EMP0536,Dorothy,Kim,Nurse,ICU,2024-11-05,48177.37,555-6866,dorothy.kim10@hospitalstaff.com,Night
+EMP0537,Kenneth,Ortiz,Pharmacist,Radiology,2021-09-04,32567.82,555-9276,kenneth.ortiz21@hospitalstaff.com,Evening
+EMP0538,Anna,Morgan,Radiologist Technician,Orthopedics,2017-11-02,42820.27,555-4495,anna.morgan85@hospitalstaff.com,Evening
+EMP0539,Kevin,Campbell,Ward Boy,Emergency,2023-11-13,63543.43,555-1144,kevin.campbell15@hospitalstaff.com,Night
+EMP0540,Brian,Edwards,Pharmacist,ICU,2023-12-07,44336.42,555-1653,brian.edwards88@hospitalstaff.com,Evening
+EMP0541,Edward,Anderson,Radiologist Technician,Gynecology,2022-02-12,76506.37,555-1404,edward.anderson67@hospitalstaff.com,Evening
+EMP0542,Angela,Rogers,Housekeeping Staff,Nephrology,2010-12-26,47861.08,555-4154,angela.rogers42@hospitalstaff.com,Night
+EMP0543,David,Gonzalez,Receptionist,Ophthalmology,2021-12-17,28491.15,555-2072,david.gonzalez27@hospitalstaff.com,Night
+EMP0544,Benjamin,Ramirez,IT Support,Gastroenterology,2012-05-01,41773.83,555-8130,benjamin.ramirez83@hospitalstaff.com,Morning
+EMP0545,Maria,Martin,Nurse,Pulmonology,2017-06-10,30538.38,555-2200,maria.martin7@hospitalstaff.com,Morning
+EMP0546,Steven,Bailey,Lab Technician,Anesthesiology,2015-02-08,89036.1,555-7678,steven.bailey50@hospitalstaff.com,Evening
+EMP0547,Benjamin,Phillips,Radiologist Technician,Psychiatry,2010-05-19,54096.63,555-2938,benjamin.phillips69@hospitalstaff.com,Morning
+EMP0548,Samuel,Richardson,Lab Technician,Anesthesiology,2011-01-08,74959.1,555-2189,samuel.richardson46@hospitalstaff.com,Night
+EMP0549,Susan,Nguyen,IT Support,Dermatology,2023-08-09,33795.85,555-8170,susan.nguyen49@hospitalstaff.com,Evening
+EMP0550,Gregory,Brown,Housekeeping Staff,Radiology,2021-12-19,42731.0,555-7406,gregory.brown70@hospitalstaff.com,Evening

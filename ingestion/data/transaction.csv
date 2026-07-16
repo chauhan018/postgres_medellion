@@ -1,0 +1,901 @@
+transaction_id,patient_id,transaction_date,service_type,amount,payment_method,status
+TXN00001,PAT0146,2026-10-25,Emergency Care,1407.0,Credit Card,Completed
+TXN00002,PAT0320,2022-12-08,Vaccination,352.56,Cheque,Completed
+TXN00003,PAT0054,2025-03-18,Lab Test,1455.45,Insurance,Failed
+TXN00004,PAT0172,2023-04-29,Consultation,4042.49,Credit Card,Completed
+TXN00005,PAT0079,2022-05-18,Surgery,1359.84,Cheque,Completed
+TXN00006,PAT0128,2026-05-15,Physiotherapy,2776.12,Debit Card,Completed
+TXN00007,PAT0157,2024-12-28,Lab Test,1243.32,Cash,Completed
+TXN00008,PAT0176,2026-04-19,Pharmacy,2575.96,Cash,Completed
+TXN00009,PAT0059,2024-03-17,Lab Test,851.67,Insurance,Completed
+TXN00010,PAT0136,2023-05-11,Ambulance Service,4174.71,UPI,Completed
+TXN00011,PAT0474,2023-05-19,Physiotherapy,892.22,Cash,Completed
+TXN00012,PAT0166,2025-08-03,Ambulance Service,3777.48,Cash,Refunded
+TXN00013,PAT0140,2022-01-02,Pharmacy,2314.65,Cheque,Completed
+TXN00014,PAT0405,2025-02-01,Vaccination,3636.65,UPI,Completed
+TXN00015,PAT0533,2023-12-26,Ambulance Service,2895.81,Cheque,Completed
+TXN00016,PAT0258,2024-12-08,Emergency Care,851.14,Cheque,Completed
+TXN00017,PAT0038,2023-02-28,Surgery,3007.0,Debit Card,Pending
+TXN00018,PAT0119,2025-05-22,Emergency Care,1925.21,Debit Card,Completed
+TXN00019,PAT0323,2024-09-24,Room Charges,3756.55,Credit Card,Completed
+TXN00020,PAT0151,2024-07-10,Ambulance Service,3956.81,Bank Transfer,Completed
+TXN00021,PAT0310,2024-03-22,Room Charges,728.73,Credit Card,Failed
+TXN00022,PAT0259,2024-09-23,Emergency Care,2342.42,Insurance,Completed
+TXN00023,PAT0210,2024-08-06,Lab Test,2090.68,Cash,Completed
+TXN00024,PAT0150,2025-08-03,Surgery,1491.18,Cash,Completed
+TXN00025,PAT0396,2026-12-22,Emergency Care,409.05,Debit Card,Completed
+TXN00026,PAT0525,2025-02-03,Physiotherapy,221.81,Cheque,Pending
+TXN00027,PAT0070,2023-12-23,Radiology Scan,983.53,UPI,Completed
+TXN00028,PAT0104,2022-10-26,Vaccination,1362.65,Cash,Completed
+TXN00029,PAT0534,2024-01-31,Consultation,2252.83,Debit Card,Completed
+TXN00030,PAT0472,2023-12-12,Ambulance Service,1646.19,Debit Card,Completed
+TXN00031,PAT0530,2025-04-14,Surgery,4419.99,Cheque,Completed
+TXN00032,PAT0527,2022-03-16,Vaccination,3648.75,UPI,Completed
+TXN00033,PAT0158,2026-08-17,Emergency Care,1664.16,Bank Transfer,Completed
+TXN00034,PAT0274,2022-10-22,Lab Test,3815.3,Credit Card,Completed
+TXN00035,PAT0394,2023-07-19,Emergency Care,1116.78,Cash,Completed
+TXN00036,PAT0137,2023-02-03,Emergency Care,2855.09,Insurance,Completed
+TXN00037,PAT0156,2024-05-24,Vaccination,2849.57,Credit Card,Completed
+TXN00038,PAT0068,2022-12-01,Consultation,1342.23,Insurance,Completed
+TXN00039,PAT0225,2024-08-17,Lab Test,4625.61,Insurance,Completed
+TXN00040,PAT0471,2026-07-21,Radiology Scan,3091.66,Debit Card,Pending
+TXN00041,PAT0265,2025-03-27,Vaccination,2748.67,Cheque,Completed
+TXN00042,PAT0335,2024-12-14,Lab Test,3345.4,Cheque,Completed
+TXN00043,PAT0533,2025-10-29,Pharmacy,4034.82,Cheque,Pending
+TXN00044,PAT0232,2026-07-27,Consultation,2180.69,Debit Card,Completed
+TXN00045,PAT0522,2023-09-08,Physiotherapy,4864.35,Insurance,Completed
+TXN00046,PAT0308,2026-06-30,Pharmacy,550.35,Credit Card,Completed
+TXN00047,PAT0225,2026-12-09,Room Charges,2332.45,Credit Card,Failed
+TXN00048,PAT0556,2024-11-01,Radiology Scan,2074.97,Insurance,Completed
+TXN00049,PAT0340,2023-09-05,Surgery,1227.62,UPI,Completed
+TXN00050,PAT0068,2026-05-07,Radiology Scan,4632.1,Cash,Completed
+TXN00051,PAT0443,2022-11-12,Emergency Care,2376.41,Cash,Completed
+TXN00052,PAT0380,2022-08-31,Pharmacy,1193.7,Insurance,Failed
+TXN00053,PAT0406,2025-04-20,Room Charges,2038.48,Cheque,Completed
+TXN00054,PAT0250,2025-06-04,Lab Test,1693.83,UPI,Completed
+TXN00055,PAT0386,2026-10-14,Surgery,521.29,Cash,Completed
+TXN00056,PAT0009,2022-11-04,Vaccination,2154.14,Cash,Failed
+TXN00057,PAT0156,2022-04-16,Consultation,2366.62,Cash,Completed
+TXN00058,PAT0376,2025-10-22,Radiology Scan,3336.97,Cash,Completed
+TXN00059,PAT0318,2023-11-08,Surgery,213.93,UPI,Completed
+TXN00060,PAT0041,2025-06-12,Consultation,4110.72,Credit Card,Completed
+TXN00061,PAT0401,2026-08-15,Physiotherapy,555.54,UPI,Completed
+TXN00062,PAT0539,2022-05-27,Ambulance Service,1436.54,Cash,Completed
+TXN00063,PAT0267,2022-11-19,Vaccination,498.68,UPI,Completed
+TXN00064,PAT0291,2022-03-07,Emergency Care,4263.74,Bank Transfer,Completed
+TXN00065,PAT0485,2026-07-18,Physiotherapy,1806.58,UPI,Completed
+TXN00066,PAT0411,2024-05-06,Room Charges,3975.4,Cheque,Completed
+TXN00067,PAT0335,2023-03-08,Room Charges,2317.21,Bank Transfer,Completed
+TXN00068,PAT0082,2022-05-01,Ambulance Service,4378.21,Credit Card,Completed
+TXN00069,PAT0460,2022-09-16,Lab Test,3619.39,Debit Card,Completed
+TXN00070,PAT0328,2025-04-01,Room Charges,3598.83,Insurance,Completed
+TXN00071,PAT0566,2026-02-02,Ambulance Service,1526.68,Bank Transfer,Completed
+TXN00072,PAT0485,2025-09-05,Consultation,1833.76,Insurance,Completed
+TXN00073,PAT0068,2022-04-11,Consultation,4208.78,Cheque,Completed
+TXN00074,PAT0192,2026-07-23,Physiotherapy,2328.25,Insurance,Completed
+TXN00075,PAT0332,2024-07-09,Lab Test,4082.59,Bank Transfer,Refunded
+TXN00076,PAT0433,2025-09-10,Radiology Scan,4791.16,Cheque,Completed
+TXN00077,PAT0189,2022-01-16,Lab Test,4772.36,Insurance,Completed
+TXN00078,PAT0343,2022-10-31,Consultation,4423.41,Credit Card,Completed
+TXN00079,PAT0508,2023-07-24,Room Charges,3609.51,Insurance,Completed
+TXN00080,PAT0010,2025-07-17,Radiology Scan,3562.6,Cheque,Completed
+TXN00081,PAT0346,2022-01-06,Surgery,2424.34,Cheque,Refunded
+TXN00082,PAT0207,2023-03-09,Lab Test,1675.94,Bank Transfer,Pending
+TXN00083,PAT0518,2023-07-15,Vaccination,1965.64,UPI,Refunded
+TXN00084,PAT0202,2024-06-09,Consultation,2285.66,Bank Transfer,Completed
+TXN00085,PAT0298,2025-01-08,Physiotherapy,241.68,Debit Card,Completed
+TXN00086,PAT0065,2024-08-29,Emergency Care,4646.66,UPI,Completed
+TXN00087,PAT0323,2026-09-06,Ambulance Service,1130.04,Debit Card,Completed
+TXN00088,PAT0040,2026-07-31,Room Charges,3348.79,UPI,Completed
+TXN00089,PAT0272,2022-01-09,Vaccination,1161.52,Credit Card,Refunded
+TXN00090,PAT0461,2023-05-05,Emergency Care,31.21,Cash,Refunded
+TXN00091,PAT0281,2025-01-01,Vaccination,4700.79,Cash,Completed
+TXN00092,PAT0314,2026-04-24,Ambulance Service,3323.3,Insurance,Refunded
+TXN00093,PAT0219,2024-12-29,Vaccination,1452.03,Cash,Pending
+TXN00094,PAT0399,2025-02-22,Radiology Scan,902.64,Bank Transfer,Completed
+TXN00095,PAT0440,2022-06-13,Radiology Scan,3241.28,Insurance,Completed
+TXN00096,PAT0133,2026-03-15,Pharmacy,861.73,Debit Card,Completed
+TXN00097,PAT0426,2022-11-28,Emergency Care,1036.38,Credit Card,Completed
+TXN00098,PAT0296,2023-09-26,Vaccination,3463.96,Bank Transfer,Completed
+TXN00099,PAT0160,2026-11-24,Surgery,4268.09,Cash,Refunded
+TXN00100,PAT0068,2026-05-14,Pharmacy,4826.42,Cash,Completed
+TXN00101,PAT0346,2022-09-06,Vaccination,3834.68,Cheque,Completed
+TXN00102,PAT0524,2022-09-08,Physiotherapy,3346.63,Debit Card,Completed
+TXN00103,PAT0365,2026-06-04,Surgery,1779.14,Insurance,Pending
+TXN00104,PAT0559,2023-05-28,Consultation,4556.38,UPI,Pending
+TXN00105,PAT0089,2022-05-10,Lab Test,746.15,Credit Card,Completed
+TXN00106,PAT0548,2023-02-02,Physiotherapy,4955.75,Cheque,Completed
+TXN00107,PAT0031,2023-11-28,Emergency Care,3967.47,Insurance,Completed
+TXN00108,PAT0525,2026-05-08,Emergency Care,1077.55,Credit Card,Completed
+TXN00109,PAT0496,2026-05-04,Ambulance Service,3743.72,Cash,Refunded
+TXN00110,PAT0233,2026-09-06,Physiotherapy,2796.14,Insurance,Completed
+TXN00111,PAT0378,2023-02-12,Consultation,201.17,Credit Card,Completed
+TXN00112,PAT0364,2022-02-05,Radiology Scan,3250.61,Insurance,Completed
+TXN00113,PAT0008,2023-10-08,Physiotherapy,444.42,Cheque,Completed
+TXN00114,PAT0534,2025-02-23,Surgery,2972.57,Insurance,Completed
+TXN00115,PAT0565,2026-01-26,Radiology Scan,616.37,Cheque,Completed
+TXN00116,PAT0325,2023-05-19,Pharmacy,2694.67,Insurance,Completed
+TXN00117,PAT0110,2022-04-23,Pharmacy,3330.82,Credit Card,Completed
+TXN00118,PAT0389,2022-11-10,Pharmacy,1712.91,Insurance,Refunded
+TXN00119,PAT0544,2024-01-16,Surgery,2501.47,Bank Transfer,Completed
+TXN00120,PAT0024,2022-02-23,Pharmacy,1652.21,Bank Transfer,Completed
+TXN00121,PAT0141,2024-12-11,Ambulance Service,3005.74,Cash,Completed
+TXN00122,PAT0098,2023-06-26,Radiology Scan,1605.19,Cash,Completed
+TXN00123,PAT0218,2025-04-07,Surgery,1172.97,Debit Card,Completed
+TXN00124,PAT0564,2026-03-26,Vaccination,4566.61,Cash,Pending
+TXN00125,PAT0563,2025-03-28,Vaccination,1500.09,UPI,Completed
+TXN00126,PAT0103,2024-04-06,Consultation,1573.22,Insurance,Completed
+TXN00127,PAT0342,2023-07-06,Consultation,701.72,Cash,Failed
+TXN00128,PAT0005,2022-08-07,Physiotherapy,231.77,Cheque,Completed
+TXN00129,PAT0555,2022-08-07,Pharmacy,810.86,UPI,Pending
+TXN00130,PAT0254,2022-06-17,Radiology Scan,858.53,Bank Transfer,Failed
+TXN00131,PAT0107,2025-07-15,Consultation,2362.17,Bank Transfer,Completed
+TXN00132,PAT0174,2026-02-20,Vaccination,1208.16,Insurance,Completed
+TXN00133,PAT0536,2026-11-28,Pharmacy,2891.92,Bank Transfer,Completed
+TXN00134,PAT0193,2024-10-05,Vaccination,1204.8,Insurance,Completed
+TXN00135,PAT0398,2023-01-30,Vaccination,1477.68,Credit Card,Completed
+TXN00136,PAT0422,2025-03-30,Pharmacy,1361.41,UPI,Pending
+TXN00137,PAT0128,2025-12-18,Emergency Care,1289.9,UPI,Completed
+TXN00138,PAT0118,2024-04-10,Ambulance Service,972.0,Debit Card,Completed
+TXN00139,PAT0591,2023-01-13,Ambulance Service,617.49,Bank Transfer,Completed
+TXN00140,PAT0042,2023-04-18,Room Charges,3729.5,Bank Transfer,Completed
+TXN00141,PAT0405,2022-09-30,Room Charges,1397.21,Cash,Completed
+TXN00142,PAT0216,2026-01-08,Surgery,4153.25,Cash,Completed
+TXN00143,PAT0350,2023-02-27,Physiotherapy,739.03,Bank Transfer,Completed
+TXN00144,PAT0127,2026-11-15,Radiology Scan,1639.06,Insurance,Completed
+TXN00145,PAT0532,2025-10-25,Pharmacy,2228.19,Credit Card,Pending
+TXN00146,PAT0150,2023-02-28,Emergency Care,1778.83,Cheque,Completed
+TXN00147,PAT0249,2024-09-30,Physiotherapy,4746.73,Insurance,Completed
+TXN00148,PAT0004,2024-06-06,Physiotherapy,809.85,Cheque,Pending
+TXN00149,PAT0062,2026-03-13,Physiotherapy,2630.92,Credit Card,Completed
+TXN00150,PAT0295,2022-10-16,Pharmacy,1411.05,Insurance,Completed
+TXN00151,PAT0485,2026-05-29,Vaccination,345.17,Insurance,Completed
+TXN00152,PAT0230,2024-07-09,Room Charges,3448.39,Debit Card,Pending
+TXN00153,PAT0400,2023-07-07,Lab Test,2412.14,Insurance,Failed
+TXN00154,PAT0018,2026-05-19,Room Charges,3233.2,Insurance,Completed
+TXN00155,PAT0565,2024-11-09,Lab Test,566.93,Bank Transfer,Completed
+TXN00156,PAT0261,2025-11-13,Surgery,1373.62,Bank Transfer,Completed
+TXN00157,PAT0318,2026-03-09,Emergency Care,121.09,UPI,Refunded
+TXN00158,PAT0110,2023-05-10,Pharmacy,1275.45,Credit Card,Completed
+TXN00159,PAT0570,2026-10-19,Ambulance Service,2880.58,UPI,Failed
+TXN00160,PAT0509,2024-12-18,Consultation,762.5,Cash,Completed
+TXN00161,PAT0568,2024-05-09,Ambulance Service,1719.66,Insurance,Completed
+TXN00162,PAT0112,2026-02-09,Pharmacy,3609.99,Insurance,Completed
+TXN00163,PAT0279,2025-04-15,Room Charges,3151.66,Bank Transfer,Pending
+TXN00164,PAT0579,2025-03-01,Radiology Scan,498.53,Insurance,Completed
+TXN00165,PAT0251,2023-10-28,Consultation,4291.83,Debit Card,Completed
+TXN00166,PAT0247,2024-12-26,Radiology Scan,2475.89,Insurance,Refunded
+TXN00167,PAT0017,2025-11-13,Surgery,533.9,Credit Card,Completed
+TXN00168,PAT0045,2023-02-24,Physiotherapy,2073.55,Bank Transfer,Completed
+TXN00169,PAT0562,2024-06-22,Lab Test,1119.25,Credit Card,Completed
+TXN00170,PAT0100,2022-03-16,Pharmacy,78.26,UPI,Completed
+TXN00171,PAT0288,2025-08-09,Ambulance Service,4451.21,Credit Card,Completed
+TXN00172,PAT0243,2025-06-06,Surgery,485.68,Debit Card,Completed
+TXN00173,PAT0550,2026-03-09,Room Charges,239.97,Bank Transfer,Completed
+TXN00174,PAT0172,2025-09-08,Consultation,4632.62,Insurance,Pending
+TXN00175,PAT0222,2026-06-18,Emergency Care,4439.59,Cash,Completed
+TXN00176,PAT0597,2023-04-15,Ambulance Service,1402.8,Insurance,Completed
+TXN00177,PAT0366,2026-03-23,Physiotherapy,2790.31,Credit Card,Completed
+TXN00178,PAT0100,2025-07-08,Ambulance Service,126.38,Debit Card,Completed
+TXN00179,PAT0161,2023-04-25,Consultation,3667.55,Credit Card,Pending
+TXN00180,PAT0203,2022-09-29,Pharmacy,2315.06,Bank Transfer,Completed
+TXN00181,PAT0138,2022-03-06,Surgery,3634.2,Bank Transfer,Completed
+TXN00182,PAT0307,2026-09-06,Emergency Care,786.57,Cash,Pending
+TXN00183,PAT0163,2024-08-28,Emergency Care,57.96,Debit Card,Completed
+TXN00184,PAT0180,2025-11-02,Emergency Care,560.45,Cheque,Completed
+TXN00185,PAT0075,2022-11-11,Emergency Care,560.03,Credit Card,Completed
+TXN00186,PAT0171,2023-06-30,Vaccination,3574.34,Bank Transfer,Completed
+TXN00187,PAT0600,2023-11-07,Physiotherapy,803.84,UPI,Completed
+TXN00188,PAT0581,2023-03-18,Physiotherapy,2135.93,UPI,Pending
+TXN00189,PAT0456,2023-07-26,Radiology Scan,1315.94,Credit Card,Failed
+TXN00190,PAT0021,2023-02-06,Emergency Care,1491.76,Cheque,Completed
+TXN00191,PAT0094,2026-11-27,Ambulance Service,594.43,Bank Transfer,Completed
+TXN00192,PAT0056,2023-04-16,Vaccination,4748.82,Cash,Completed
+TXN00193,PAT0405,2025-08-23,Ambulance Service,3568.0,Cheque,Completed
+TXN00194,PAT0531,2023-01-04,Vaccination,4381.48,Cheque,Completed
+TXN00195,PAT0052,2024-11-07,Ambulance Service,2727.48,Cash,Completed
+TXN00196,PAT0566,2022-06-21,Radiology Scan,2634.88,Cash,Completed
+TXN00197,PAT0341,2025-01-29,Lab Test,4143.99,Cash,Completed
+TXN00198,PAT0211,2022-10-14,Room Charges,3499.9,Cash,Completed
+TXN00199,PAT0453,2022-05-27,Emergency Care,3610.18,UPI,Completed
+TXN00200,PAT0330,2024-08-01,Lab Test,3413.07,Cheque,Completed
+TXN00201,PAT0034,2026-04-17,Consultation,3904.64,Cheque,Completed
+TXN00202,PAT0025,2026-11-03,Consultation,436.5,Credit Card,Completed
+TXN00203,PAT0600,2022-06-16,Surgery,3446.02,Insurance,Refunded
+TXN00204,PAT0101,2024-06-18,Vaccination,3244.79,Cash,Completed
+TXN00205,PAT0027,2026-01-12,Lab Test,4942.25,Debit Card,Completed
+TXN00206,PAT0118,2026-06-16,Vaccination,3235.12,Cheque,Completed
+TXN00207,PAT0164,2022-06-24,Vaccination,4067.57,UPI,Completed
+TXN00208,PAT0553,2024-09-03,Pharmacy,2465.87,Cheque,Completed
+TXN00209,PAT0180,2026-08-16,Pharmacy,2517.05,Cheque,Completed
+TXN00210,PAT0389,2024-08-18,Consultation,2545.58,Insurance,Completed
+TXN00211,PAT0051,2022-01-06,Pharmacy,4431.25,Insurance,Completed
+TXN00212,PAT0350,2022-07-01,Radiology Scan,3625.02,Debit Card,Completed
+TXN00213,PAT0415,2024-02-13,Ambulance Service,632.25,Insurance,Completed
+TXN00214,PAT0276,2024-11-13,Room Charges,4953.52,Debit Card,Completed
+TXN00215,PAT0375,2023-09-28,Lab Test,3930.0,Insurance,Completed
+TXN00216,PAT0566,2026-01-02,Consultation,3132.58,Cash,Completed
+TXN00217,PAT0247,2024-04-20,Ambulance Service,4283.01,UPI,Completed
+TXN00218,PAT0364,2026-05-30,Consultation,3866.39,Cheque,Completed
+TXN00219,PAT0539,2023-01-14,Lab Test,341.28,Debit Card,Pending
+TXN00220,PAT0126,2026-11-08,Emergency Care,1279.02,UPI,Completed
+TXN00221,PAT0570,2024-12-19,Consultation,1322.81,Bank Transfer,Completed
+TXN00222,PAT0182,2025-01-26,Physiotherapy,2502.27,Credit Card,Completed
+TXN00223,PAT0388,2026-01-10,Room Charges,2651.04,Cash,Completed
+TXN00224,PAT0249,2022-11-14,Surgery,724.67,Insurance,Completed
+TXN00225,PAT0303,2026-01-26,Lab Test,2618.18,Bank Transfer,Completed
+TXN00226,PAT0315,2024-04-14,Pharmacy,809.79,Credit Card,Pending
+TXN00227,PAT0134,2024-01-25,Vaccination,2165.83,Cash,Completed
+TXN00228,PAT0258,2022-06-18,Physiotherapy,4369.75,Cheque,Completed
+TXN00229,PAT0400,2022-11-17,Radiology Scan,4731.79,Debit Card,Completed
+TXN00230,PAT0044,2023-01-18,Emergency Care,3947.52,Bank Transfer,Completed
+TXN00231,PAT0349,2025-01-18,Lab Test,1483.29,Cheque,Failed
+TXN00232,PAT0024,2025-10-01,Surgery,2359.76,Debit Card,Completed
+TXN00233,PAT0287,2026-11-03,Pharmacy,2574.64,Cheque,Completed
+TXN00234,PAT0024,2026-05-01,Room Charges,3659.28,Debit Card,Completed
+TXN00235,PAT0513,2024-11-28,Lab Test,4155.47,Debit Card,Completed
+TXN00236,PAT0138,2024-08-11,Ambulance Service,4162.13,Cash,Completed
+TXN00237,PAT0349,2022-03-18,Pharmacy,3440.4,Cash,Refunded
+TXN00238,PAT0299,2023-05-05,Room Charges,4584.1,Credit Card,Refunded
+TXN00239,PAT0364,2023-02-02,Vaccination,1303.43,Debit Card,Pending
+TXN00240,PAT0126,2024-03-19,Room Charges,4037.39,Cheque,Completed
+TXN00241,PAT0097,2025-12-27,Ambulance Service,2284.62,Insurance,Completed
+TXN00242,PAT0127,2025-01-19,Consultation,3040.15,Credit Card,Completed
+TXN00243,PAT0094,2025-07-16,Room Charges,2473.05,Credit Card,Completed
+TXN00244,PAT0331,2023-04-08,Consultation,4414.27,Cheque,Completed
+TXN00245,PAT0079,2022-06-21,Ambulance Service,3811.54,Insurance,Completed
+TXN00246,PAT0336,2024-03-08,Surgery,2319.33,UPI,Pending
+TXN00247,PAT0566,2026-01-15,Vaccination,4461.28,Cash,Failed
+TXN00248,PAT0214,2026-08-08,Consultation,4986.37,Cash,Completed
+TXN00249,PAT0343,2026-05-14,Emergency Care,577.83,Credit Card,Pending
+TXN00250,PAT0537,2022-01-27,Room Charges,3448.22,Debit Card,Completed
+TXN00251,PAT0510,2023-06-25,Pharmacy,4118.74,UPI,Completed
+TXN00252,PAT0426,2022-01-07,Ambulance Service,3407.0,Insurance,Completed
+TXN00253,PAT0355,2022-10-02,Consultation,399.73,UPI,Completed
+TXN00254,PAT0127,2026-11-19,Vaccination,3203.66,UPI,Completed
+TXN00255,PAT0553,2023-08-22,Room Charges,1172.12,UPI,Completed
+TXN00256,PAT0028,2025-04-16,Lab Test,3787.48,Insurance,Completed
+TXN00257,PAT0162,2023-03-18,Ambulance Service,3017.78,Credit Card,Completed
+TXN00258,PAT0463,2023-07-18,Radiology Scan,1701.72,Cash,Completed
+TXN00259,PAT0038,2025-11-25,Pharmacy,667.66,UPI,Completed
+TXN00260,PAT0044,2026-08-26,Radiology Scan,3159.78,Cheque,Completed
+TXN00261,PAT0244,2024-10-05,Emergency Care,2154.77,Cheque,Completed
+TXN00262,PAT0532,2025-11-21,Surgery,600.23,Credit Card,Completed
+TXN00263,PAT0019,2022-03-28,Room Charges,4376.65,Cash,Completed
+TXN00264,PAT0209,2024-01-10,Emergency Care,2001.19,UPI,Completed
+TXN00265,PAT0028,2024-03-02,Lab Test,3430.84,Cash,Completed
+TXN00266,PAT0218,2022-07-24,Lab Test,3842.62,Debit Card,Pending
+TXN00267,PAT0365,2022-04-17,Emergency Care,2555.2,Credit Card,Completed
+TXN00268,PAT0112,2024-09-21,Physiotherapy,2133.88,UPI,Completed
+TXN00269,PAT0147,2025-06-26,Room Charges,4919.92,Cheque,Completed
+TXN00270,PAT0042,2022-08-26,Room Charges,1533.95,UPI,Completed
+TXN00271,PAT0541,2024-07-05,Room Charges,1726.19,Credit Card,Completed
+TXN00272,PAT0564,2026-02-17,Vaccination,699.75,Cash,Completed
+TXN00273,PAT0384,2025-06-12,Surgery,285.93,Bank Transfer,Completed
+TXN00274,PAT0019,2025-05-25,Consultation,2546.85,UPI,Completed
+TXN00275,PAT0067,2026-07-04,Pharmacy,1443.11,Credit Card,Failed
+TXN00276,PAT0464,2023-06-07,Ambulance Service,4040.48,Insurance,Completed
+TXN00277,PAT0587,2025-07-01,Emergency Care,3837.81,UPI,Pending
+TXN00278,PAT0304,2026-08-28,Vaccination,3215.91,Cheque,Completed
+TXN00279,PAT0468,2022-07-03,Vaccination,1491.83,UPI,Completed
+TXN00280,PAT0594,2024-02-26,Ambulance Service,1256.04,Debit Card,Completed
+TXN00281,PAT0302,2022-02-13,Vaccination,4438.95,UPI,Completed
+TXN00282,PAT0200,2022-12-25,Room Charges,559.61,Cheque,Completed
+TXN00283,PAT0229,2023-08-26,Lab Test,3885.82,Insurance,Completed
+TXN00284,PAT0574,2022-04-23,Emergency Care,3118.64,Cash,Refunded
+TXN00285,PAT0485,2022-11-14,Emergency Care,3208.39,Insurance,Completed
+TXN00286,PAT0032,2025-08-07,Physiotherapy,886.09,Credit Card,Completed
+TXN00287,PAT0234,2024-11-30,Ambulance Service,1117.58,Bank Transfer,Completed
+TXN00288,PAT0371,2025-08-24,Room Charges,4494.64,UPI,Completed
+TXN00289,PAT0575,2026-03-31,Consultation,4183.14,Debit Card,Pending
+TXN00290,PAT0353,2024-04-14,Surgery,4908.36,Bank Transfer,Completed
+TXN00291,PAT0445,2023-12-01,Consultation,2755.28,Cheque,Completed
+TXN00292,PAT0416,2025-04-24,Radiology Scan,2731.61,Credit Card,Completed
+TXN00293,PAT0273,2022-07-11,Vaccination,1924.52,Insurance,Completed
+TXN00294,PAT0075,2026-08-26,Room Charges,94.37,Insurance,Pending
+TXN00295,PAT0101,2025-10-08,Lab Test,3837.13,Cheque,Completed
+TXN00296,PAT0586,2023-11-21,Surgery,1274.61,Credit Card,Completed
+TXN00297,PAT0409,2025-01-13,Lab Test,1218.19,Cheque,Completed
+TXN00298,PAT0522,2023-07-11,Consultation,4276.09,Cheque,Refunded
+TXN00299,PAT0490,2026-03-21,Room Charges,24.87,Bank Transfer,Pending
+TXN00300,PAT0445,2025-05-14,Emergency Care,4538.55,Insurance,Completed
+TXN00301,PAT0057,2022-08-28,Emergency Care,2529.42,Cash,Completed
+TXN00302,PAT0198,2026-07-26,Ambulance Service,1687.51,Cheque,Pending
+TXN00303,PAT0050,2022-05-16,Emergency Care,2648.51,UPI,Completed
+TXN00304,PAT0083,2023-08-24,Ambulance Service,384.35,Bank Transfer,Completed
+TXN00305,PAT0465,2024-04-15,Lab Test,4317.23,UPI,Completed
+TXN00306,PAT0597,2024-06-26,Emergency Care,3142.35,Cash,Completed
+TXN00307,PAT0226,2025-07-29,Pharmacy,1365.21,Insurance,Completed
+TXN00308,PAT0289,2024-03-11,Lab Test,309.75,Insurance,Pending
+TXN00309,PAT0413,2026-04-12,Emergency Care,3363.54,UPI,Completed
+TXN00310,PAT0020,2025-02-11,Surgery,3734.4,Insurance,Completed
+TXN00311,PAT0486,2024-02-27,Consultation,4910.27,UPI,Completed
+TXN00312,PAT0069,2026-04-25,Pharmacy,133.22,UPI,Completed
+TXN00313,PAT0270,2022-05-18,Room Charges,1008.23,Insurance,Completed
+TXN00314,PAT0136,2023-10-06,Radiology Scan,3580.3,Credit Card,Completed
+TXN00315,PAT0411,2022-08-11,Physiotherapy,2732.53,Cash,Completed
+TXN00316,PAT0210,2026-10-06,Lab Test,3396.6,Cash,Completed
+TXN00317,PAT0001,2024-02-17,Surgery,1109.98,Insurance,Completed
+TXN00318,PAT0526,2025-10-03,Radiology Scan,679.13,Insurance,Completed
+TXN00319,PAT0354,2024-02-10,Surgery,968.13,Insurance,Completed
+TXN00320,PAT0559,2023-08-31,Pharmacy,1337.7,Cash,Completed
+TXN00321,PAT0173,2026-11-06,Ambulance Service,1628.65,Credit Card,Pending
+TXN00322,PAT0302,2024-11-11,Consultation,4865.93,Cash,Completed
+TXN00323,PAT0292,2022-04-19,Room Charges,2269.66,Bank Transfer,Completed
+TXN00324,PAT0105,2024-03-26,Physiotherapy,2680.23,Credit Card,Failed
+TXN00325,PAT0512,2025-09-28,Vaccination,868.18,Credit Card,Completed
+TXN00326,PAT0166,2025-08-01,Surgery,4393.34,Cheque,Completed
+TXN00327,PAT0187,2022-07-29,Room Charges,1320.27,Insurance,Completed
+TXN00328,PAT0560,2023-11-28,Physiotherapy,3926.28,Bank Transfer,Completed
+TXN00329,PAT0240,2026-04-02,Emergency Care,4335.59,Credit Card,Pending
+TXN00330,PAT0553,2023-05-13,Surgery,4243.42,Credit Card,Completed
+TXN00331,PAT0327,2024-04-16,Consultation,1705.59,UPI,Completed
+TXN00332,PAT0024,2024-10-06,Ambulance Service,2732.1,Bank Transfer,Completed
+TXN00333,PAT0122,2024-07-17,Physiotherapy,3506.56,Insurance,Pending
+TXN00334,PAT0509,2023-04-29,Emergency Care,2601.02,Cheque,Completed
+TXN00335,PAT0016,2024-01-18,Consultation,1893.06,Credit Card,Completed
+TXN00336,PAT0176,2023-01-05,Room Charges,3153.29,Debit Card,Completed
+TXN00337,PAT0089,2024-03-16,Radiology Scan,93.86,Debit Card,Completed
+TXN00338,PAT0459,2022-08-03,Pharmacy,2036.57,Credit Card,Completed
+TXN00339,PAT0536,2025-08-26,Lab Test,382.31,UPI,Completed
+TXN00340,PAT0582,2024-03-25,Physiotherapy,3779.72,Cash,Completed
+TXN00341,PAT0548,2026-05-02,Pharmacy,1191.39,UPI,Completed
+TXN00342,PAT0296,2026-05-24,Vaccination,4343.03,Credit Card,Completed
+TXN00343,PAT0039,2026-10-09,Radiology Scan,3995.96,UPI,Completed
+TXN00344,PAT0236,2025-09-18,Vaccination,2177.09,Bank Transfer,Completed
+TXN00345,PAT0257,2024-11-05,Pharmacy,3248.89,Debit Card,Pending
+TXN00346,PAT0346,2026-09-29,Ambulance Service,2570.78,Bank Transfer,Completed
+TXN00347,PAT0087,2023-08-04,Radiology Scan,2270.28,UPI,Completed
+TXN00348,PAT0037,2025-11-24,Physiotherapy,476.5,Credit Card,Completed
+TXN00349,PAT0558,2024-04-02,Physiotherapy,1964.67,Credit Card,Completed
+TXN00350,PAT0192,2022-02-23,Ambulance Service,2270.99,Insurance,Completed
+TXN00351,PAT0066,2026-01-13,Physiotherapy,2484.59,UPI,Completed
+TXN00352,PAT0555,2022-11-04,Ambulance Service,2881.47,Insurance,Completed
+TXN00353,PAT0158,2026-09-11,Lab Test,1614.18,UPI,Completed
+TXN00354,PAT0040,2026-06-08,Vaccination,1604.9,UPI,Completed
+TXN00355,PAT0191,2025-10-29,Room Charges,1856.03,Bank Transfer,Completed
+TXN00356,PAT0031,2025-09-20,Radiology Scan,3782.72,Insurance,Completed
+TXN00357,PAT0340,2025-11-05,Physiotherapy,2854.58,Cash,Completed
+TXN00358,PAT0172,2023-07-27,Vaccination,896.02,Bank Transfer,Completed
+TXN00359,PAT0384,2023-07-04,Pharmacy,929.13,UPI,Completed
+TXN00360,PAT0404,2023-02-06,Lab Test,1778.04,Cheque,Completed
+TXN00361,PAT0191,2025-07-31,Room Charges,3177.07,Credit Card,Completed
+TXN00362,PAT0590,2026-10-01,Pharmacy,3951.88,Cheque,Pending
+TXN00363,PAT0200,2025-01-23,Ambulance Service,4673.99,Debit Card,Completed
+TXN00364,PAT0267,2022-06-13,Radiology Scan,949.28,Cheque,Completed
+TXN00365,PAT0495,2022-12-31,Radiology Scan,1957.6,UPI,Completed
+TXN00366,PAT0227,2026-11-14,Room Charges,1729.76,UPI,Completed
+TXN00367,PAT0379,2022-07-29,Room Charges,4305.04,UPI,Completed
+TXN00368,PAT0401,2024-01-27,Radiology Scan,147.78,Bank Transfer,Completed
+TXN00369,PAT0270,2024-03-02,Vaccination,1635.39,UPI,Completed
+TXN00370,PAT0500,2026-05-03,Pharmacy,4127.81,Credit Card,Completed
+TXN00371,PAT0314,2025-07-10,Ambulance Service,617.49,Bank Transfer,Pending
+TXN00372,PAT0591,2022-06-02,Surgery,4571.12,UPI,Completed
+TXN00373,PAT0049,2023-02-12,Vaccination,4168.46,Debit Card,Completed
+TXN00374,PAT0276,2026-06-13,Consultation,448.33,Debit Card,Completed
+TXN00375,PAT0315,2022-06-30,Radiology Scan,1482.38,Cash,Completed
+TXN00376,PAT0336,2023-02-19,Surgery,1098.65,Credit Card,Completed
+TXN00377,PAT0220,2026-08-02,Emergency Care,2389.76,Cheque,Refunded
+TXN00378,PAT0100,2023-05-03,Emergency Care,2247.69,Debit Card,Completed
+TXN00379,PAT0273,2026-09-30,Lab Test,3491.69,Bank Transfer,Pending
+TXN00380,PAT0291,2026-04-26,Surgery,195.26,Debit Card,Completed
+TXN00381,PAT0393,2025-06-14,Vaccination,4740.92,Cash,Completed
+TXN00382,PAT0537,2024-08-26,Vaccination,319.51,Bank Transfer,Pending
+TXN00383,PAT0490,2022-01-14,Pharmacy,1817.71,Credit Card,Pending
+TXN00384,PAT0540,2025-02-16,Radiology Scan,2022.92,Credit Card,Failed
+TXN00385,PAT0571,2026-07-16,Emergency Care,2092.09,Debit Card,Pending
+TXN00386,PAT0598,2024-11-03,Emergency Care,3965.63,Insurance,Completed
+TXN00387,PAT0287,2023-09-04,Lab Test,708.33,Bank Transfer,Completed
+TXN00388,PAT0346,2026-02-26,Pharmacy,2715.92,Debit Card,Completed
+TXN00389,PAT0433,2024-01-15,Radiology Scan,3942.29,Cheque,Completed
+TXN00390,PAT0183,2024-10-25,Lab Test,1536.62,UPI,Failed
+TXN00391,PAT0085,2026-07-22,Emergency Care,4927.22,Cash,Completed
+TXN00392,PAT0007,2026-12-13,Consultation,233.52,Cheque,Completed
+TXN00393,PAT0236,2025-04-15,Room Charges,382.29,Credit Card,Completed
+TXN00394,PAT0119,2026-06-25,Radiology Scan,4345.06,Cash,Completed
+TXN00395,PAT0332,2023-11-28,Physiotherapy,188.27,Credit Card,Completed
+TXN00396,PAT0436,2025-02-11,Lab Test,3416.33,Debit Card,Completed
+TXN00397,PAT0533,2024-12-10,Ambulance Service,1927.68,UPI,Completed
+TXN00398,PAT0503,2022-10-23,Physiotherapy,4816.21,Bank Transfer,Refunded
+TXN00399,PAT0228,2024-05-16,Physiotherapy,4496.37,Cheque,Completed
+TXN00400,PAT0300,2025-08-10,Emergency Care,765.53,Cash,Completed
+TXN00401,PAT0528,2026-02-21,Lab Test,4597.82,Debit Card,Completed
+TXN00402,PAT0072,2024-12-12,Room Charges,4030.82,Credit Card,Completed
+TXN00403,PAT0109,2026-02-18,Lab Test,968.31,Cash,Completed
+TXN00404,PAT0147,2026-12-05,Consultation,3142.02,UPI,Completed
+TXN00405,PAT0387,2026-02-21,Consultation,4429.7,UPI,Completed
+TXN00406,PAT0269,2024-09-29,Lab Test,1035.71,UPI,Completed
+TXN00407,PAT0025,2024-12-26,Lab Test,3839.34,Insurance,Completed
+TXN00408,PAT0090,2025-09-24,Physiotherapy,901.17,Credit Card,Pending
+TXN00409,PAT0492,2024-08-08,Radiology Scan,1316.5,Debit Card,Completed
+TXN00410,PAT0273,2024-09-17,Lab Test,1906.97,Cheque,Completed
+TXN00411,PAT0034,2023-10-29,Lab Test,3100.69,UPI,Pending
+TXN00412,PAT0465,2024-02-23,Vaccination,1220.62,Cash,Completed
+TXN00413,PAT0563,2026-11-15,Lab Test,3597.08,Cash,Completed
+TXN00414,PAT0180,2022-05-10,Physiotherapy,3443.66,Credit Card,Completed
+TXN00415,PAT0223,2025-03-02,Ambulance Service,4833.77,Cheque,Failed
+TXN00416,PAT0334,2023-01-08,Lab Test,792.85,UPI,Failed
+TXN00417,PAT0220,2026-02-26,Emergency Care,4410.16,Cash,Completed
+TXN00418,PAT0335,2025-09-08,Ambulance Service,395.31,Debit Card,Completed
+TXN00419,PAT0564,2022-10-22,Room Charges,4485.6,Debit Card,Completed
+TXN00420,PAT0251,2026-06-05,Ambulance Service,4281.38,UPI,Completed
+TXN00421,PAT0570,2023-09-23,Pharmacy,2101.02,Insurance,Completed
+TXN00422,PAT0475,2026-02-18,Physiotherapy,1109.95,Cheque,Completed
+TXN00423,PAT0254,2022-02-10,Ambulance Service,1676.47,Cheque,Completed
+TXN00424,PAT0511,2025-06-05,Surgery,918.69,Insurance,Completed
+TXN00425,PAT0597,2024-06-17,Consultation,950.24,Credit Card,Completed
+TXN00426,PAT0166,2022-04-24,Radiology Scan,1247.52,UPI,Completed
+TXN00427,PAT0540,2024-10-16,Surgery,1086.9,Bank Transfer,Pending
+TXN00428,PAT0335,2022-10-11,Ambulance Service,4757.16,UPI,Completed
+TXN00429,PAT0153,2022-02-27,Surgery,690.89,Debit Card,Completed
+TXN00430,PAT0056,2025-01-27,Room Charges,882.87,Cash,Completed
+TXN00431,PAT0568,2024-09-28,Ambulance Service,4057.95,Bank Transfer,Pending
+TXN00432,PAT0532,2024-10-28,Vaccination,4320.84,Insurance,Completed
+TXN00433,PAT0216,2025-11-20,Radiology Scan,3343.39,Debit Card,Completed
+TXN00434,PAT0548,2024-03-18,Consultation,3997.49,Cheque,Completed
+TXN00435,PAT0042,2023-02-18,Consultation,1405.09,Debit Card,Completed
+TXN00436,PAT0398,2025-08-14,Surgery,4077.07,Cheque,Completed
+TXN00437,PAT0329,2022-08-13,Physiotherapy,350.71,Cheque,Pending
+TXN00438,PAT0216,2026-11-21,Ambulance Service,4494.73,Cheque,Completed
+TXN00439,PAT0153,2025-08-09,Ambulance Service,854.05,Bank Transfer,Failed
+TXN00440,PAT0357,2025-09-21,Consultation,480.53,Credit Card,Completed
+TXN00441,PAT0524,2023-01-30,Consultation,3068.16,Credit Card,Failed
+TXN00442,PAT0591,2024-05-01,Physiotherapy,431.59,Bank Transfer,Completed
+TXN00443,PAT0096,2025-05-31,Surgery,743.02,Cash,Completed
+TXN00444,PAT0156,2022-08-25,Room Charges,803.87,Cheque,Completed
+TXN00445,PAT0472,2024-04-19,Physiotherapy,3768.25,Credit Card,Completed
+TXN00446,PAT0092,2022-08-26,Surgery,1925.26,Cash,Completed
+TXN00447,PAT0186,2022-03-27,Surgery,3095.19,Cash,Completed
+TXN00448,PAT0352,2025-09-17,Vaccination,3804.56,Credit Card,Completed
+TXN00449,PAT0220,2022-03-17,Pharmacy,2867.98,Insurance,Completed
+TXN00450,PAT0214,2025-01-03,Consultation,3308.48,Insurance,Completed
+TXN00451,PAT0309,2026-05-10,Vaccination,536.08,Cheque,Completed
+TXN00452,PAT0181,2022-07-25,Surgery,1436.56,Cheque,Completed
+TXN00453,PAT0405,2025-07-04,Vaccination,720.24,Debit Card,Pending
+TXN00454,PAT0591,2025-09-23,Radiology Scan,4910.28,Credit Card,Completed
+TXN00455,PAT0385,2022-09-21,Consultation,4203.16,UPI,Completed
+TXN00456,PAT0376,2023-12-18,Emergency Care,4201.44,Cash,Pending
+TXN00457,PAT0002,2026-07-08,Room Charges,3584.05,UPI,Completed
+TXN00458,PAT0132,2026-05-15,Ambulance Service,2492.86,Cash,Completed
+TXN00459,PAT0235,2024-07-18,Surgery,726.56,Credit Card,Completed
+TXN00460,PAT0368,2025-01-30,Radiology Scan,2707.4,Insurance,Completed
+TXN00461,PAT0134,2023-03-11,Consultation,1311.6,Cash,Pending
+TXN00462,PAT0160,2022-02-22,Lab Test,4950.7,Cash,Completed
+TXN00463,PAT0371,2025-06-11,Lab Test,2406.97,UPI,Completed
+TXN00464,PAT0062,2022-12-07,Ambulance Service,3104.74,Insurance,Completed
+TXN00465,PAT0088,2024-06-02,Emergency Care,4312.58,Cash,Completed
+TXN00466,PAT0134,2022-09-17,Pharmacy,2664.62,Cash,Completed
+TXN00467,PAT0268,2026-11-05,Lab Test,4142.28,Bank Transfer,Completed
+TXN00468,PAT0008,2023-03-31,Pharmacy,181.27,Cash,Completed
+TXN00469,PAT0372,2024-04-10,Physiotherapy,2830.85,Cheque,Completed
+TXN00470,PAT0378,2024-05-16,Pharmacy,3122.07,Debit Card,Completed
+TXN00471,PAT0357,2024-02-01,Pharmacy,2137.35,Credit Card,Failed
+TXN00472,PAT0258,2024-09-09,Surgery,701.56,Cheque,Completed
+TXN00473,PAT0445,2022-01-06,Surgery,239.74,Cash,Completed
+TXN00474,PAT0527,2022-09-09,Consultation,1051.95,Cheque,Failed
+TXN00475,PAT0423,2025-02-08,Room Charges,519.88,Insurance,Completed
+TXN00476,PAT0093,2024-09-28,Lab Test,2130.55,Cash,Completed
+TXN00477,PAT0530,2022-07-19,Radiology Scan,2249.85,Credit Card,Completed
+TXN00478,PAT0111,2023-12-03,Consultation,2328.01,Credit Card,Completed
+TXN00479,PAT0419,2024-07-16,Surgery,1247.58,Insurance,Completed
+TXN00480,PAT0341,2022-06-13,Consultation,4068.73,Debit Card,Completed
+TXN00481,PAT0544,2023-07-19,Physiotherapy,1515.18,Cheque,Completed
+TXN00482,PAT0117,2025-12-12,Room Charges,143.45,UPI,Completed
+TXN00483,PAT0358,2024-12-24,Vaccination,3388.3,Insurance,Completed
+TXN00484,PAT0440,2025-05-05,Pharmacy,2490.95,Credit Card,Completed
+TXN00485,PAT0006,2023-11-15,Room Charges,4998.8,Cheque,Pending
+TXN00486,PAT0206,2025-05-28,Emergency Care,799.79,Cheque,Failed
+TXN00487,PAT0451,2023-06-05,Emergency Care,4450.39,Insurance,Pending
+TXN00488,PAT0081,2023-12-25,Ambulance Service,339.09,Credit Card,Pending
+TXN00489,PAT0487,2022-02-08,Consultation,306.75,Debit Card,Completed
+TXN00490,PAT0436,2022-07-25,Pharmacy,4826.1,Bank Transfer,Completed
+TXN00491,PAT0070,2026-06-17,Surgery,271.88,UPI,Completed
+TXN00492,PAT0479,2022-09-12,Pharmacy,206.01,Bank Transfer,Completed
+TXN00493,PAT0600,2023-04-29,Vaccination,3846.0,UPI,Completed
+TXN00494,PAT0577,2026-03-31,Pharmacy,2879.36,Debit Card,Completed
+TXN00495,PAT0068,2023-10-11,Lab Test,230.64,UPI,Completed
+TXN00496,PAT0039,2026-07-13,Ambulance Service,1502.19,Cheque,Completed
+TXN00497,PAT0509,2024-03-19,Ambulance Service,2655.36,Insurance,Completed
+TXN00498,PAT0067,2023-02-11,Physiotherapy,2959.78,Bank Transfer,Completed
+TXN00499,PAT0425,2024-02-22,Ambulance Service,2791.58,Debit Card,Completed
+TXN00500,PAT0392,2022-07-23,Lab Test,1097.09,Debit Card,Refunded
+TXN00501,PAT0497,2024-09-09,Ambulance Service,1345.55,Credit Card,Pending
+TXN00502,PAT0331,2024-06-13,Lab Test,1070.46,Bank Transfer,Refunded
+TXN00503,PAT0297,2025-04-08,Ambulance Service,4561.61,UPI,Completed
+TXN00504,PAT0016,2022-05-18,Pharmacy,842.41,Insurance,Pending
+TXN00505,PAT0143,2022-02-23,Room Charges,2347.0,UPI,Completed
+TXN00506,PAT0554,2026-09-26,Lab Test,546.34,Insurance,Completed
+TXN00507,PAT0163,2025-09-15,Consultation,3161.51,Bank Transfer,Completed
+TXN00508,PAT0098,2026-10-07,Vaccination,4719.7,Cheque,Completed
+TXN00509,PAT0379,2025-11-02,Ambulance Service,2866.38,UPI,Completed
+TXN00510,PAT0599,2024-07-07,Lab Test,4489.29,Cash,Refunded
+TXN00511,PAT0023,2026-02-05,Vaccination,2528.17,UPI,Refunded
+TXN00512,PAT0521,2022-03-04,Surgery,4853.13,Insurance,Pending
+TXN00513,PAT0312,2024-12-31,Lab Test,820.37,Cash,Completed
+TXN00514,PAT0365,2024-12-04,Vaccination,3692.48,Credit Card,Completed
+TXN00515,PAT0451,2024-11-04,Radiology Scan,2199.59,Cash,Completed
+TXN00516,PAT0064,2026-07-21,Consultation,1312.31,Cash,Completed
+TXN00517,PAT0328,2024-08-27,Surgery,4147.48,Credit Card,Pending
+TXN00518,PAT0390,2025-02-27,Surgery,1511.79,Insurance,Completed
+TXN00519,PAT0087,2022-11-20,Vaccination,4457.13,Bank Transfer,Pending
+TXN00520,PAT0277,2026-06-09,Lab Test,3007.51,Insurance,Completed
+TXN00521,PAT0517,2022-11-05,Physiotherapy,3636.5,Insurance,Completed
+TXN00522,PAT0489,2025-09-23,Consultation,1350.33,UPI,Completed
+TXN00523,PAT0121,2023-06-14,Surgery,3954.78,Insurance,Completed
+TXN00524,PAT0438,2022-04-01,Physiotherapy,4499.94,Bank Transfer,Completed
+TXN00525,PAT0500,2023-08-05,Vaccination,2799.77,Debit Card,Completed
+TXN00526,PAT0363,2022-08-08,Physiotherapy,2913.55,Cheque,Pending
+TXN00527,PAT0408,2023-01-08,Pharmacy,3207.19,UPI,Failed
+TXN00528,PAT0290,2026-09-07,Ambulance Service,1894.05,UPI,Completed
+TXN00529,PAT0272,2025-06-06,Emergency Care,147.59,Insurance,Completed
+TXN00530,PAT0156,2022-05-13,Physiotherapy,77.84,UPI,Completed
+TXN00531,PAT0396,2022-10-19,Lab Test,4906.51,Debit Card,Completed
+TXN00532,PAT0249,2026-08-18,Emergency Care,1390.58,UPI,Completed
+TXN00533,PAT0515,2025-03-21,Room Charges,1344.27,Insurance,Completed
+TXN00534,PAT0514,2023-04-12,Ambulance Service,224.62,Insurance,Completed
+TXN00535,PAT0265,2024-03-20,Physiotherapy,773.67,Cheque,Completed
+TXN00536,PAT0590,2022-05-20,Emergency Care,129.83,Cheque,Completed
+TXN00537,PAT0308,2022-06-01,Room Charges,4993.58,Cash,Completed
+TXN00538,PAT0255,2024-01-03,Ambulance Service,3207.68,Credit Card,Refunded
+TXN00539,PAT0210,2026-01-03,Emergency Care,557.64,Credit Card,Completed
+TXN00540,PAT0418,2022-01-01,Radiology Scan,949.17,Credit Card,Completed
+TXN00541,PAT0261,2023-10-20,Vaccination,2565.0,Insurance,Completed
+TXN00542,PAT0023,2022-12-06,Radiology Scan,4534.02,Debit Card,Completed
+TXN00543,PAT0508,2022-10-24,Pharmacy,640.36,Cash,Completed
+TXN00544,PAT0033,2026-11-23,Room Charges,3491.13,Debit Card,Completed
+TXN00545,PAT0581,2024-05-02,Emergency Care,4228.74,Insurance,Completed
+TXN00546,PAT0496,2026-03-11,Surgery,3866.55,Credit Card,Completed
+TXN00547,PAT0552,2025-03-19,Vaccination,3159.82,UPI,Completed
+TXN00548,PAT0003,2026-11-10,Emergency Care,2319.39,UPI,Completed
+TXN00549,PAT0279,2022-06-13,Physiotherapy,1368.93,UPI,Pending
+TXN00550,PAT0108,2026-06-01,Room Charges,4201.88,UPI,Completed
+TXN00551,PAT0404,2025-07-07,Emergency Care,4736.98,UPI,Completed
+TXN00552,PAT0552,2025-06-18,Room Charges,3500.43,UPI,Completed
+TXN00553,PAT0563,2024-06-20,Pharmacy,4652.94,Insurance,Completed
+TXN00554,PAT0093,2023-11-02,Radiology Scan,2949.99,Debit Card,Pending
+TXN00555,PAT0051,2022-08-15,Surgery,3076.21,Bank Transfer,Completed
+TXN00556,PAT0185,2022-04-30,Physiotherapy,4973.53,Credit Card,Completed
+TXN00557,PAT0391,2026-12-26,Consultation,1769.28,Cash,Completed
+TXN00558,PAT0433,2025-10-30,Consultation,1150.8,UPI,Completed
+TXN00559,PAT0569,2026-07-12,Emergency Care,1051.56,Debit Card,Completed
+TXN00560,PAT0129,2022-07-24,Vaccination,2904.76,Debit Card,Completed
+TXN00561,PAT0058,2024-02-16,Physiotherapy,58.24,Cash,Completed
+TXN00562,PAT0587,2023-09-09,Lab Test,1507.59,UPI,Completed
+TXN00563,PAT0049,2023-08-24,Emergency Care,4993.23,Bank Transfer,Pending
+TXN00564,PAT0571,2025-06-10,Emergency Care,2168.07,Insurance,Completed
+TXN00565,PAT0447,2023-06-21,Lab Test,91.49,Cheque,Failed
+TXN00566,PAT0323,2024-05-17,Radiology Scan,2460.35,Insurance,Completed
+TXN00567,PAT0030,2025-03-15,Physiotherapy,3916.93,Debit Card,Completed
+TXN00568,PAT0227,2023-01-29,Vaccination,4030.22,Cash,Completed
+TXN00569,PAT0249,2026-10-22,Radiology Scan,1305.28,Insurance,Pending
+TXN00570,PAT0134,2026-10-16,Lab Test,3856.72,Debit Card,Completed
+TXN00571,PAT0056,2022-08-11,Emergency Care,3170.47,UPI,Completed
+TXN00572,PAT0235,2022-04-20,Consultation,3480.07,Bank Transfer,Completed
+TXN00573,PAT0192,2022-08-31,Lab Test,777.74,Credit Card,Refunded
+TXN00574,PAT0463,2024-05-26,Physiotherapy,3475.87,Insurance,Completed
+TXN00575,PAT0138,2026-04-14,Radiology Scan,3074.1,Insurance,Completed
+TXN00576,PAT0081,2022-12-29,Pharmacy,3551.52,Cash,Completed
+TXN00577,PAT0516,2026-07-28,Pharmacy,2676.38,UPI,Completed
+TXN00578,PAT0062,2022-01-13,Vaccination,94.77,Insurance,Completed
+TXN00579,PAT0406,2024-09-12,Physiotherapy,4958.35,Credit Card,Completed
+TXN00580,PAT0082,2022-12-21,Ambulance Service,2985.71,Debit Card,Completed
+TXN00581,PAT0014,2026-07-01,Pharmacy,2241.65,Bank Transfer,Completed
+TXN00582,PAT0270,2026-10-13,Lab Test,3200.2,Insurance,Completed
+TXN00583,PAT0114,2022-12-04,Consultation,1035.38,Debit Card,Completed
+TXN00584,PAT0491,2023-12-02,Room Charges,2161.82,Bank Transfer,Completed
+TXN00585,PAT0396,2026-11-10,Vaccination,259.51,UPI,Completed
+TXN00586,PAT0173,2024-01-25,Pharmacy,4740.98,Credit Card,Completed
+TXN00587,PAT0127,2025-10-07,Vaccination,3479.69,Credit Card,Completed
+TXN00588,PAT0260,2024-01-12,Pharmacy,254.8,Bank Transfer,Failed
+TXN00589,PAT0261,2023-09-18,Radiology Scan,1440.33,Insurance,Completed
+TXN00590,PAT0150,2026-11-17,Room Charges,4230.64,Cash,Completed
+TXN00591,PAT0199,2022-11-12,Physiotherapy,1441.62,UPI,Completed
+TXN00592,PAT0504,2025-10-29,Ambulance Service,3672.53,Cash,Completed
+TXN00593,PAT0408,2026-04-14,Room Charges,1229.62,Debit Card,Completed
+TXN00594,PAT0171,2024-09-29,Lab Test,172.91,Cheque,Pending
+TXN00595,PAT0552,2024-02-17,Lab Test,4101.85,Insurance,Completed
+TXN00596,PAT0013,2025-09-03,Vaccination,322.68,Cheque,Completed
+TXN00597,PAT0397,2023-05-21,Consultation,1289.55,Bank Transfer,Completed
+TXN00598,PAT0034,2024-03-02,Ambulance Service,4971.76,Credit Card,Completed
+TXN00599,PAT0559,2024-10-27,Lab Test,1348.49,Credit Card,Completed
+TXN00600,PAT0236,2026-12-10,Pharmacy,78.84,Cheque,Failed
+TXN00601,PAT0107,2024-11-20,Surgery,3581.47,Insurance,Completed
+TXN00602,PAT0518,2023-08-10,Vaccination,4526.91,Cheque,Completed
+TXN00603,PAT0177,2023-07-26,Pharmacy,1286.88,Bank Transfer,Refunded
+TXN00604,PAT0268,2023-06-21,Emergency Care,286.37,UPI,Completed
+TXN00605,PAT0548,2026-12-06,Radiology Scan,3448.4,Insurance,Completed
+TXN00606,PAT0223,2024-07-11,Vaccination,553.62,Bank Transfer,Completed
+TXN00607,PAT0329,2023-05-09,Ambulance Service,634.2,UPI,Completed
+TXN00608,PAT0515,2024-11-15,Pharmacy,4373.18,Bank Transfer,Completed
+TXN00609,PAT0582,2025-04-01,Emergency Care,4941.1,UPI,Completed
+TXN00610,PAT0159,2026-12-18,Ambulance Service,323.39,Debit Card,Completed
+TXN00611,PAT0137,2026-09-12,Physiotherapy,541.18,Cheque,Completed
+TXN00612,PAT0141,2023-06-04,Emergency Care,1178.1,Cheque,Completed
+TXN00613,PAT0554,2026-03-12,Emergency Care,3558.15,Credit Card,Completed
+TXN00614,PAT0209,2026-08-31,Vaccination,3250.51,UPI,Completed
+TXN00615,PAT0534,2023-04-28,Room Charges,2848.71,Cash,Completed
+TXN00616,PAT0116,2025-08-16,Vaccination,2509.85,Insurance,Failed
+TXN00617,PAT0161,2026-12-11,Ambulance Service,1066.25,Credit Card,Completed
+TXN00618,PAT0528,2022-04-12,Ambulance Service,2794.09,Credit Card,Completed
+TXN00619,PAT0125,2022-04-02,Surgery,94.22,Credit Card,Completed
+TXN00620,PAT0003,2022-02-03,Surgery,3464.49,Insurance,Completed
+TXN00621,PAT0389,2022-08-23,Consultation,4552.0,UPI,Pending
+TXN00622,PAT0572,2026-07-01,Physiotherapy,3580.03,Cash,Completed
+TXN00623,PAT0086,2026-08-02,Pharmacy,962.97,Insurance,Completed
+TXN00624,PAT0296,2022-05-07,Room Charges,4490.75,Debit Card,Failed
+TXN00625,PAT0250,2025-08-06,Surgery,2956.37,Cheque,Completed
+TXN00626,PAT0495,2023-07-20,Emergency Care,3919.53,Cheque,Pending
+TXN00627,PAT0142,2023-02-04,Radiology Scan,1560.46,Cheque,Refunded
+TXN00628,PAT0324,2026-09-01,Surgery,193.65,Credit Card,Completed
+TXN00629,PAT0018,2024-07-25,Emergency Care,4581.68,Cash,Completed
+TXN00630,PAT0286,2023-11-06,Ambulance Service,1908.36,Cheque,Completed
+TXN00631,PAT0021,2025-11-12,Consultation,2190.84,Bank Transfer,Completed
+TXN00632,PAT0276,2022-07-08,Surgery,84.95,Bank Transfer,Completed
+TXN00633,PAT0380,2023-09-05,Surgery,3550.61,Bank Transfer,Pending
+TXN00634,PAT0231,2023-08-01,Consultation,4042.66,UPI,Completed
+TXN00635,PAT0409,2025-06-11,Ambulance Service,1358.95,UPI,Completed
+TXN00636,PAT0536,2025-06-13,Consultation,1849.08,UPI,Completed
+TXN00637,PAT0441,2024-05-09,Vaccination,1027.46,UPI,Completed
+TXN00638,PAT0548,2026-01-26,Ambulance Service,2831.72,Insurance,Completed
+TXN00639,PAT0471,2026-05-27,Consultation,2649.21,UPI,Completed
+TXN00640,PAT0569,2024-12-01,Ambulance Service,609.2,UPI,Refunded
+TXN00641,PAT0497,2026-05-20,Ambulance Service,381.79,Cash,Completed
+TXN00642,PAT0440,2023-01-05,Radiology Scan,2278.6,Cash,Completed
+TXN00643,PAT0387,2022-02-17,Ambulance Service,1199.0,Cash,Failed
+TXN00644,PAT0136,2024-06-02,Radiology Scan,2283.67,Bank Transfer,Completed
+TXN00645,PAT0573,2026-08-29,Lab Test,1913.1,Debit Card,Refunded
+TXN00646,PAT0567,2026-10-17,Consultation,3810.04,UPI,Completed
+TXN00647,PAT0143,2022-05-30,Physiotherapy,1818.81,UPI,Completed
+TXN00648,PAT0121,2024-08-01,Physiotherapy,2295.45,Bank Transfer,Completed
+TXN00649,PAT0142,2024-09-26,Pharmacy,1937.78,Credit Card,Completed
+TXN00650,PAT0099,2025-01-14,Vaccination,740.37,Cash,Completed
+TXN00651,PAT0413,2022-10-10,Emergency Care,1346.03,Credit Card,Completed
+TXN00652,PAT0489,2023-11-16,Vaccination,2946.42,Insurance,Completed
+TXN00653,PAT0271,2026-01-16,Radiology Scan,1346.68,Credit Card,Completed
+TXN00654,PAT0567,2023-12-11,Pharmacy,1876.79,Cheque,Pending
+TXN00655,PAT0327,2024-06-10,Vaccination,649.57,Cheque,Completed
+TXN00656,PAT0130,2026-09-26,Radiology Scan,2494.79,Cash,Completed
+TXN00657,PAT0019,2026-02-12,Consultation,335.58,Insurance,Completed
+TXN00658,PAT0351,2024-04-19,Pharmacy,4754.18,Insurance,Completed
+TXN00659,PAT0140,2023-07-25,Physiotherapy,4959.56,UPI,Completed
+TXN00660,PAT0574,2025-06-05,Radiology Scan,4439.37,Cheque,Completed
+TXN00661,PAT0060,2022-07-02,Physiotherapy,2610.45,Cheque,Completed
+TXN00662,PAT0165,2025-11-11,Pharmacy,3591.04,Credit Card,Completed
+TXN00663,PAT0430,2022-05-29,Emergency Care,4709.16,UPI,Failed
+TXN00664,PAT0383,2022-01-13,Physiotherapy,348.24,Cheque,Completed
+TXN00665,PAT0576,2025-08-06,Consultation,475.5,UPI,Completed
+TXN00666,PAT0002,2025-06-04,Lab Test,4222.33,Cheque,Completed
+TXN00667,PAT0089,2023-10-08,Lab Test,2148.47,Bank Transfer,Pending
+TXN00668,PAT0372,2023-04-11,Physiotherapy,285.14,UPI,Completed
+TXN00669,PAT0045,2022-03-09,Physiotherapy,372.98,Insurance,Completed
+TXN00670,PAT0016,2022-01-10,Physiotherapy,1297.0,Bank Transfer,Pending
+TXN00671,PAT0089,2026-12-02,Vaccination,2878.53,Debit Card,Completed
+TXN00672,PAT0336,2025-12-02,Pharmacy,1150.48,Bank Transfer,Completed
+TXN00673,PAT0582,2024-12-04,Physiotherapy,2077.76,UPI,Completed
+TXN00674,PAT0423,2023-12-07,Lab Test,2983.99,Debit Card,Refunded
+TXN00675,PAT0119,2024-04-26,Surgery,4797.49,Cheque,Completed
+TXN00676,PAT0145,2024-08-29,Room Charges,4027.77,Cheque,Completed
+TXN00677,PAT0219,2026-04-28,Surgery,196.9,Debit Card,Completed
+TXN00678,PAT0361,2026-05-06,Vaccination,3326.66,Insurance,Completed
+TXN00679,PAT0188,2022-05-21,Physiotherapy,4464.16,Credit Card,Refunded
+TXN00680,PAT0369,2024-06-15,Pharmacy,2629.61,Cheque,Completed
+TXN00681,PAT0156,2024-05-11,Vaccination,321.17,Cheque,Completed
+TXN00682,PAT0559,2024-06-10,Consultation,3731.75,Insurance,Completed
+TXN00683,PAT0562,2023-03-25,Pharmacy,4457.16,UPI,Completed
+TXN00684,PAT0561,2023-09-14,Lab Test,1603.24,Credit Card,Completed
+TXN00685,PAT0306,2024-04-11,Lab Test,2710.16,Debit Card,Completed
+TXN00686,PAT0457,2026-07-30,Physiotherapy,4636.52,Bank Transfer,Completed
+TXN00687,PAT0369,2024-07-08,Ambulance Service,1691.11,Cash,Completed
+TXN00688,PAT0407,2022-11-23,Room Charges,2831.56,Bank Transfer,Pending
+TXN00689,PAT0035,2025-01-12,Radiology Scan,4513.52,Debit Card,Completed
+TXN00690,PAT0506,2025-07-12,Pharmacy,3658.49,Bank Transfer,Refunded
+TXN00691,PAT0105,2026-12-27,Room Charges,516.65,Cash,Refunded
+TXN00692,PAT0474,2026-05-15,Vaccination,4708.19,Cash,Completed
+TXN00693,PAT0020,2022-10-19,Radiology Scan,4031.1,Bank Transfer,Failed
+TXN00694,PAT0399,2022-04-21,Lab Test,857.59,Cash,Completed
+TXN00695,PAT0380,2023-04-24,Radiology Scan,4091.51,Debit Card,Completed
+TXN00696,PAT0086,2025-10-29,Lab Test,4991.09,Cash,Completed
+TXN00697,PAT0187,2024-06-15,Radiology Scan,3928.97,UPI,Completed
+TXN00698,PAT0061,2022-01-22,Lab Test,4302.46,Cheque,Pending
+TXN00699,PAT0052,2022-06-11,Radiology Scan,572.75,Credit Card,Pending
+TXN00700,PAT0188,2026-12-05,Radiology Scan,4833.73,Bank Transfer,Completed
+TXN00701,PAT0266,2024-06-20,Ambulance Service,1712.13,Insurance,Completed
+TXN00702,PAT0505,2022-07-24,Physiotherapy,3526.84,Cheque,Completed
+TXN00703,PAT0564,2022-04-12,Radiology Scan,3547.32,UPI,Completed
+TXN00704,PAT0029,2023-04-18,Surgery,259.76,Insurance,Completed
+TXN00705,PAT0222,2023-09-15,Consultation,1032.25,UPI,Completed
+TXN00706,PAT0285,2023-12-15,Lab Test,4689.68,Credit Card,Completed
+TXN00707,PAT0519,2025-06-06,Pharmacy,340.76,UPI,Completed
+TXN00708,PAT0097,2023-03-30,Radiology Scan,4404.89,UPI,Pending
+TXN00709,PAT0559,2024-01-06,Radiology Scan,3804.63,Credit Card,Failed
+TXN00710,PAT0581,2023-11-29,Lab Test,247.61,Insurance,Completed
+TXN00711,PAT0061,2024-04-14,Physiotherapy,2855.58,UPI,Completed
+TXN00712,PAT0020,2024-03-25,Ambulance Service,2153.8,Cheque,Completed
+TXN00713,PAT0076,2025-01-24,Emergency Care,3591.3,Insurance,Completed
+TXN00714,PAT0248,2024-09-07,Vaccination,1349.94,Bank Transfer,Completed
+TXN00715,PAT0224,2025-09-18,Room Charges,2859.97,Debit Card,Completed
+TXN00716,PAT0384,2026-11-01,Room Charges,122.15,Insurance,Completed
+TXN00717,PAT0387,2026-04-03,Lab Test,1684.19,Cash,Completed
+TXN00718,PAT0357,2026-08-24,Consultation,382.94,Credit Card,Refunded
+TXN00719,PAT0321,2023-06-07,Lab Test,4496.24,Credit Card,Completed
+TXN00720,PAT0471,2025-01-05,Pharmacy,935.18,Cash,Completed
+TXN00721,PAT0587,2025-12-09,Lab Test,1109.8,Credit Card,Completed
+TXN00722,PAT0098,2022-05-23,Consultation,3691.4,Cash,Completed
+TXN00723,PAT0432,2026-09-15,Consultation,1793.72,Cash,Completed
+TXN00724,PAT0554,2025-02-12,Emergency Care,2561.97,Credit Card,Completed
+TXN00725,PAT0120,2022-07-01,Emergency Care,1975.06,Credit Card,Completed
+TXN00726,PAT0007,2023-07-31,Radiology Scan,4789.29,Insurance,Completed
+TXN00727,PAT0577,2025-02-13,Vaccination,2266.72,Cheque,Completed
+TXN00728,PAT0191,2022-06-29,Lab Test,2975.23,UPI,Completed
+TXN00729,PAT0320,2022-12-10,Emergency Care,251.2,Cheque,Completed
+TXN00730,PAT0184,2026-06-21,Consultation,4426.03,Credit Card,Completed
+TXN00731,PAT0363,2024-12-02,Lab Test,407.13,Insurance,Refunded
+TXN00732,PAT0026,2025-11-24,Ambulance Service,647.89,Insurance,Completed
+TXN00733,PAT0353,2026-09-21,Lab Test,1143.74,Cheque,Completed
+TXN00734,PAT0186,2023-01-23,Emergency Care,3508.11,Credit Card,Completed
+TXN00735,PAT0176,2022-05-19,Radiology Scan,4536.38,UPI,Completed
+TXN00736,PAT0535,2025-03-19,Physiotherapy,3619.49,Bank Transfer,Completed
+TXN00737,PAT0097,2024-06-07,Surgery,3868.56,UPI,Completed
+TXN00738,PAT0549,2024-01-31,Radiology Scan,2760.19,Cash,Completed
+TXN00739,PAT0321,2025-03-11,Physiotherapy,3457.53,Insurance,Completed
+TXN00740,PAT0097,2024-02-21,Vaccination,2593.48,Bank Transfer,Completed
+TXN00741,PAT0348,2023-04-30,Physiotherapy,2684.19,Cheque,Completed
+TXN00742,PAT0222,2022-05-18,Vaccination,4895.87,UPI,Failed
+TXN00743,PAT0521,2025-04-06,Physiotherapy,4498.09,Cheque,Completed
+TXN00744,PAT0340,2026-12-12,Pharmacy,4333.84,Bank Transfer,Completed
+TXN00745,PAT0527,2022-10-10,Lab Test,3617.46,Insurance,Completed
+TXN00746,PAT0056,2022-12-30,Vaccination,1084.48,Debit Card,Completed
+TXN00747,PAT0235,2022-10-05,Lab Test,314.61,Cash,Completed
+TXN00748,PAT0499,2023-07-25,Room Charges,3661.09,Bank Transfer,Pending
+TXN00749,PAT0113,2022-05-16,Emergency Care,4870.21,Debit Card,Completed
+TXN00750,PAT0201,2025-12-06,Consultation,3372.17,Bank Transfer,Completed
+TXN00751,PAT0014,2022-09-19,Consultation,3177.54,Cash,Completed
+TXN00752,PAT0153,2023-03-25,Lab Test,670.31,Insurance,Completed
+TXN00753,PAT0131,2025-11-25,Surgery,1233.62,Bank Transfer,Completed
+TXN00754,PAT0134,2024-10-27,Surgery,2101.28,Cash,Completed
+TXN00755,PAT0406,2023-02-08,Consultation,3417.27,Cheque,Completed
+TXN00756,PAT0237,2026-08-24,Physiotherapy,2295.45,Debit Card,Completed
+TXN00757,PAT0599,2022-07-16,Ambulance Service,2695.6,Credit Card,Completed
+TXN00758,PAT0024,2025-08-27,Lab Test,4953.53,Cash,Completed
+TXN00759,PAT0076,2024-08-19,Pharmacy,1903.04,UPI,Completed
+TXN00760,PAT0163,2025-04-07,Vaccination,1106.49,Cheque,Completed
+TXN00761,PAT0254,2026-09-21,Vaccination,4109.47,Cash,Completed
+TXN00762,PAT0402,2022-11-29,Lab Test,2846.1,Cheque,Pending
+TXN00763,PAT0122,2024-05-09,Physiotherapy,89.68,Cash,Completed
+TXN00764,PAT0571,2026-12-18,Radiology Scan,4844.82,Insurance,Pending
+TXN00765,PAT0403,2024-08-01,Consultation,1928.16,Bank Transfer,Completed
+TXN00766,PAT0157,2022-06-22,Ambulance Service,2570.48,Insurance,Completed
+TXN00767,PAT0062,2023-09-13,Ambulance Service,1448.96,Cheque,Completed
+TXN00768,PAT0308,2025-09-05,Consultation,2216.06,Insurance,Completed
+TXN00769,PAT0202,2025-11-03,Pharmacy,3031.2,Credit Card,Completed
+TXN00770,PAT0582,2024-05-03,Radiology Scan,62.51,Bank Transfer,Completed
+TXN00771,PAT0172,2024-07-18,Room Charges,664.79,Credit Card,Completed
+TXN00772,PAT0445,2026-12-12,Surgery,460.53,Credit Card,Completed
+TXN00773,PAT0421,2025-09-24,Lab Test,4599.78,Bank Transfer,Completed
+TXN00774,PAT0569,2025-11-25,Radiology Scan,1347.44,Credit Card,Completed
+TXN00775,PAT0528,2026-10-08,Vaccination,3188.44,Cash,Completed
+TXN00776,PAT0505,2025-05-01,Ambulance Service,508.47,UPI,Failed
+TXN00777,PAT0152,2025-08-02,Room Charges,3627.29,Cheque,Completed
+TXN00778,PAT0585,2025-10-30,Emergency Care,1333.08,Credit Card,Completed
+TXN00779,PAT0246,2026-12-23,Lab Test,3606.42,Debit Card,Failed
+TXN00780,PAT0192,2026-12-26,Radiology Scan,3340.22,Debit Card,Completed
+TXN00781,PAT0231,2023-05-18,Pharmacy,4747.19,Cheque,Completed
+TXN00782,PAT0247,2022-06-08,Surgery,3537.9,Debit Card,Pending
+TXN00783,PAT0542,2024-10-19,Emergency Care,159.39,Bank Transfer,Completed
+TXN00784,PAT0479,2026-05-14,Emergency Care,4582.37,UPI,Completed
+TXN00785,PAT0512,2023-11-09,Physiotherapy,2018.86,Bank Transfer,Pending
+TXN00786,PAT0275,2026-01-18,Radiology Scan,4736.01,Debit Card,Refunded
+TXN00787,PAT0448,2024-01-30,Ambulance Service,2371.5,Cheque,Completed
+TXN00788,PAT0396,2026-01-31,Ambulance Service,3889.07,Insurance,Refunded
+TXN00789,PAT0066,2024-06-01,Room Charges,4531.6,Credit Card,Completed
+TXN00790,PAT0352,2023-08-08,Radiology Scan,130.19,Bank Transfer,Failed
+TXN00791,PAT0587,2023-11-12,Ambulance Service,4586.98,Debit Card,Completed
+TXN00792,PAT0350,2023-01-15,Emergency Care,2987.8,Debit Card,Completed
+TXN00793,PAT0381,2025-03-25,Emergency Care,1997.43,Cheque,Completed
+TXN00794,PAT0116,2026-10-14,Room Charges,87.46,Cheque,Refunded
+TXN00795,PAT0140,2023-05-06,Radiology Scan,3889.06,UPI,Refunded
+TXN00796,PAT0273,2023-01-07,Emergency Care,630.25,Cheque,Completed
+TXN00797,PAT0272,2025-08-25,Vaccination,2925.94,Credit Card,Completed
+TXN00798,PAT0162,2024-04-30,Surgery,1518.97,Debit Card,Pending
+TXN00799,PAT0219,2026-01-11,Consultation,2274.97,Insurance,Completed
+TXN00800,PAT0469,2023-04-08,Surgery,4806.03,Bank Transfer,Failed
+TXN00801,PAT0031,2024-12-29,Surgery,2488.5,UPI,Pending
+TXN00802,PAT0172,2022-10-18,Surgery,415.42,Bank Transfer,Completed
+TXN00803,PAT0095,2025-02-14,Pharmacy,1605.31,Credit Card,Completed
+TXN00804,PAT0287,2026-02-22,Lab Test,2176.07,UPI,Completed
+TXN00805,PAT0266,2023-07-01,Physiotherapy,262.07,Insurance,Completed
+TXN00806,PAT0168,2026-11-17,Consultation,3463.67,Insurance,Completed
+TXN00807,PAT0152,2023-04-01,Physiotherapy,2324.74,Credit Card,Completed
+TXN00808,PAT0410,2025-10-28,Radiology Scan,2045.55,Credit Card,Completed
+TXN00809,PAT0115,2023-07-25,Consultation,3235.61,Cash,Failed
+TXN00810,PAT0366,2026-07-28,Lab Test,4072.08,UPI,Completed
+TXN00811,PAT0377,2023-10-29,Vaccination,3298.26,Cash,Completed
+TXN00812,PAT0156,2024-09-17,Lab Test,3652.85,Cash,Completed
+TXN00813,PAT0328,2024-08-06,Room Charges,617.18,Cash,Completed
+TXN00814,PAT0233,2025-03-20,Surgery,3850.81,Credit Card,Completed
+TXN00815,PAT0542,2026-07-09,Surgery,2482.0,Credit Card,Failed
+TXN00816,PAT0204,2022-09-07,Room Charges,1902.86,Debit Card,Completed
+TXN00817,PAT0158,2024-11-27,Emergency Care,896.53,Bank Transfer,Completed
+TXN00818,PAT0191,2025-03-24,Physiotherapy,3924.78,Debit Card,Completed
+TXN00819,PAT0383,2025-06-14,Radiology Scan,4139.69,Cheque,Completed
+TXN00820,PAT0219,2023-04-26,Lab Test,861.5,Bank Transfer,Completed
+TXN00821,PAT0454,2023-04-10,Ambulance Service,966.72,UPI,Completed
+TXN00822,PAT0179,2022-01-03,Pharmacy,1830.68,Insurance,Completed
+TXN00823,PAT0228,2026-05-21,Radiology Scan,1143.0,Credit Card,Completed
+TXN00824,PAT0090,2024-11-04,Radiology Scan,4860.52,Insurance,Completed
+TXN00825,PAT0051,2025-02-02,Physiotherapy,246.9,Credit Card,Completed
+TXN00826,PAT0510,2026-06-02,Surgery,3827.17,Cheque,Completed
+TXN00827,PAT0205,2024-02-20,Consultation,511.38,Insurance,Completed
+TXN00828,PAT0406,2022-07-24,Radiology Scan,3231.13,Cheque,Refunded
+TXN00829,PAT0228,2025-02-17,Vaccination,3167.96,Credit Card,Completed
+TXN00830,PAT0505,2025-09-26,Emergency Care,4616.75,Cheque,Completed
+TXN00831,PAT0265,2026-05-16,Emergency Care,2402.81,Debit Card,Completed
+TXN00832,PAT0269,2022-09-26,Lab Test,1064.9,Credit Card,Refunded
+TXN00833,PAT0157,2022-10-18,Lab Test,4599.82,UPI,Completed
+TXN00834,PAT0109,2026-03-25,Ambulance Service,1474.34,Credit Card,Completed
+TXN00835,PAT0580,2022-11-12,Lab Test,909.62,Debit Card,Completed
+TXN00836,PAT0387,2023-01-10,Ambulance Service,4964.66,Debit Card,Completed
+TXN00837,PAT0051,2024-03-08,Room Charges,4168.92,Bank Transfer,Completed
+TXN00838,PAT0491,2026-11-06,Room Charges,352.01,Bank Transfer,Completed
+TXN00839,PAT0057,2023-07-11,Emergency Care,3424.7,Insurance,Completed
+TXN00840,PAT0242,2022-01-13,Physiotherapy,3351.63,Credit Card,Pending
+TXN00841,PAT0313,2026-05-01,Surgery,3272.94,Debit Card,Completed
+TXN00842,PAT0074,2023-03-27,Emergency Care,889.08,Bank Transfer,Completed
+TXN00843,PAT0294,2025-09-21,Emergency Care,1161.61,Cheque,Completed
+TXN00844,PAT0375,2024-03-01,Surgery,1582.88,Debit Card,Completed
+TXN00845,PAT0047,2024-01-11,Radiology Scan,1272.11,Cash,Completed
+TXN00846,PAT0069,2024-01-25,Surgery,2152.03,Bank Transfer,Completed
+TXN00847,PAT0080,2025-03-05,Radiology Scan,1663.14,Debit Card,Completed
+TXN00848,PAT0094,2025-03-26,Emergency Care,2970.28,Credit Card,Completed
+TXN00849,PAT0462,2025-01-25,Physiotherapy,1801.61,Credit Card,Completed
+TXN00850,PAT0001,2026-07-20,Lab Test,110.44,Credit Card,Completed
+TXN00851,PAT0163,2025-09-27,Consultation,374.18,Cheque,Completed
+TXN00852,PAT0099,2022-10-06,Surgery,765.36,Cash,Failed
+TXN00853,PAT0586,2023-05-14,Emergency Care,4531.57,UPI,Completed
+TXN00854,PAT0545,2025-03-06,Physiotherapy,2041.8,UPI,Refunded
+TXN00855,PAT0486,2023-03-18,Surgery,841.57,Insurance,Pending
+TXN00856,PAT0237,2022-06-13,Ambulance Service,4925.75,Credit Card,Completed
+TXN00857,PAT0399,2025-10-14,Consultation,2312.7,Debit Card,Completed
+TXN00858,PAT0544,2024-12-31,Ambulance Service,2386.27,UPI,Completed
+TXN00859,PAT0243,2026-09-18,Room Charges,4704.71,Bank Transfer,Completed
+TXN00860,PAT0317,2023-02-20,Surgery,3021.04,Bank Transfer,Completed
+TXN00861,PAT0337,2023-09-25,Room Charges,173.77,UPI,Completed
+TXN00862,PAT0593,2025-07-28,Radiology Scan,924.81,Cash,Completed
+TXN00863,PAT0163,2022-09-05,Ambulance Service,364.88,Cheque,Completed
+TXN00864,PAT0358,2024-09-22,Emergency Care,1375.99,Debit Card,Completed
+TXN00865,PAT0468,2026-06-26,Pharmacy,2410.09,Bank Transfer,Completed
+TXN00866,PAT0144,2024-05-11,Vaccination,2332.05,Debit Card,Completed
+TXN00867,PAT0446,2024-10-13,Emergency Care,1502.76,Insurance,Completed
+TXN00868,PAT0317,2026-12-18,Surgery,2110.55,Credit Card,Completed
+TXN00869,PAT0356,2024-05-23,Consultation,1299.52,Debit Card,Completed
+TXN00870,PAT0417,2023-05-16,Radiology Scan,1587.38,Credit Card,Completed
+TXN00871,PAT0039,2025-04-20,Emergency Care,4875.76,UPI,Completed
+TXN00872,PAT0191,2024-08-09,Physiotherapy,413.81,Bank Transfer,Completed
+TXN00873,PAT0367,2022-10-09,Ambulance Service,3485.81,Credit Card,Completed
+TXN00874,PAT0051,2025-11-23,Radiology Scan,2975.95,Bank Transfer,Completed
+TXN00875,PAT0377,2023-12-18,Surgery,824.33,Credit Card,Completed
+TXN00876,PAT0212,2024-05-23,Pharmacy,1189.16,Cash,Pending
+TXN00877,PAT0297,2024-12-10,Ambulance Service,4252.7,Cheque,Completed
+TXN00878,PAT0344,2025-06-06,Emergency Care,1756.43,Debit Card,Completed
+TXN00879,PAT0446,2023-05-23,Pharmacy,4862.43,Cheque,Completed
+TXN00880,PAT0300,2026-03-07,Room Charges,1550.81,Debit Card,Completed
+TXN00881,PAT0313,2025-06-07,Surgery,1989.7,UPI,Completed
+TXN00882,PAT0249,2026-09-04,Pharmacy,1393.42,Insurance,Completed
+TXN00883,PAT0589,2026-12-10,Pharmacy,4387.83,Debit Card,Completed
+TXN00884,PAT0575,2022-12-17,Lab Test,1138.15,UPI,Completed
+TXN00885,PAT0431,2022-09-20,Ambulance Service,3620.29,Bank Transfer,Failed
+TXN00886,PAT0590,2025-10-02,Vaccination,3219.88,UPI,Completed
+TXN00887,PAT0277,2022-07-24,Room Charges,805.31,Cash,Refunded
+TXN00888,PAT0585,2024-07-01,Lab Test,324.8,Credit Card,Completed
+TXN00889,PAT0491,2026-04-09,Consultation,2405.07,Debit Card,Pending
+TXN00890,PAT0532,2023-12-14,Room Charges,1449.59,Bank Transfer,Completed
+TXN00891,PAT0380,2023-11-21,Physiotherapy,4005.76,Credit Card,Pending
+TXN00892,PAT0129,2022-03-18,Room Charges,70.6,Debit Card,Completed
+TXN00893,PAT0444,2026-10-04,Pharmacy,1919.88,Cash,Completed
+TXN00894,PAT0229,2025-03-06,Consultation,4118.34,Credit Card,Pending
+TXN00895,PAT0365,2022-08-07,Lab Test,3898.35,Credit Card,Completed
+TXN00896,PAT0473,2023-11-14,Emergency Care,4324.31,UPI,Completed
+TXN00897,PAT0402,2023-01-25,Radiology Scan,2920.1,Bank Transfer,Completed
+TXN00898,PAT0483,2022-01-05,Vaccination,4700.8,Cheque,Completed
+TXN00899,PAT0588,2025-06-02,Room Charges,4723.02,Debit Card,Completed
+TXN00900,PAT0566,2023-09-04,Room Charges,1311.69,Debit Card,Completed
