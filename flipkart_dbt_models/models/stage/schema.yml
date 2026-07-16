@@ -129,3 +129,137 @@ models:
         data_type: varchar(36)
       - name: batch_id
         data_type: varchar(36)
+  - name: products_stg
+    config:
+      contract:
+        enforced: true
+    columns:
+      - name: product_id
+        data_type: varchar(36)
+        constraints:
+          - type: not_null
+          - type: primary_key
+      - name: name
+        data_type: varchar(200)
+      - name: category
+        data_type: varchar(100)
+      - name: brand
+        data_type: varchar(100)
+      - name: unit_price
+        data_type: numeric(10, 2)
+      - name: available_quantity
+        data_type: integer
+      - name: status
+        data_type: varchar(20)
+      - name: source_system
+        data_type: varchar(50)
+      - name: dq_flag
+        data_type: varchar(20)
+      - name: dw_created_date
+        data_type: timestamp
+      - name: dw_modified_date
+        data_type: timestamp
+      - name: dw_created_by
+        data_type: varchar(100)
+      - name: dw_modified_by
+        data_type: varchar(100)
+      - name: run_id
+        data_type: varchar(36)
+      - name: batch_id
+        data_type: varchar(36)
+  - name: orders_stg
+    config:
+      contract:
+        enforced: true
+    columns:
+      - name: order_id
+        data_type: varchar(36)
+        constraints:
+          - type: not_null
+          - type: primary_key
+      - name: product_id
+        data_type: varchar(36)
+        constraints:
+          - type: not_null
+      - name: customer_id
+        data_type: varchar(36)
+        constraints:
+          - type: not_null
+      - name: order_date
+        data_type: timestamp
+      - name: quantity
+        data_type: integer
+      - name: unit_price
+        data_type: numeric(10, 2)
+      - name: total_amount
+        data_type: numeric(10, 2)
+      - name: order_status
+        data_type: varchar(20)
+      - name: payment_method
+        data_type: varchar(20)
+      - name: source_system
+        data_type: varchar(50)
+      - name: dq_flag
+        data_type: varchar(20)
+      - name: dw_created_date
+        data_type: timestamp
+      - name: dw_modified_date
+        data_type: timestamp
+      - name: dw_created_by
+        data_type: varchar(100)
+      - name: dw_modified_by
+        data_type: varchar(100)
+      - name: run_id
+        data_type: varchar(36)
+      - name: batch_id
+        data_type: varchar(36)
+  - name: transactions_stg
+    config:
+      contract:
+        enforced: true
+    columns:
+      - name: transaction_id
+        data_type: varchar(36)
+        constraints:
+          - type: not_null
+          - type: primary_key
+      - name: order_id
+        data_type: varchar(36)
+        constraints:
+          - type: not_null
+      - name: customer_id
+        data_type: varchar(36)
+        constraints:
+          - type: not_null
+      - name: transaction_date
+        data_type: timestamp
+      - name: amount
+        data_type: numeric(10, 2)
+      - name: payment_method
+        data_type: varchar(20)
+      - name: transaction_type
+        data_type: varchar(20)
+      - name: transaction_status
+        data_type: varchar(20)
+      - name: payment_gateway
+        data_type: varchar(50)
+      - name: gateway_reference_id
+        data_type: varchar(100)
+      - name: currency
+        data_type: varchar(10)
+      - name: source_system
+        data_type: varchar(50)
+      - name: dq_flag
+        data_type: varchar(20)
+      - name: dw_created_date
+        data_type: timestamp
+      - name: dw_modified_date
+        data_type: timestamp
+      - name: dw_created_by
+        data_type: varchar(100)
+      - name: dw_modified_by
+        data_type: varchar(100)
+      - name: run_id
+        data_type: varchar(36)
+      - name: batch_id
+        data_type: varchar(36)
