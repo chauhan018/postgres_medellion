@@ -4,14 +4,24 @@ from dotenv import load_dotenv
 import pandas as pd
 import uuid
 import io
+#from pathlib import Path
 
 load_dotenv()
 
-csv_path = "ingestion/data/address_src.csv"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+csv_path = os.path.join(SCRIPT_DIR, "data", "address_src.csv")
+
+
+
+#SCRIPT_DIR = Path(__file__).resolve().parent
+#csv_path = SCRIPT_DIR / "data" / "address_src.csv"
+
+
 table_name = "flipkart_raw.address_raw"
 run_id = str(uuid.uuid4())
 batch_id = str(uuid.uuid4())
 created_by = "python_ingestion_script"
+
 
 def build_dataframe_from_csv(csv_path):
     dataset = pd.read_csv(csv_path)
@@ -25,7 +35,12 @@ def build_dataframe_from_csv(csv_path):
 
 def load_to_postgres(dataset: pd.DataFrame):
     conn = psycopg2.connect(
-    os.environ["NEON_CONN_STRING"]
+    host=os.environ["DB_HOST"],
+    port=os.environ["DB_PORT"],
+    user=os.environ["DB_USER"],
+    password=os.environ["DB_PASSWORD"],
+    dbname=os.environ["DB_NAME"],
+    sslmode="require",
     )
     cur = conn.cursor()
 

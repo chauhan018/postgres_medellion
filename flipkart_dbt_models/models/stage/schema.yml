@@ -1,0 +1,43 @@
+version: 2
+
+models:
+  - name: customers_stg
+    config:
+      contract:
+        enforced: true
+    columns:
+      - name: customer_id
+        data_type: varchar(36)
+        constraints:
+          - type: not_null
+          - type: primary_key
+      - name: first_name
+        data_type: varchar(100)
+      - name: last_name
+        data_type: varchar(100)
+      - name: gender
+        data_type: varchar(10)
+      - name: date_of_birth
+        data_type: date
+      - name: registration_date
+        data_type: date
+      - name: customer_type
+        data_type: varchar(20)
+      - name: status
+        data_type: varchar(20)
+      - name: source_system
+        data_type: varchar(50)
+      - name: dq_flag
+        data_type: varchar(20)
+      - name: dw_created_date
+        data_type: timestamp
+      - name: dw_modified_date
+        data_type: timestamp
+      - name: dw_created_by
+        data_type: varchar(100)
+      - name: dw_modified_by
+        data_type: varchar(100)
+      - name: run_id
+        data_type: varchar(36)
+      - name: batch_id
+        data_type: varchar(36)

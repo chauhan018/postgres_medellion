@@ -34,3 +34,9 @@ models:
     # Config indicated by + and applies to all files under models/example/
     example:
       +materialized: view
+    stage:
+      +materialized: view
+      +schema: flipkart_stg
+    core:
+      +materialized: view
+      +schema: flipkart_core

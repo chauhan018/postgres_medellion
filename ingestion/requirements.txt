@@ -1,7 +1,10 @@
 os
 json
 requests
-psycopg2
+psycopg2-binary
 datetime
 dotenv 
 pandas
+io
+uuid
+pathlib

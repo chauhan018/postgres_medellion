@@ -7,7 +7,8 @@ import io
 
 load_dotenv()
 
-csv_path = "ingestion/data/orders_src.csv"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+csv_path = os.path.join(SCRIPT_DIR, "data", "orders_src.csv")
 table_name = "flipkart_raw.orders_raw"
 run_id = str(uuid.uuid4())
 batch_id = str(uuid.uuid4())
@@ -25,7 +26,12 @@ def build_dataframe_from_csv(csv_path):
 
 def load_to_postgres(dataset: pd.DataFrame):
     conn = psycopg2.connect(
-    os.environ["NEON_CONN_STRING"]
+    host=os.environ["DB_HOST"],
+    port=os.environ["DB_PORT"],
+    user=os.environ["DB_USER"],
+    password=os.environ["DB_PASSWORD"],
+    dbname=os.environ["DB_NAME"],
+    sslmode="require",
     )
     cur = conn.cursor()
 
