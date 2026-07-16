@@ -1,0 +1,95 @@
+version: 2
+
+sources:
+  - name: flipkart_raw
+    schema: flipkart_raw
+    description: "Raw tables loaded as-is from source CSVs via the Python ingestion scripts. No cleaning or business logic applied at this layer."
+
+    loaded_at_field: dw_modified_date
+
+    freshness:
+      warn_after: {count: 24, period: hour}
+      error_after: {count: 48, period: hour}
+
+    tables:
+      - name: customers_raw
+        description: "One row per customer, as loaded from customers_src.csv."
+        columns:
+          - name: customer_id
+            description: "Unique identifier for a customer."
+            tests:
+              - not_null
+          - name: dq_flag
+            tests:
+              - accepted_values:
+                  values: ["valid", "invalid", "duplicate"]
+
+      - name: contact_raw
+        description: "One row per customer contact method (email/phone), multiple rows possible per customer."
+        columns:
+          - name: contact_id
+            tests:
+              - not_null
+          - name: customer_id
+            tests:
+              - not_null
+          - name: dq_flag
+            tests:
+              - accepted_values:
+                  values: ["valid", "invalid", "duplicate"]
+
+      - name: address_raw
+        description: "One row per customer address, multiple rows possible per customer."
+        columns:
+          - name: address_id
+            tests:
+              - not_null
+          - name: customer_id
+            tests:
+              - not_null
+          - name: dq_flag
+            tests:
+              - accepted_values:
+                  values: ["valid", "invalid", "duplicate"]
+
+      - name: products_raw
+        description: "One row per product."
+        columns:
+          - name: product_id
+            tests:
+              - not_null
+          - name: dq_flag
+            tests:
+              - accepted_values:
+                  values: ["valid", "invalid", "duplicate"]
+
+      - name: orders_raw
+        description: "One row per order line item."
+        columns:
+          - name: order_id
+            tests:
+              - not_null
+          - name: customer_id
+            tests:
+              - not_null
+          - name: product_id
+            tests:
+              - not_null
+          - name: dq_flag
+            tests:
+              - accepted_values:
+                  values: ["valid", "invalid", "duplicate"]
+
+      - name: transactions_raw
+        description: "One row per payment transaction, linked to an order."
+        columns:
+          - name: transaction_id
+            tests:
+              - not_null
+          - name: order_id
+            tests:
+              - not_null
+          - name: dq_flag
+            tests:
+              - accepted_values:
+                  values: ["valid", "invalid", "duplicate"]
