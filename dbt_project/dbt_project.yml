@@ -1,0 +1,12 @@
+lokesh_project:
+  outputs:
+    dev:
+      dbname: neondb
+      host: ep-old-grass-ahacuyb0-pooler.c-3.us-east-1.aws.neon.tech
+      pass: npg_JL0uSwFB4bNv
+      port: 5432
+      schema: public
+      threads: 4
+      type: postgres
+      user: neondb_owner
+  target: dev
