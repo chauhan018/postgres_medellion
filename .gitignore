@@ -17,3 +17,4 @@ target/
 # OS/editor junk
 .DS_Store
 .vscode/
+dbt_project/
