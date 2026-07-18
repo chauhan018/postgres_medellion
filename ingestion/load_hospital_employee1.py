@@ -2,13 +2,11 @@ import pandas as pd, os
 from sqlalchemy import create_engine, text
 from dotenv import load_dotenv
 load_dotenv()
- 
+
 engine = create_engine(f"postgresql://{os.getenv('PGUSER')}:{os.getenv('PGPASSWORD')}@{os.getenv('PGHOST')}:{os.getenv('PGPORT','5432')}/{os.getenv('PGDATABASE')}?sslmode=require")
 df = pd.read_csv("data/hospital_employee.csv", dtype=str, keep_default_na=False)
-df["hire_date"] = pd.to_datetime(df["hire_date"], dayfirst=True, errors="coerce").dt.strftime("%Y-%m-%d")
-df["load_ts"] = pd.Timestamp.now("UTC")
-df = df.replace("", None)
- 
+df["load_ts"] = pd.Timestamp.utcnow()
+
 with engine.begin() as conn:
     conn.execute(text("TRUNCATE raw_lok.hospital_employee"))
     df.to_sql("hospital_employee", conn, schema="raw_lok", if_exists="append", index=False)

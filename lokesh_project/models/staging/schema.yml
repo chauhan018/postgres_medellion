@@ -1,0 +1,22 @@
+version: 2
+ 
+models:
+  - name: stg_hospital_employee
+    columns:
+      - name: employee_id
+        tests: [unique, not_null]
+ 
+  - name: stg_doctors_record
+    columns:
+      - name: doctor_id
+        tests: [unique, not_null]
+ 
+  - name: stg_patient
+    columns:
+      - name: patient_id
+        tests: [unique, not_null]
+ 
+  - name: stg_transaction
+    columns:
+      - name: transaction_id
+        tests: [unique, not_null]

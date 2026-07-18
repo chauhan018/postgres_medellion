@@ -1,5 +1,5 @@
 version: 2
-
+ 
 sources:
   - name: raw_lok
     schema: raw_lok
@@ -8,3 +8,4 @@ sources:
       - name: doctors_record
       - name: patient
       - name: transaction
+ 
