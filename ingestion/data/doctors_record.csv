@@ -1,16 +1,9 @@
 doctor_id,first_name,last_name,specialization,license_number,department,years_experience,phone,email,consultation_fee
-DOC0001,Samantha,Jackson,Dermatologist,LIC-810189,ENT,1,555-3316,samantha.jackson16@hospitaldocs.com,64.62
-DOC0002,Pamela,Kim,Urologist,LIC-663244,Ophthalmology,6,555-5992,pamela.kim27@hospitaldocs.com,311.9
-DOC0003,Raymond,Hall,Emergency Medicine Specialist,LIC-532699,Endocrinology,10,555-3637,raymond.hall24@hospitaldocs.com,127.28
-DOC0004,Steven,Harris,Pediatrician,LIC-290167,Anesthesiology,4,555-9992,steven.harris60@hospitaldocs.com,275.64
-DOC0005,Elizabeth,Nguyen,Orthopedic Surgeon,LIC-362865,Pediatrics,13,555-8982,elizabeth.nguyen43@hospitaldocs.com,175
-DOC0006,Christine,Walker,Pediatrician,LIC-398987,ICU,5,555-4170,christine.walker41@hospitaldocs.com,220.05
-DOC0007,Kevin,Ward,Dermatologist,LIC-827143,Anesthesiology,10,555-6971,kevin.ward41@hospitaldocs.com,385.53
-DOC0008,Nancy,Smith,Psychiatrist,LIC-358133,General Surgery,28,555-5533,nancy.smith47@hospitaldocs.com,97.01
-DOC0009,Janet,Nelson,Nephrologist,LIC-585331,Pulmonology,23,555-6004,janet.nelson63@hospitaldocs.com,243.09
-DOC0010,Daniel,Cox,Orthopedic Surgeon,LIC-982683,Gynecology,9,555-9824,daniel.cox26@hospitaldocs.com,142.13
-DOC0011,Benjamin,Martinez,Orthopedic Surgeon,LIC-119535,Endocrinology,2,555-7637,benjamin.martinez99@hospitaldocs.com,256.51
-DOC0012,Robert,Peterson,Gynecologist,LIC-669868,Ophthalmology,31,555-3435,robert.peterson47@hospitaldocs.com,187.37
-DOC0013,Jerry,Ramos,Dermatologist,LIC-240384,Pulmonology,33,555-9362,jerry.ramos12@hospitaldocs.com,188.87
-DOC0014,Nicholas,Johnson,General Surgeon,LIC-989173,ICU,11,555-9423,nicholas.johnson18@hospitaldocs.com,206.18
-DOC0015,Daniel,Reed,Anesthesiologist,LIC-791444,Oncology,31,555-6878,daniel.reed6@hospitaldocs.com,126.59
+DOC0029,Nicholas,Turner,Oncologist,LIC-734924,Pediatrics,12,555-8796,nicholas.turner79@hospitaldocs.com,259.93
+DOC0030,Jonathan,Cook,Pediatrician,LIC-197716,Nephrology,9,555-9835,jonathan.cook1@hospitaldocs.com,363.94
+DOC0031,Diane,Parker,Endocrinologist,LIC-541119,ENT,3,555-9680,diane.parker55@hospitaldocs.com,130.32
+DOC0032,Kathleen,Carter,ENT Specialist,LIC-717661,Anesthesiology,7,555-7971,kathleen.carter18@hospitaldocs.com,139.08
+DOC0033,Jerry,Robinson,Orthopedic Surgeon,LIC-397026,ICU,35,555-7695,jerry.robinson33@hospitaldocs.com,116.16
+DOC0034,Patrick,Smith,Anesthesiologist,LIC-647923,Pediatrics,34,555-1117,patrick.smith49@hospitaldocs.com,279.09
+DOC0035,Frank,Green,Gastroenterologist,LIC-479867,Pediatrics,10,555-7980,frank.green84@hospitaldocs.com,254.88
+DOC0036,Kimberly,Morgan,Gastroenterologist,LIC-692099,ENT,18,555-7511,kimberly.morgan97@hospitaldocs.com,121.29

@@ -1,26 +1,26 @@
 transaction_id,patient_id,transaction_date,service_type,amount,payment_method,status
-TXN00001,PAT0146,25-10-2026,Emergency Care,1407,Credit Card,Completed
-TXN00002,PAT0320,08-12-2022,Vaccination,352.56,Cheque,Completed
-TXN00003,PAT0054,18-03-2025,Lab Test,1455.45,Insurance,Failed
-TXN00004,PAT0172,29-04-2023,Consultation,4042.49,Credit Card,Completed
-TXN00005,PAT0079,18-05-2022,Surgery,1359.84,Cheque,Completed
-TXN00006,PAT0128,15-05-2026,Physiotherapy,2776.12,Debit Card,Completed
-TXN00007,PAT0157,28-12-2024,Lab Test,1243.32,Cash,Completed
-TXN00008,PAT0176,19-04-2026,Pharmacy,2575.96,Cash,Completed
-TXN00009,PAT0059,17-03-2024,Lab Test,851.67,Insurance,Completed
-TXN00010,PAT0136,11-05-2023,Ambulance Service,4174.71,UPI,Completed
-TXN00011,PAT0474,19-05-2023,Physiotherapy,892.22,Cash,Completed
-TXN00012,PAT0166,03-08-2025,Ambulance Service,3777.48,Cash,Refunded
-TXN00013,PAT0140,02-01-2022,Pharmacy,2314.65,Cheque,Completed
-TXN00014,PAT0405,01-02-2025,Vaccination,3636.65,UPI,Completed
-TXN00015,PAT0533,26-12-2023,Ambulance Service,2895.81,Cheque,Completed
-TXN00016,PAT0258,08-12-2024,Emergency Care,851.14,Cheque,Completed
-TXN00017,PAT0038,28-02-2023,Surgery,3007,Debit Card,Pending
-TXN00018,PAT0119,22-05-2025,Emergency Care,1925.21,Debit Card,Completed
-TXN00019,PAT0323,24-09-2024,Room Charges,3756.55,Credit Card,Completed
-TXN00020,PAT0151,10-07-2024,Ambulance Service,3956.81,Bank Transfer,Completed
-TXN00021,PAT0310,22-03-2024,Room Charges,728.73,Credit Card,Failed
-TXN00022,PAT0259,23-09-2024,Emergency Care,2342.42,Insurance,Completed
-TXN00023,PAT0210,06-08-2024,Lab Test,2090.68,Cash,Completed
-TXN00024,PAT0150,03-08-2025,Surgery,1491.18,Cash,Completed
-TXN00025,PAT0396,22-12-2026,Emergency Care,409.05,Debit Card,Completed
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

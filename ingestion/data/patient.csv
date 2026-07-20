@@ -1,24 +1,11 @@
 patient_id,first_name,last_name,date_of_birth,gender,blood_group,phone,address,city,admission_date,discharge_date,diagnosis,assigned_doctor_id
-PAT0001,Melissa,Green,09-12-1956,Male,B-,555-9773,302 2nd Ave,Bristol,12-05-2025,23-05-2025,Cataract,DOC0055
-PAT0002,Benjamin,Scott,06-08-1980,Other,O-,555-4428,745 Main St,Newport,23-11-2026,,Allergic Rhinitis,DOC0067
-PAT0003,Nancy,Rogers,22-05-2002,Other,AB-,555-9168,532 Oak Ln,Salem,05-03-2024,16-03-2024,Coronary Artery Disease,DOC0383
-PAT0004,Shirley,Morris,27-01-1959,Other,O+,555-1599,213 2nd Ave,Madison,05-01-2026,13-01-2026,Skin Infection,DOC0241
-PAT0005,Ronald,Ramirez,05-04-1986,Male,AB-,555-5170,564 Main St,Greenville,19-09-2023,26-09-2023,Bronchitis,DOC0087
-PAT0006,Donna,Cruz,10-09-1938,Female,AB-,555-7981,462 Oak Ln,Manchester,28-11-2024,08-12-2024,Thyroid Disorder,DOC0377
-PAT0007,Amy,Green,17-08-1974,Male,AB+,555-2243,368 Main St,Arlington,14-07-2023,17-07-2023,Hepatitis B,DOC0514
-PAT0008,Angela,Cooper,19-10-1959,Male,A-,555-2942,74 Park Rd,Riverside,11-08-2025,,Anxiety Disorder,DOC0206
-PAT0009,Kevin,Sanchez,09-11-2001,Other,AB+,555-4123,723 Lake Dr,Greenville,14-10-2025,19-10-2025,Tuberculosis,DOC0268
-PAT0010,Mary,Hill,25-03-1971,Female,A+,555-8733,670 Lake Dr,Greenville,01-08-2023,14-08-2023,Tuberculosis,DOC0408
-PAT0011,Sandra,Robinson,20-12-1955,Other,O-,555-8559,349 Main St,Bristol,21-01-2026,29-01-2026,Tuberculosis,DOC0193
-PAT0012,Jason,Turner,06-02-1985,Male,AB-,555-3276,592 2nd Ave,Arlington,06-03-2023,20-03-2023,Cholelithiasis,DOC0010
-PAT0013,Amy,Rivera,10-07-1996,Female,AB+,555-6342,602 Main St,Riverside,27-11-2023,04-12-2023,Conjunctivitis,DOC0143
-PAT0014,Karen,Nelson,22-12-2016,Other,O+,555-7247,210 Oak Ln,Fairview,09-03-2025,19-03-2025,Anxiety Disorder,DOC0396
-PAT0015,Matthew,Stewart,29-04-1992,Female,A-,555-3808,107 Lake Dr,Salem,11-08-2022,19-08-2022,Type 2 Diabetes,DOC0501
-PAT0016,Patricia,White,24-05-2021,Female,AB+,555-4373,239 Park Rd,Fairview,12-02-2023,,Skin Infection,DOC0059
-PAT0017,Melissa,Gutierrez,15-08-2016,Female,O+,555-3572,114 2nd Ave,Manchester,23-01-2022,06-02-2022,Arthritis,DOC0071
-PAT0018,Deborah,Clark,10-10-1973,Other,O-,555-3601,619 Lake Dr,Arlington,24-09-2022,29-09-2022,Malaria,DOC0208
-PAT0019,Nicholas,Collins,27-12-1974,Male,O+,555-5044,539 Park Rd,Newport,19-07-2023,22-07-2023,Skin Infection,DOC0474
-PAT0020,Pamela,Garcia,24-12-1992,Female,AB-,555-5873,401 Lake Dr,Salem,18-02-2026,,Thyroid Disorder,DOC0256
-PAT0021,Daniel,Richardson,18-09-2016,Other,B+,555-2565,403 Main St,Georgetown,10-02-2026,17-02-2026,Sinusitis,DOC0162
-PAT0022,Emily,Morgan,16-08-1997,Other,B-,555-9085,422 Lake Dr,Franklin,21-08-2023,23-08-2023,Chronic Bronchitis,DOC0079
-PAT0023,Dennis,Wilson,17-10-1971,Female,B+,555-5141,213 Lake Dr,Riverside,30-10-2024,05-11-2024,Skin Infection,DOC0028
+PAT0146,Ronald,Cook,08-02-2000,Female,B+,555-2595,340 Oak Ln,Franklin,04-02-2023,11-02-2023,Depression,DOC0154
+PAT0147,Patricia,Ramos,11-12-2012,Male,AB+,555-3641,156 Oak Ln,Fairview,19-06-2026,29-06-2026,Sinusitis,DOC0096
+PAT0148,Carolyn,Robinson,10-09-1993,Male,B+,555-9218,529 Lake Dr,Bristol,17-12-2026,28-12-2026,Skin Infection,DOC0135
+PAT0149,Carol,Nguyen,04-08-1938,Other,O+,555-4917,214 Lake Dr,Fairview,08-01-2024,15-01-2024,Pneumonia,DOC0510
+PAT0150,Richard,Johnson,01-02-1984,Male,O-,555-2541,466 Park Rd,Salem,20-10-2022,25-10-2022,Conjunctivitis,DOC0303
+PAT0151,Christopher,Rodriguez,02-01-1943,Male,B+,555-8548,265 Oak Ln,Clinton,28-07-2023,03-08-2023,Bronchitis,DOC0453
+PAT0152,Katherine,Moore,21-07-1938,Female,AB+,555-7568,419 Lake Dr,Greenville,11-09-2022,19-09-2022,Skin Infection,DOC0376
+PAT0153,Angela,Richardson,26-01-1972,Other,O-,555-5306,899 Main St,Riverside,05-10-2023,16-10-2023,Cholelithiasis,DOC0251
+PAT0154,Rachel,Bailey,28-01-1961,Female,B+,555-7541,875 Main St,Georgetown,17-01-2022,19-01-2022,Anemia,DOC0474
+PAT0155,Christine,Lopez,03-01-1983,Female,A-,555-2406,185 Main St,Burlington,16-12-2023,27-12-2023,Bronchitis,DOC0444
